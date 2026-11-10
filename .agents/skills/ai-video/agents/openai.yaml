@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Video"
+  short_description: "Create resource-aware AI reels and explainers"
+  default_prompt: "Use $ai-video to create a coherent reel from my brief using local or verified free tools."

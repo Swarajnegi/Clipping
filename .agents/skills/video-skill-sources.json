@@ -1,0 +1,50 @@
+[
+  {
+    "repo": "remotion-dev/skills",
+    "revision": "6c67adcd9cdbe6eb84d76342da89b225f9161cb2",
+    "path": "skills/remotion-best-practices",
+    "skill": "remotion-best-practices",
+    "upstream_skill_sha256": "23c5c52d379ccca73dfdc644b700bf0286518c842b3bb61441c675d1c14f8eca",
+    "frontmatter_adaptation": {
+      "upstream_version": "4.0.538"
+    }
+  },
+  {
+    "repo": "remotion-dev/skills",
+    "revision": "6c67adcd9cdbe6eb84d76342da89b225f9161cb2",
+    "path": "skills/remotion-captions",
+    "skill": "remotion-captions",
+    "upstream_skill_sha256": "8d08dc238f3df6c6a4ed1aaa9c30bf5e4a5fde3fa4d248db29992b94f10d45ab",
+    "frontmatter_adaptation": {
+      "upstream_version": "4.0.538"
+    }
+  },
+  {
+    "repo": "remotion-dev/skills",
+    "revision": "6c67adcd9cdbe6eb84d76342da89b225f9161cb2",
+    "path": "skills/remotion-render",
+    "skill": "remotion-render",
+    "upstream_skill_sha256": "e63ccad00121c09c0b25279187f3065b60b3bd5f86d7cb01c5d8b65a641c5ca7",
+    "frontmatter_adaptation": {
+      "upstream_version": "4.0.538"
+    }
+  },
+  {
+    "repo": "wheresryan22/anatomy",
+    "revision": "1482e8469b0a9e0d8cc18ea2740a01423d29ae80",
+    "path": ".",
+    "skill": "anatomy",
+    "upstream_skill_sha256": "3423ada45a05033bb6e320dfc3b3ac832569969a5afb059bbfc9096c5cf0c71b",
+    "frontmatter_adaptation": {
+      "upstream_compatibility": "Written for Claude Code; also runs in Antigravity, OpenCode, Codex and MiniMax Code. Needs Node.js 20.10+, and Chrome or Chromium for the checks."
+    }
+  },
+  {
+    "repo": "Creatorberry/flick",
+    "revision": "4442fe355644317aafbe15c55ea3fbcd0217cd8d",
+    "path": "skills/flick",
+    "skill": "flick",
+    "upstream_skill_sha256": "50093a1b78124ae6d4c76333c714d4a6d51647b87f81a9c67b0be395088f1334",
+    "local_adaptation": "D-drive storage, existing runtime, shared guard, conditional scene exports, no promotion"
+  }
+]

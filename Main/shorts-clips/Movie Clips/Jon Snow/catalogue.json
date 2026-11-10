@@ -1,0 +1,820 @@
+{
+  "source": "Jon Snow - Game of Thrones S04 [2014] - [REMUX 4K HEVC-H265] - chaszq.mp4",
+  "source_bytes": 4754267188,
+  "source_resolution": [
+    3840,
+    2160
+  ],
+  "source_frame_rate": "24000/1001",
+  "time_basis": "seconds in the supplied local scenepack",
+  "posting_reuse_basis": "Unresolved. Local review assets.",
+  "clips": [
+    {
+      "file": "00209745-jon-turns-in-the-shadowed-room.mp4",
+      "source_start": 209.745,
+      "source_end_exclusive": 215.2505,
+      "duration": 5.505,
+      "frames": 132,
+      "tags": [
+        "reflection",
+        "listening",
+        "doubt"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 7556033,
+      "editorial": {
+        "action": "Jon turns in the shadowed room.",
+        "cues": [
+          "reflection",
+          "listening",
+          "hesitation"
+        ],
+        "mood": [
+          "quiet",
+          "attentive",
+          "uncertain"
+        ],
+        "framing": "Silhouette or low light",
+        "fit": "Possible use for taking a moment to think or taking in what someone says.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "00485250-training-yard-through-a-wooden-gate.mp4",
+      "source_start": 485.25,
+      "source_end_exclusive": 489.462542,
+      "duration": 4.212542,
+      "frames": 101,
+      "tags": [
+        "anticipation",
+        "setting",
+        "observation"
+      ],
+      "review": "Timestamped contact-sheet review",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 10783968,
+      "editorial": {
+        "action": "Training yard through a wooden gate.",
+        "cues": [
+          "anticipation"
+        ],
+        "mood": [
+          "anticipatory"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for waiting for the outcome.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Timestamped contact-sheet review"
+        }
+      }
+    },
+    {
+      "file": "00491100-wide-shot-of-sparring-in-the-yard.mp4",
+      "source_start": 491.1,
+      "source_end_exclusive": 495.187417,
+      "duration": 4.087,
+      "frames": 98,
+      "tags": [
+        "practice",
+        "effort",
+        "preparation"
+      ],
+      "review": "Timestamped contact-sheet review",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 9162251,
+      "editorial": {
+        "action": "Wide shot of sparring in the yard.",
+        "cues": [
+          "focus",
+          "repetition",
+          "resolve"
+        ],
+        "mood": [
+          "focused",
+          "determined"
+        ],
+        "framing": "Wide or establishing",
+        "fit": "Possible use for giving a task your full attention or putting in the same work again.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Timestamped contact-sheet review"
+        }
+      }
+    },
+    {
+      "file": "00496100-figures-cross-the-snowy-yard.mp4",
+      "source_start": 496.1,
+      "source_end_exclusive": 499.6035,
+      "duration": 3.503,
+      "frames": 84,
+      "tags": [
+        "arrival",
+        "walking",
+        "winter"
+      ],
+      "review": "Timestamped contact-sheet review",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 6848012,
+      "editorial": {
+        "action": "Figures cross the snowy yard.",
+        "cues": [
+          "transition"
+        ],
+        "mood": [],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for moving into a new situation.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Timestamped contact-sheet review"
+        }
+      }
+    },
+    {
+      "file": "00503100-crowd-forms-around-jon.mp4",
+      "source_start": 503.1,
+      "source_end_exclusive": 506.311542,
+      "duration": 3.211542,
+      "frames": 77,
+      "tags": [
+        "belonging",
+        "pressure",
+        "watchfulness"
+      ],
+      "review": "Timestamped contact-sheet review",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 5449639,
+      "editorial": {
+        "action": "Crowd forms around jon.",
+        "cues": [
+          "pressure",
+          "focus"
+        ],
+        "mood": [
+          "tense",
+          "focused"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for feeling the stakes rise or giving a task your full attention.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Timestamped contact-sheet review"
+        }
+      }
+    },
+    {
+      "file": "00509000-night-watch-training-yard.mp4",
+      "source_start": 509,
+      "source_end_exclusive": 514.005,
+      "duration": 5.005,
+      "frames": 120,
+      "tags": [
+        "preparation",
+        "spectators",
+        "practice"
+      ],
+      "review": "Timestamped contact-sheet review",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 8349270,
+      "editorial": {
+        "action": "Night watch training yard.",
+        "cues": [
+          "focus",
+          "repetition"
+        ],
+        "mood": [
+          "focused"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for giving a task your full attention or putting in the same work again.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Timestamped contact-sheet review"
+        }
+      }
+    },
+    {
+      "file": "00514900-jon-braces-against-a-sword-strike.mp4",
+      "source_start": 514.9,
+      "source_end_exclusive": 516.610042,
+      "duration": 1.710042,
+      "frames": 41,
+      "tags": [
+        "pressure",
+        "defense",
+        "practice"
+      ],
+      "review": "Timestamped contact-sheet review",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 3532020,
+      "editorial": {
+        "action": "Two fighters cross blades as one braces against the other's movement.",
+        "cues": [
+          "conflict",
+          "repetition"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Medium training action",
+        "fit": "Possible use for meeting resistance or putting in the same work again.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "excerpt_seconds": [
+            0.257,
+            0.855,
+            1.454
+          ],
+          "sheet": "pilot-06.jpg"
+        }
+      }
+    },
+    {
+      "file": "00518650-jon-counters-in-training.mp4",
+      "source_start": 518.65,
+      "source_end_exclusive": 520.735417,
+      "duration": 2.085417,
+      "frames": 50,
+      "tags": [
+        "adjusting",
+        "countering",
+        "composure"
+      ],
+      "review": "Timestamped contact-sheet review",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 2127282,
+      "editorial": {
+        "action": "Jon counters in training.",
+        "cues": [
+          "resolve"
+        ],
+        "mood": [
+          "determined"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for deciding to keep going.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Timestamped contact-sheet review"
+        }
+      }
+    },
+    {
+      "file": "00523000-jon-gets-back-up-in-training.mp4",
+      "source_start": 523,
+      "source_end_exclusive": 527.212542,
+      "duration": 4.212542,
+      "frames": 101,
+      "tags": [
+        "recovery",
+        "practice",
+        "persistence"
+      ],
+      "review": "Timestamped contact-sheet review",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 7164846,
+      "editorial": {
+        "action": "Jon is low in the frame during sparring and reappears upright facing the group.",
+        "cues": [
+          "recovery",
+          "setback",
+          "repetition"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Low-lit moving training frame",
+        "fit": "Use for trying again after failure or for resetting between exchanges. Check the mid-shot occlusion.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "excerpt_seconds": [
+            0.0,
+            1.0,
+            2.5,
+            3.5
+          ],
+          "sheet": "examples-11.jpg"
+        }
+      }
+    },
+    {
+      "file": "00528300-sparring-partners-square-up-again.mp4",
+      "source_start": 528.3,
+      "source_end_exclusive": 532.095458,
+      "duration": 3.795,
+      "frames": 91,
+      "tags": [
+        "persistence",
+        "reset",
+        "anticipation"
+      ],
+      "review": "Timestamped contact-sheet review",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 6700927,
+      "editorial": {
+        "action": "Sparring partners square up again.",
+        "cues": [
+          "resolve",
+          "recovery",
+          "anticipation"
+        ],
+        "mood": [
+          "determined",
+          "resilient",
+          "anticipatory"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for deciding to keep going or regrouping before the next attempt.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Timestamped contact-sheet review"
+        }
+      }
+    },
+    {
+      "file": "00538200-young-spectator-lowers-his-gaze.mp4",
+      "source_start": 538.2,
+      "source_end_exclusive": 540.410542,
+      "duration": 2.21,
+      "frames": 53,
+      "tags": [
+        "doubt",
+        "reflection",
+        "disappointment"
+      ],
+      "review": "Timestamped contact-sheet review",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 3711794,
+      "editorial": {
+        "action": "Young spectator lowers his gaze.",
+        "cues": [
+          "hesitation",
+          "reflection",
+          "setback"
+        ],
+        "mood": [
+          "uncertain",
+          "quiet"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for being unsure of the next move or taking a moment to think.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Timestamped contact-sheet review"
+        }
+      }
+    },
+    {
+      "file": "00549738-man-crosses-the-yard-by-the-stairs.mp4",
+      "source_start": 549.738,
+      "source_end_exclusive": 555.2435,
+      "duration": 5.505,
+      "frames": 132,
+      "tags": [
+        "walking",
+        "anticipation",
+        "winter"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 12758371,
+      "editorial": {
+        "action": "Man crosses the yard by the stairs.",
+        "cues": [
+          "anticipation"
+        ],
+        "mood": [
+          "anticipatory"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for waiting for the outcome.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "00634736-small-group-gathers-in-the-yard.mp4",
+      "source_start": 634.736,
+      "source_end_exclusive": 640.2415,
+      "duration": 5.5055,
+      "frames": 132,
+      "tags": [
+        "teamwork",
+        "waiting",
+        "conversation"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 9929299,
+      "editorial": {
+        "action": "Several figures move past a snowy stone building.",
+        "cues": [
+          "transition",
+          "anticipation"
+        ],
+        "mood": [
+          "somber"
+        ],
+        "framing": "Wide winter setting",
+        "fit": "Possible use for moving into a new situation or waiting for the outcome.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "excerpt_seconds": [
+            0.826,
+            2.753,
+            4.68
+          ],
+          "sheet": "pilot-06.jpg"
+        }
+      }
+    },
+    {
+      "file": "01017800-figures-in-snowy-woods.mp4",
+      "source_start": 1017.8,
+      "source_end_exclusive": 1022.3045,
+      "duration": 4.504,
+      "frames": 108,
+      "tags": [
+        "uncertainty",
+        "isolation",
+        "journey"
+      ],
+      "review": "Timestamped contact-sheet review",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 5814347,
+      "editorial": {
+        "action": "Figures in snowy woods.",
+        "cues": [
+          "hesitation",
+          "isolation",
+          "transition"
+        ],
+        "mood": [
+          "uncertain",
+          "lonely"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for being unsure of the next move or carrying something alone.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Timestamped contact-sheet review"
+        }
+      }
+    },
+    {
+      "file": "02169202-torchlit-crowd-approaches.mp4",
+      "source_start": 2169.202,
+      "source_end_exclusive": 2172.580375,
+      "duration": 3.378,
+      "frames": 81,
+      "tags": [
+        "pressure",
+        "anticipation",
+        "momentum"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 5957125,
+      "editorial": {
+        "action": "Torchlit crowd approaches.",
+        "cues": [
+          "pressure",
+          "anticipation"
+        ],
+        "mood": [
+          "tense",
+          "anticipatory"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for feeling the stakes rise or waiting for the outcome.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "02504694-large-figure-hunched-in-the-snow.mp4",
+      "source_start": 2504.694,
+      "source_end_exclusive": 2510.1995,
+      "duration": 5.505,
+      "frames": 132,
+      "tags": [
+        "exhaustion",
+        "effort",
+        "pressure"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 12828177,
+      "editorial": {
+        "action": "Large figure hunched in the snow.",
+        "cues": [
+          "relief",
+          "resolve",
+          "pressure"
+        ],
+        "mood": [
+          "released",
+          "determined",
+          "tense"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for letting the tension settle or deciding to keep going.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "02929685-snowy-fortifications-at-night.mp4",
+      "source_start": 2929.685,
+      "source_end_exclusive": 2935.1905,
+      "duration": 5.5055,
+      "frames": 132,
+      "tags": [
+        "watchfulness",
+        "winter",
+        "atmosphere"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 12399275,
+      "editorial": {
+        "action": "Snowy fortifications at night.",
+        "cues": [
+          "focus"
+        ],
+        "mood": [
+          "focused"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for giving a task your full attention.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "03015933-sam-looks-across-the-yard.mp4",
+      "source_start": 3015.933,
+      "source_end_exclusive": 3019.311375,
+      "duration": 3.378375,
+      "frames": 81,
+      "tags": [
+        "concern",
+        "waiting",
+        "resolve"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 4116735,
+      "editorial": {
+        "action": "Sam looks across the yard.",
+        "cues": [
+          "hesitation",
+          "anticipation",
+          "resolve"
+        ],
+        "mood": [
+          "uncertain",
+          "anticipatory",
+          "determined"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for being unsure of the next move or waiting for the outcome.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "03035300-torchlight-through-the-gate.mp4",
+      "source_start": 3035.3,
+      "source_end_exclusive": 3038.386417,
+      "duration": 3.086417,
+      "frames": 74,
+      "tags": [
+        "aftermath",
+        "suspense",
+        "threshold"
+      ],
+      "review": "Timestamped contact-sheet review",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 5071116,
+      "editorial": {
+        "action": "Torchlight through the gate.",
+        "cues": [
+          "setback",
+          "anticipation",
+          "choice"
+        ],
+        "mood": [
+          "anticipatory"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for absorbing a setback or waiting for the outcome.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Timestamped contact-sheet review"
+        }
+      }
+    },
+    {
+      "file": "03058000-jon-looks-down-after-battle.mp4",
+      "source_start": 3058,
+      "source_end_exclusive": 3064.006,
+      "duration": 6.006,
+      "frames": 144,
+      "tags": [
+        "reflection",
+        "loss",
+        "exhaustion"
+      ],
+      "review": "Timestamped contact-sheet review",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 6985960,
+      "editorial": {
+        "action": "Jon looks down after battle.",
+        "cues": [
+          "reflection",
+          "grief",
+          "relief"
+        ],
+        "mood": [
+          "quiet",
+          "somber",
+          "released"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for taking a moment to think or feeling the weight of a loss.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Timestamped contact-sheet review"
+        }
+      }
+    },
+    {
+      "file": "03186929-smoke-rises-beside-the-wall.mp4",
+      "source_start": 3186.929,
+      "source_end_exclusive": 3192.4345,
+      "duration": 5.505,
+      "frames": 132,
+      "tags": [
+        "aftermath",
+        "uncertainty",
+        "landscape"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 6612738,
+      "editorial": {
+        "action": "Smoke rises beside the wall.",
+        "cues": [
+          "setback",
+          "hesitation"
+        ],
+        "mood": [
+          "uncertain"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for absorbing a setback or being unsure of the next move.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "03267177-weathered-face-in-profile.mp4",
+      "source_start": 3267.177,
+      "source_end_exclusive": 3270.305125,
+      "duration": 3.128,
+      "frames": 75,
+      "tags": [
+        "reflection",
+        "decision",
+        "age"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 1931043,
+      "editorial": {
+        "action": "Weathered face in profile.",
+        "cues": [
+          "reflection",
+          "choice"
+        ],
+        "mood": [
+          "quiet"
+        ],
+        "framing": "Face detail",
+        "fit": "Possible use for taking a moment to think or facing a decision.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "03694668-figures-walk-together-in-the-woods.mp4",
+      "source_start": 3694.668,
+      "source_end_exclusive": 3700.1735,
+      "duration": 5.5055,
+      "frames": 132,
+      "tags": [
+        "teamwork",
+        "journey",
+        "uncertainty"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 6966079,
+      "editorial": {
+        "action": "Figures walk together in the woods.",
+        "cues": [
+          "teamwork",
+          "transition",
+          "hesitation"
+        ],
+        "mood": [
+          "cooperative",
+          "uncertain"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for getting something done together or moving into a new situation.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "03779666-two-men-watch-in-silence.mp4",
+      "source_start": 3779.666,
+      "source_end_exclusive": 3785.1715,
+      "duration": 5.5055,
+      "frames": 132,
+      "tags": [
+        "anticipation",
+        "tension",
+        "resolve"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 9520182,
+      "editorial": {
+        "action": "Two men watch in silence.",
+        "cues": [
+          "anticipation",
+          "pressure",
+          "resolve"
+        ],
+        "mood": [
+          "anticipatory",
+          "tense",
+          "determined"
+        ],
+        "framing": "Shared frame",
+        "fit": "Possible use for waiting for the outcome or feeling the stakes rise.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    }
+  ]
+}

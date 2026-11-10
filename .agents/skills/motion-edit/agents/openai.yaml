@@ -1,0 +1,4 @@
+interface:
+  display_name: "Motion Edit"
+  short_description: "Turn raw clips into speech-led animated edits"
+  default_prompt: "Use $motion-edit to enhance this raw clip with synchronized typography and meaningful animated graphics."

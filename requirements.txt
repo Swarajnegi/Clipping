@@ -1,0 +1,13 @@
+# Direct dependencies recovered from the original install commands and source imports.
+yt-dlp==2026.10.21
+faster-whisper==1.2.1
+av==16.1.0
+ctranslate2==4.8.3
+numpy==2.2.6
+Pillow==13.0.0
+opencv-python-headless==4.12.0.88
+kokoro-onnx==0.6.1
+soundfile==0.14.0
+onnxruntime==1.31.0
+nvidia-cublas-cu12==12.9.2.10
+nvidia-cudnn-cu12==9.27.0.42

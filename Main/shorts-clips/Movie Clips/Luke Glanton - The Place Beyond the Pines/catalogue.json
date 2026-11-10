@@ -1,0 +1,2588 @@
+{
+  "source": "Luke Glanton Badass [4K].mp4",
+  "source_bytes": 888271730,
+  "source_mtime_ns": 1794280415670880400,
+  "source_resolution": [
+    3840,
+    1600
+  ],
+  "source_frame_rate": "24000/1001",
+  "source_duration": 894.602033,
+  "posting_reuse_basis": "Unresolved. Local library.",
+  "time_basis": "Source-relative seconds on the native frame clock. Scanned boundaries are estimates.",
+  "clips": [
+    {
+      "candidate_id": 2,
+      "file": "00023315-red-jacket-on-motorcycle-at-night.mp4",
+      "source_start": 23.314958333333333,
+      "source_end_exclusive": 31.740041666666663,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "motorcycle",
+        "anticipation",
+        "night"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 9871558,
+      "editorial": {
+        "action": "Red jacket on motorcycle at night.",
+        "cues": [
+          "anticipation"
+        ],
+        "mood": [
+          "anticipatory"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for waiting for the outcome.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 3,
+      "file": "00032282-luke-listens-under-warm-light.mp4",
+      "source_start": 32.28225,
+      "source_end_exclusive": 40.74904166666666,
+      "duration": 8.466792,
+      "frames": 203,
+      "tags": [
+        "listening",
+        "tension",
+        "close-up"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 10450553,
+      "editorial": {
+        "action": "Luke listens under warm light.",
+        "cues": [
+          "listening",
+          "pressure"
+        ],
+        "mood": [
+          "attentive",
+          "tense"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for taking in what someone says or feeling the stakes rise.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 4,
+      "file": "00041291-rider-in-dark-silhouette.mp4",
+      "source_start": 41.29125,
+      "source_end_exclusive": 45.754041666666666,
+      "duration": 4.462792,
+      "frames": 107,
+      "tags": [
+        "departure",
+        "isolation",
+        "night"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5304396,
+      "editorial": {
+        "action": "Rider in dark silhouette.",
+        "cues": [
+          "transition",
+          "isolation"
+        ],
+        "mood": [
+          "lonely"
+        ],
+        "framing": "Silhouette or low light",
+        "fit": "Possible use for moving into a new situation or carrying something alone.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 5,
+      "file": "00053303-white-shirt-on-motorcycle.mp4",
+      "source_start": 53.30325,
+      "source_end_exclusive": 60.22683333333333,
+      "duration": 6.923583,
+      "frames": 166,
+      "tags": [
+        "movement",
+        "confidence",
+        "night"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 6887080,
+      "editorial": {
+        "action": "White shirt on motorcycle.",
+        "cues": [],
+        "mood": [],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Use as setting or texture when the exact line calls for this picture.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 6,
+      "file": "00077744-luke-at-a-diner-table.mp4",
+      "source_start": 77.74433333333333,
+      "source_end_exclusive": 79.74633333333333,
+      "duration": 2.002,
+      "frames": 48,
+      "tags": [
+        "everyday life",
+        "family",
+        "reflection"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 3114457,
+      "editorial": {
+        "action": "Luke at a diner table.",
+        "cues": [
+          "connection",
+          "reflection"
+        ],
+        "mood": [
+          "human",
+          "quiet"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for finding common ground or taking a moment to think.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 7,
+      "file": "00080289-quiet-exchange-at-night.mp4",
+      "source_start": 80.28854166666666,
+      "source_end_exclusive": 84.25083333333333,
+      "duration": 3.962292,
+      "frames": 95,
+      "tags": [
+        "conversation",
+        "distance",
+        "night"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 4993214,
+      "editorial": {
+        "action": "Quiet exchange at night.",
+        "cues": [
+          "connection"
+        ],
+        "mood": [
+          "human"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for finding common ground.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 8,
+      "file": "00084793-luke-looks-down-at-night.mp4",
+      "source_start": 84.79304166666667,
+      "source_end_exclusive": 93.25983333333333,
+      "duration": 8.466792,
+      "frames": 203,
+      "tags": [
+        "doubt",
+        "reflection",
+        "close-up"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 9805161,
+      "editorial": {
+        "action": "Luke looks down at night.",
+        "cues": [
+          "hesitation",
+          "reflection"
+        ],
+        "mood": [
+          "uncertain",
+          "quiet"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for being unsure of the next move or taking a moment to think.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 9,
+      "file": "00093802-luke-bows-his-head.mp4",
+      "source_start": 93.80204166666665,
+      "source_end_exclusive": 98.723625,
+      "duration": 4.921583,
+      "frames": 118,
+      "tags": [
+        "introspection",
+        "pause",
+        "close-up"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 6708065,
+      "editorial": {
+        "action": "Luke bows his head.",
+        "cues": [
+          "reflection"
+        ],
+        "mood": [
+          "quiet"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for taking a moment to think.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 10,
+      "file": "00099308-fairground-in-daylight.mp4",
+      "source_start": 99.30754166666667,
+      "source_end_exclusive": 103.22812499999999,
+      "duration": 3.920583,
+      "frames": 94,
+      "tags": [
+        "arrival",
+        "setting",
+        "everyday life"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5269816,
+      "editorial": {
+        "action": "Fairground in daylight.",
+        "cues": [
+          "transition"
+        ],
+        "mood": [],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for moving into a new situation.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 11,
+      "file": "00103812-luke-checks-a-card-by-a-window.mp4",
+      "source_start": 103.81204166666666,
+      "source_end_exclusive": 106.23112499999999,
+      "duration": 2.419083,
+      "frames": 58,
+      "tags": [
+        "focus",
+        "waiting",
+        "daylight"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 2754724,
+      "editorial": {
+        "action": "Luke checks a card by a window.",
+        "cues": [
+          "focus",
+          "anticipation"
+        ],
+        "mood": [
+          "focused",
+          "anticipatory"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for giving a task your full attention or waiting for the outcome.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 12,
+      "file": "00107316-luke-holds-up-the-card.mp4",
+      "source_start": 107.31554166666666,
+      "source_end_exclusive": 109.734625,
+      "duration": 2.419083,
+      "frames": 58,
+      "tags": [
+        "preparation",
+        "hands",
+        "close-up"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 3452302,
+      "editorial": {
+        "action": "Luke holds up the card.",
+        "cues": [
+          "focus"
+        ],
+        "mood": [
+          "focused"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for giving a task your full attention.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 14,
+      "file": "00119244-luke-crosses-the-road-on-a-motorcycle.mp4",
+      "source_start": 119.244125,
+      "source_end_exclusive": 121.24612499999999,
+      "duration": 2.002,
+      "frames": 48,
+      "tags": [
+        "movement",
+        "departure",
+        "daylight"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 2018141,
+      "editorial": {
+        "action": "Luke crosses the road on a motorcycle.",
+        "cues": [
+          "transition"
+        ],
+        "mood": [],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for moving into a new situation.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 15,
+      "file": "00124291-luke-in-profile-by-a-window.mp4",
+      "source_start": 124.29083333333332,
+      "source_end_exclusive": 127.25212499999999,
+      "duration": 2.961292,
+      "frames": 71,
+      "tags": [
+        "waiting",
+        "uncertainty",
+        "profile"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 4276842,
+      "editorial": {
+        "action": "Luke in profile by a window.",
+        "cues": [
+          "anticipation",
+          "hesitation"
+        ],
+        "mood": [
+          "anticipatory",
+          "uncertain"
+        ],
+        "framing": "Face detail",
+        "fit": "Possible use for waiting for the outcome or being unsure of the next move.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 16,
+      "file": "00132799-figure-in-a-house-doorway.mp4",
+      "source_start": 132.79933333333332,
+      "source_end_exclusive": 141.22441666666666,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "arrival",
+        "transition",
+        "anticipation"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 11973880,
+      "editorial": {
+        "action": "Figure in a house doorway.",
+        "cues": [
+          "transition",
+          "anticipation"
+        ],
+        "mood": [
+          "anticipatory"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for moving into a new situation or waiting for the outcome.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 17,
+      "file": "00153320-luke-alone-on-a-church-bench.mp4",
+      "source_start": 153.31983333333332,
+      "source_end_exclusive": 155.73891666666665,
+      "duration": 2.419083,
+      "frames": 58,
+      "tags": [
+        "solitude",
+        "reflection",
+        "stillness"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 1491780,
+      "editorial": {
+        "action": "Luke alone on a church bench.",
+        "cues": [
+          "isolation",
+          "reflection"
+        ],
+        "mood": [
+          "lonely",
+          "quiet"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for carrying something alone or taking a moment to think.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 18,
+      "file": "00156281-two-men-at-the-trailer-entrance.mp4",
+      "source_start": 156.281125,
+      "source_end_exclusive": 158.74191666666667,
+      "duration": 2.460792,
+      "frames": 59,
+      "tags": [
+        "meeting",
+        "work",
+        "outdoors"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 4058012,
+      "editorial": {
+        "action": "Two men at the trailer entrance.",
+        "cues": [
+          "craft"
+        ],
+        "mood": [
+          "methodical"
+        ],
+        "framing": "Shared frame",
+        "fit": "Possible use for making or refining something with care.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 20,
+      "file": "00165290-two-men-walk-from-the-trailer.mp4",
+      "source_start": 165.290125,
+      "source_end_exclusive": 173.25641666666667,
+      "duration": 7.966292,
+      "frames": 191,
+      "tags": [
+        "companionship",
+        "departure",
+        "work"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 12371370,
+      "editorial": {
+        "action": "Two men walk from the trailer.",
+        "cues": [
+          "connection",
+          "transition",
+          "craft"
+        ],
+        "mood": [
+          "human",
+          "methodical"
+        ],
+        "framing": "Shared frame",
+        "fit": "Possible use for finding common ground or moving into a new situation.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 21,
+      "file": "00201785-motorcycle-on-a-forest-road-from-above.mp4",
+      "source_start": 201.78491666666665,
+      "source_end_exclusive": 206.7482083333333,
+      "duration": 4.963292,
+      "frames": 119,
+      "tags": [
+        "journey",
+        "perspective",
+        "movement"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 4298454,
+      "editorial": {
+        "action": "Motorcycle on a forest road from above.",
+        "cues": [
+          "transition"
+        ],
+        "mood": [],
+        "framing": "Wide or establishing",
+        "fit": "Possible use for moving into a new situation.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 22,
+      "file": "00207207-rider-on-a-curving-woodland-road.mp4",
+      "source_start": 207.207,
+      "source_end_exclusive": 208.79191666666665,
+      "duration": 1.584917,
+      "frames": 38,
+      "tags": [
+        "travel",
+        "solitude",
+        "movement"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 1855135,
+      "editorial": {
+        "action": "A motorcyclist follows a green road toward a bridge.",
+        "cues": [
+          "transition",
+          "resolve"
+        ],
+        "mood": [
+          "quiet"
+        ],
+        "framing": "Wide moving exterior",
+        "fit": "Possible use for moving into a new situation or deciding to keep going.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "excerpt_seconds": [
+            0.238,
+            0.792,
+            1.347
+          ],
+          "sheet": "pilot-07.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 23,
+      "file": "00210293-luke-in-blue-night-light.mp4",
+      "source_start": 210.29341666666664,
+      "source_end_exclusive": 215.2567083333333,
+      "duration": 4.963292,
+      "frames": 119,
+      "tags": [
+        "uncertainty",
+        "surprise",
+        "close-up"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 4920032,
+      "editorial": {
+        "action": "Luke in blue night light.",
+        "cues": [
+          "hesitation"
+        ],
+        "mood": [
+          "uncertain"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for being unsure of the next move.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 24,
+      "file": "00215799-rider-passes-a-parked-pickup.mp4",
+      "source_start": 215.79891666666666,
+      "source_end_exclusive": 220.7205,
+      "duration": 4.921583,
+      "frames": 118,
+      "tags": [
+        "arrival",
+        "night",
+        "movement"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 7004757,
+      "editorial": {
+        "action": "Rider passes a parked pickup.",
+        "cues": [
+          "transition"
+        ],
+        "mood": [],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for moving into a new situation.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 25,
+      "file": "00222305-figure-alone-beside-open-water.mp4",
+      "source_start": 222.30541666666664,
+      "source_end_exclusive": 227.7275,
+      "duration": 5.422083,
+      "frames": 130,
+      "tags": [
+        "solitude",
+        "scale",
+        "outdoors"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 3887273,
+      "editorial": {
+        "action": "Figure alone beside open water.",
+        "cues": [
+          "isolation"
+        ],
+        "mood": [
+          "lonely"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for carrying something alone.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 26,
+      "file": "00228311-motorcycle-in-the-woods.mp4",
+      "source_start": 228.31141666666664,
+      "source_end_exclusive": 233.7335,
+      "duration": 5.422083,
+      "frames": 130,
+      "tags": [
+        "arrival",
+        "rural",
+        "detail"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 7274776,
+      "editorial": {
+        "action": "Motorcycle in the woods.",
+        "cues": [
+          "transition"
+        ],
+        "mood": [],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for moving into a new situation.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 27,
+      "file": "00234317-luke-pauses-in-the-woods.mp4",
+      "source_start": 234.31741666666665,
+      "source_end_exclusive": 239.7395,
+      "duration": 5.422083,
+      "frames": 130,
+      "tags": [
+        "thinking",
+        "pressure",
+        "pause"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 7189908,
+      "editorial": {
+        "action": "Luke pauses in the woods.",
+        "cues": [
+          "reflection",
+          "pressure"
+        ],
+        "mood": [
+          "quiet",
+          "tense"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for taking a moment to think or feeling the stakes rise.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 28,
+      "file": "00240282-man-listens-with-hand-at-chin.mp4",
+      "source_start": 240.2817083333333,
+      "source_end_exclusive": 247.24699999999999,
+      "duration": 6.965292,
+      "frames": 167,
+      "tags": [
+        "consideration",
+        "conversation",
+        "close-up"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 8902631,
+      "editorial": {
+        "action": "Man listens with hand at chin.",
+        "cues": [
+          "reflection",
+          "connection"
+        ],
+        "mood": [
+          "quiet",
+          "human"
+        ],
+        "framing": "Object or hand detail",
+        "fit": "Possible use for taking a moment to think or finding common ground.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 29,
+      "file": "00247789-luke-looks-back-in-the-woods.mp4",
+      "source_start": 247.7892083333333,
+      "source_end_exclusive": 256.256,
+      "duration": 8.466792,
+      "frames": 203,
+      "tags": [
+        "listening",
+        "guarded",
+        "reaction"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 12805085,
+      "editorial": {
+        "action": "Luke looks back in the woods.",
+        "cues": [
+          "listening"
+        ],
+        "mood": [
+          "attentive"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for taking in what someone says.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 31,
+      "file": "00265807-woods-conversation-reverse-angle.mp4",
+      "source_start": 265.80720833333334,
+      "source_end_exclusive": 272.7307916666667,
+      "duration": 6.923583,
+      "frames": 166,
+      "tags": [
+        "conversation",
+        "decision",
+        "listening"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 7517189,
+      "editorial": {
+        "action": "Woods conversation reverse angle.",
+        "cues": [
+          "connection",
+          "choice",
+          "listening"
+        ],
+        "mood": [
+          "human",
+          "attentive"
+        ],
+        "framing": "Shared frame",
+        "fit": "Possible use for finding common ground or facing a decision.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 33,
+      "file": "00276818-luke-in-woodland-profile.mp4",
+      "source_start": 276.8182083333333,
+      "source_end_exclusive": 283.74179166666664,
+      "duration": 6.923583,
+      "frames": 166,
+      "tags": [
+        "reflection",
+        "unease",
+        "outdoors"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 9061643,
+      "editorial": {
+        "action": "Luke in woodland profile.",
+        "cues": [
+          "reflection",
+          "hesitation"
+        ],
+        "mood": [
+          "quiet",
+          "uncertain"
+        ],
+        "framing": "Face detail",
+        "fit": "Possible use for taking a moment to think or being unsure of the next move.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 34,
+      "file": "00293710-luke-at-the-workshop-shelves.mp4",
+      "source_start": 293.71008333333333,
+      "source_end_exclusive": 295.29499999999996,
+      "duration": 1.584917,
+      "frames": 38,
+      "tags": [
+        "work",
+        "routine",
+        "medium shot"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 3120550,
+      "editorial": {
+        "action": "Luke at the workshop shelves.",
+        "cues": [
+          "craft",
+          "repetition"
+        ],
+        "mood": [
+          "methodical"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for making or refining something with care or putting in the same work again.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 35,
+      "file": "00298798-two-men-stand-in-a-workshop.mp4",
+      "source_start": 298.7985,
+      "source_end_exclusive": 301.2592916666666,
+      "duration": 2.460792,
+      "frames": 59,
+      "tags": [
+        "work",
+        "partnership",
+        "conversation"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 2840029,
+      "editorial": {
+        "action": "Two men stand in a workshop.",
+        "cues": [
+          "craft",
+          "connection"
+        ],
+        "mood": [
+          "methodical",
+          "human"
+        ],
+        "framing": "Shared frame",
+        "fit": "Possible use for making or refining something with care or finding common ground.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 36,
+      "file": "00302802-silhouette-beside-a-truck.mp4",
+      "source_start": 302.80249999999995,
+      "source_end_exclusive": 311.2275833333333,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "work",
+        "departure",
+        "exterior"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 9590706,
+      "editorial": {
+        "action": "Silhouette beside a truck.",
+        "cues": [
+          "craft",
+          "transition"
+        ],
+        "mood": [
+          "methodical"
+        ],
+        "framing": "Silhouette or low light",
+        "fit": "Possible use for making or refining something with care or moving into a new situation.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 38,
+      "file": "00317818-luke-beside-the-red-workbench.mp4",
+      "source_start": 317.8175,
+      "source_end_exclusive": 321.7380833333333,
+      "duration": 3.920583,
+      "frames": 94,
+      "tags": [
+        "work",
+        "decision",
+        "environment"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 3809548,
+      "editorial": {
+        "action": "Luke beside the red workbench.",
+        "cues": [
+          "craft",
+          "choice"
+        ],
+        "mood": [
+          "methodical"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for making or refining something with care or facing a decision.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 39,
+      "file": "00324741-luke-turns-toward-a-coworker.mp4",
+      "source_start": 324.74108333333334,
+      "source_end_exclusive": 326.7430833333333,
+      "duration": 2.002,
+      "frames": 48,
+      "tags": [
+        "attention",
+        "work",
+        "reaction"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 3162188,
+      "editorial": {
+        "action": "Luke turns toward a coworker.",
+        "cues": [
+          "focus",
+          "craft"
+        ],
+        "mood": [
+          "focused",
+          "methodical"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for giving a task your full attention or making or refining something with care.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 40,
+      "file": "00330789-coworker-listens-in-close-up.mp4",
+      "source_start": 330.78879166666667,
+      "source_end_exclusive": 338.2545833333333,
+      "duration": 7.465792,
+      "frames": 179,
+      "tags": [
+        "listening",
+        "concern",
+        "reaction"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 10412716,
+      "editorial": {
+        "action": "Coworker listens in close up.",
+        "cues": [
+          "listening",
+          "hesitation"
+        ],
+        "mood": [
+          "attentive",
+          "uncertain"
+        ],
+        "framing": "Face detail",
+        "fit": "Possible use for taking in what someone says or being unsure of the next move.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 41,
+      "file": "00339297-luke-smiles-in-the-shop.mp4",
+      "source_start": 339.29729166666664,
+      "source_end_exclusive": 345.720375,
+      "duration": 6.423083,
+      "frames": 154,
+      "tags": [
+        "relief",
+        "humor",
+        "connection"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 10360995,
+      "editorial": {
+        "action": "Luke smiles in the shop.",
+        "cues": [
+          "relief",
+          "connection"
+        ],
+        "mood": [
+          "released",
+          "human"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for letting the tension settle or finding common ground.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 43,
+      "file": "00357315-luke-on-the-phone-in-the-shop.mp4",
+      "source_start": 357.31529166666667,
+      "source_end_exclusive": 365.239875,
+      "duration": 7.924583,
+      "frames": 190,
+      "tags": [
+        "phone",
+        "everyday life",
+        "work"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 9928198,
+      "editorial": {
+        "action": "Luke on the phone in the shop.",
+        "cues": [
+          "craft"
+        ],
+        "mood": [
+          "methodical"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for making or refining something with care.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 44,
+      "file": "00366283-hands-pull-at-fabric.mp4",
+      "source_start": 366.2825833333333,
+      "source_end_exclusive": 370.74537499999997,
+      "duration": 4.462792,
+      "frames": 107,
+      "tags": [
+        "preparation",
+        "concentration",
+        "detail"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 3892587,
+      "editorial": {
+        "action": "Hands pull at fabric.",
+        "cues": [
+          "focus"
+        ],
+        "mood": [
+          "focused"
+        ],
+        "framing": "Object or hand detail",
+        "fit": "Possible use for giving a task your full attention.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 45,
+      "file": "00374791-luke-adjusts-a-face-covering.mp4",
+      "source_start": 374.7910833333333,
+      "source_end_exclusive": 377.752375,
+      "duration": 2.961292,
+      "frames": 71,
+      "tags": [
+        "preparation",
+        "tension",
+        "close-up"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 3597999,
+      "editorial": {
+        "action": "Luke brings his hands up behind his head to secure a face covering.",
+        "cues": [
+          "focus",
+          "pressure"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Face and hand close-up",
+        "fit": "Possible use for giving a task your full attention or feeling the stakes rise.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "excerpt_seconds": [
+            0.444,
+            1.481,
+            2.517
+          ],
+          "sheet": "pilot-07.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 46,
+      "file": "00378295-hands-move-through-a-bag.mp4",
+      "source_start": 378.2945833333333,
+      "source_end_exclusive": 384.759375,
+      "duration": 6.464792,
+      "frames": 155,
+      "tags": [
+        "preparation",
+        "work",
+        "detail"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 8658071,
+      "editorial": {
+        "action": "Hands move through a bag.",
+        "cues": [
+          "focus",
+          "craft"
+        ],
+        "mood": [
+          "focused",
+          "methodical"
+        ],
+        "framing": "Object or hand detail",
+        "fit": "Possible use for giving a task your full attention or making or refining something with care.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 47,
+      "file": "00385302-luke-works-at-a-motorcycle.mp4",
+      "source_start": 385.3015833333333,
+      "source_end_exclusive": 392.72566666666665,
+      "duration": 7.424083,
+      "frames": 178,
+      "tags": [
+        "mechanics",
+        "work",
+        "persistence"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 9545664,
+      "editorial": {
+        "action": "Luke bends over the motorcycle and handles material near it, seen through reflections.",
+        "cues": [
+          "craft",
+          "focus"
+        ],
+        "mood": [
+          "methodical"
+        ],
+        "framing": "Partly obscured workshop detail",
+        "fit": "Use for patient craft or attention to detail if the reflective foreground suits the framing.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "excerpt_seconds": [
+            0.0,
+            2.5,
+            5.0,
+            7.0
+          ],
+          "sheet": "examples-13.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 48,
+      "file": "00394811-motorcycle-workshop-in-low-light.mp4",
+      "source_start": 394.81108333333333,
+      "source_end_exclusive": 400.23316666666665,
+      "duration": 5.422083,
+      "frames": 130,
+      "tags": [
+        "craft",
+        "environment",
+        "work"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 6239152,
+      "editorial": {
+        "action": "Motorcycle workshop in low light.",
+        "cues": [
+          "craft"
+        ],
+        "mood": [
+          "methodical"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for making or refining something with care.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 49,
+      "file": "00411786-masked-figure-pauses-at-a-door.mp4",
+      "source_start": 411.78637499999996,
+      "source_end_exclusive": 420.25316666666663,
+      "duration": 8.466792,
+      "frames": 203,
+      "tags": [
+        "hesitation",
+        "anticipation",
+        "threshold"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 12093828,
+      "editorial": {
+        "action": "Masked figure pauses at a door.",
+        "cues": [
+          "hesitation",
+          "anticipation",
+          "choice"
+        ],
+        "mood": [
+          "uncertain",
+          "anticipatory"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for being unsure of the next move or waiting for the outcome.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 50,
+      "file": "00420795-figure-crosses-an-interior-doorway.mp4",
+      "source_start": 420.795375,
+      "source_end_exclusive": 423.2561666666666,
+      "duration": 2.460792,
+      "frames": 59,
+      "tags": [
+        "movement",
+        "arrival",
+        "threshold"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 1769265,
+      "editorial": {
+        "action": "Figure crosses an interior doorway.",
+        "cues": [
+          "transition",
+          "choice"
+        ],
+        "mood": [],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for moving into a new situation or facing a decision.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 51,
+      "file": "00429304-figure-in-a-narrow-hall.mp4",
+      "source_start": 429.30387499999995,
+      "source_end_exclusive": 433.2244583333333,
+      "duration": 3.920583,
+      "frames": 94,
+      "tags": [
+        "uncertainty",
+        "suspense",
+        "interior"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5451464,
+      "editorial": {
+        "action": "Figure in a narrow hall.",
+        "cues": [
+          "hesitation",
+          "anticipation"
+        ],
+        "mood": [
+          "uncertain",
+          "anticipatory"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for being unsure of the next move or waiting for the outcome.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 52,
+      "file": "00445820-masked-luke-under-bank-lights.mp4",
+      "source_start": 445.82037499999996,
+      "source_end_exclusive": 448.2394583333333,
+      "duration": 2.419083,
+      "frames": 58,
+      "tags": [
+        "pressure",
+        "danger",
+        "action"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 3719519,
+      "editorial": {
+        "action": "Masked luke under bank lights.",
+        "cues": [
+          "pressure"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for feeling the stakes rise.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 54,
+      "file": "00458750-hand-tightens-around-a-strap.mp4",
+      "source_start": 458.7499583333333,
+      "source_end_exclusive": 460.7519583333333,
+      "duration": 2.002,
+      "frames": 48,
+      "tags": [
+        "tension",
+        "reaction",
+        "detail"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 1882180,
+      "editorial": {
+        "action": "Hand tightens around a strap.",
+        "cues": [
+          "pressure"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Object or hand detail",
+        "fit": "Possible use for feeling the stakes rise.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 56,
+      "file": "00533283-luke-sits-on-a-bike-by-the-road.mp4",
+      "source_start": 533.28275,
+      "source_end_exclusive": 536.7445416666666,
+      "duration": 3.461792,
+      "frames": 83,
+      "tags": [
+        "waiting",
+        "pause",
+        "travel"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5339237,
+      "editorial": {
+        "action": "Luke sits on a bike by the road.",
+        "cues": [
+          "anticipation",
+          "reflection",
+          "transition"
+        ],
+        "mood": [
+          "anticipatory",
+          "quiet"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for waiting for the outcome or taking a moment to think.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 57,
+      "file": "00541791-figures-at-a-service-counter.mp4",
+      "source_start": 541.79125,
+      "source_end_exclusive": 544.7525416666666,
+      "duration": 2.961292,
+      "frames": 71,
+      "tags": [
+        "everyday life",
+        "interaction",
+        "movement"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 4251827,
+      "editorial": {
+        "action": "Figures at a service counter.",
+        "cues": [],
+        "mood": [],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Use as setting or texture when the exact line calls for this picture.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 58,
+      "file": "00563813-figure-at-a-dark-entrance.mp4",
+      "source_start": 563.8132499999999,
+      "source_end_exclusive": 568.7348333333333,
+      "duration": 4.921583,
+      "frames": 118,
+      "tags": [
+        "arrival",
+        "tension",
+        "silhouette"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 4507174,
+      "editorial": {
+        "action": "Figure at a dark entrance.",
+        "cues": [
+          "transition",
+          "pressure"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for moving into a new situation or feeling the stakes rise.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 59,
+      "file": "00571321-luke-by-a-curtained-window.mp4",
+      "source_start": 571.32075,
+      "source_end_exclusive": 577.7438333333333,
+      "duration": 6.423083,
+      "frames": 154,
+      "tags": [
+        "uncertainty",
+        "contemplation",
+        "daylight"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 10495374,
+      "editorial": {
+        "action": "Luke by a curtained window.",
+        "cues": [
+          "hesitation",
+          "reflection"
+        ],
+        "mood": [
+          "uncertain",
+          "quiet"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for being unsure of the next move or taking a moment to think.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 60,
+      "file": "00578286-man-listens-in-an-interior.mp4",
+      "source_start": 578.2860416666666,
+      "source_end_exclusive": 584.2503333333333,
+      "duration": 5.964292,
+      "frames": 143,
+      "tags": [
+        "attention",
+        "quiet",
+        "conversation"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 8228846,
+      "editorial": {
+        "action": "Man listens in an interior.",
+        "cues": [
+          "focus",
+          "connection"
+        ],
+        "mood": [
+          "focused",
+          "human"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for giving a task your full attention or finding common ground.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 61,
+      "file": "00606815-luke-bends-toward-someone.mp4",
+      "source_start": 606.8145416666666,
+      "source_end_exclusive": 611.7361249999999,
+      "duration": 4.921583,
+      "frames": 118,
+      "tags": [
+        "care",
+        "hesitation",
+        "intimacy"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5995166,
+      "editorial": {
+        "action": "Luke bends toward someone.",
+        "cues": [
+          "help",
+          "hesitation",
+          "connection"
+        ],
+        "mood": [
+          "tender",
+          "uncertain",
+          "human"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for reaching out or accepting support or being unsure of the next move.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 62,
+      "file": "00614739-two-figures-close-together-indoors.mp4",
+      "source_start": 614.739125,
+      "source_end_exclusive": 616.741125,
+      "duration": 2.002,
+      "frames": 48,
+      "tags": [
+        "connection",
+        "intimacy",
+        "reaction"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 2682717,
+      "editorial": {
+        "action": "Two figures close together indoors.",
+        "cues": [
+          "connection"
+        ],
+        "mood": [
+          "human"
+        ],
+        "framing": "Shared frame",
+        "fit": "Possible use for finding common ground.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 63,
+      "file": "00617283-luke-looks-down-in-a-warm-room.mp4",
+      "source_start": 617.2833333333333,
+      "source_end_exclusive": 619.7441249999999,
+      "duration": 2.460792,
+      "frames": 59,
+      "tags": [
+        "concern",
+        "reflection",
+        "warmth"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 2939969,
+      "editorial": {
+        "action": "Luke looks down in a warm room.",
+        "cues": [
+          "hesitation",
+          "reflection"
+        ],
+        "mood": [
+          "uncertain",
+          "quiet"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for being unsure of the next move or taking a moment to think.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 64,
+      "file": "00628795-luke-sits-in-a-courtroom.mp4",
+      "source_start": 628.7948333333333,
+      "source_end_exclusive": 633.758125,
+      "duration": 4.963292,
+      "frames": 119,
+      "tags": [
+        "consequences",
+        "pressure",
+        "waiting"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 6061779,
+      "editorial": {
+        "action": "Luke sits in a courtroom.",
+        "cues": [
+          "setback",
+          "pressure",
+          "anticipation"
+        ],
+        "mood": [
+          "tense",
+          "anticipatory"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for absorbing a setback or feeling the stakes rise.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 65,
+      "file": "00634300-luke-in-a-dark-workshop.mp4",
+      "source_start": 634.3003333333332,
+      "source_end_exclusive": 640.2229166666666,
+      "duration": 5.922583,
+      "frames": 142,
+      "tags": [
+        "quiet work",
+        "tension",
+        "night"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 7061990,
+      "editorial": {
+        "action": "Luke in a dark workshop.",
+        "cues": [
+          "pressure"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for feeling the stakes rise.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 66,
+      "file": "00640807-luke-in-a-car-at-night.mp4",
+      "source_start": 640.8068333333333,
+      "source_end_exclusive": 649.2319166666666,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "isolation",
+        "thinking",
+        "close-up"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 9405991,
+      "editorial": {
+        "action": "Luke in a car at night.",
+        "cues": [
+          "isolation",
+          "reflection"
+        ],
+        "mood": [
+          "lonely",
+          "quiet"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for carrying something alone or taking a moment to think.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 68,
+      "file": "00656781-luke-stands-by-workshop-shelves.mp4",
+      "source_start": 656.781125,
+      "source_end_exclusive": 665.2479166666666,
+      "duration": 8.466792,
+      "frames": 203,
+      "tags": [
+        "work",
+        "uncertainty",
+        "night"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 11163570,
+      "editorial": {
+        "action": "Luke stands by workshop shelves.",
+        "cues": [
+          "craft",
+          "hesitation"
+        ],
+        "mood": [
+          "methodical",
+          "uncertain"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for making or refining something with care or being unsure of the next move.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 69,
+      "file": "00668293-man-stares-ahead-in-low-light.mp4",
+      "source_start": 668.2926249999999,
+      "source_end_exclusive": 676.7594166666667,
+      "duration": 8.466792,
+      "frames": 203,
+      "tags": [
+        "pressure",
+        "reaction",
+        "close-up"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 9669839,
+      "editorial": {
+        "action": "Man stares ahead in low light.",
+        "cues": [
+          "pressure"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for feeling the stakes rise.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 70,
+      "file": "00677302-luke-turns-in-the-workshop.mp4",
+      "source_start": 677.301625,
+      "source_end_exclusive": 683.2242083333333,
+      "duration": 5.922583,
+      "frames": 142,
+      "tags": [
+        "uncertainty",
+        "decision",
+        "reaction"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 9154740,
+      "editorial": {
+        "action": "Luke turns in the workshop.",
+        "cues": [
+          "hesitation",
+          "choice"
+        ],
+        "mood": [
+          "uncertain"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for being unsure of the next move or facing a decision.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 71,
+      "file": "00687812-car-waits-outside-at-night.mp4",
+      "source_start": 687.8121249999999,
+      "source_end_exclusive": 696.2372083333332,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "anticipation",
+        "transition",
+        "night"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 9610438,
+      "editorial": {
+        "action": "Car waits outside at night.",
+        "cues": [
+          "anticipation",
+          "transition"
+        ],
+        "mood": [
+          "anticipatory"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for waiting for the outcome or moving into a new situation.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 73,
+      "file": "00712795-luke-walks-away-from-the-car.mp4",
+      "source_start": 712.7954166666666,
+      "source_end_exclusive": 715.7567083333333,
+      "duration": 2.961292,
+      "frames": 71,
+      "tags": [
+        "decision",
+        "departure",
+        "night"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 4414873,
+      "editorial": {
+        "action": "Luke walks away from the car.",
+        "cues": [
+          "choice",
+          "transition"
+        ],
+        "mood": [],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for facing a decision or moving into a new situation.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 74,
+      "file": "00717300-luke-lifts-his-arms-in-the-woods.mp4",
+      "source_start": 717.2999166666666,
+      "source_end_exclusive": 721.2204999999999,
+      "duration": 3.920583,
+      "frames": 94,
+      "tags": [
+        "tension",
+        "gesture",
+        "outdoors"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5627642,
+      "editorial": {
+        "action": "Luke lifts his arms in the woods.",
+        "cues": [
+          "pressure"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for feeling the stakes rise.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 75,
+      "file": "00721804-luke-crosses-the-workshop.mp4",
+      "source_start": 721.8044166666666,
+      "source_end_exclusive": 728.2275,
+      "duration": 6.423083,
+      "frames": 154,
+      "tags": [
+        "movement",
+        "work",
+        "interior"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 8260332,
+      "editorial": {
+        "action": "Luke crosses the workshop.",
+        "cues": [
+          "craft"
+        ],
+        "mood": [
+          "methodical"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for making or refining something with care.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 76,
+      "file": "00732315-luke-holds-a-hand-to-his-face.mp4",
+      "source_start": 732.3149166666666,
+      "source_end_exclusive": 739.2384999999999,
+      "duration": 6.923583,
+      "frames": 166,
+      "tags": [
+        "reflection",
+        "fatigue",
+        "reaction"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 7539392,
+      "editorial": {
+        "action": "Luke holds a hand to his face.",
+        "cues": [
+          "reflection",
+          "relief"
+        ],
+        "mood": [
+          "quiet",
+          "released"
+        ],
+        "framing": "Face detail",
+        "fit": "Possible use for taking a moment to think or letting the tension settle.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 77,
+      "file": "00741699-luke-walks-through-the-woods.mp4",
+      "source_start": 741.6992916666666,
+      "source_end_exclusive": 743.2842083333333,
+      "duration": 1.584917,
+      "frames": 38,
+      "tags": [
+        "movement",
+        "reflection",
+        "outdoors"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 1911128,
+      "editorial": {
+        "action": "Luke walks through the woods.",
+        "cues": [
+          "reflection"
+        ],
+        "mood": [
+          "quiet"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for taking a moment to think.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 80,
+      "file": "00763805-luke-on-the-floor-in-a-struggle.mp4",
+      "source_start": 763.8047083333332,
+      "source_end_exclusive": 772.2297916666666,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "struggle",
+        "pressure",
+        "action"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 12730774,
+      "editorial": {
+        "action": "Luke on the floor in a struggle.",
+        "cues": [
+          "setback",
+          "pressure"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for absorbing a setback or feeling the stakes rise.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 82,
+      "file": "00775817-luke-catches-his-breath-on-the-floor.mp4",
+      "source_start": 775.8167083333333,
+      "source_end_exclusive": 781.2387916666667,
+      "duration": 5.422083,
+      "frames": 130,
+      "tags": [
+        "setback",
+        "exhaustion",
+        "tension"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5283521,
+      "editorial": {
+        "action": "Luke bows his head beside a dartboard and holds there.",
+        "cues": [
+          "setback",
+          "recovery",
+          "reflection"
+        ],
+        "mood": [
+          "weary"
+        ],
+        "framing": "Tight downward profile",
+        "fit": "Use for the pause before trying again after failure. The beat is catching a breath.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "excerpt_seconds": [
+            0.0,
+            1.5,
+            3.5,
+            5.0
+          ],
+          "sheet": "examples-12.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 84,
+      "file": "00788288-luke-returns-to-the-workbench.mp4",
+      "source_start": 788.2874999999999,
+      "source_end_exclusive": 790.7482916666667,
+      "duration": 2.460792,
+      "frames": 59,
+      "tags": [
+        "routine",
+        "work",
+        "decision"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 3294688,
+      "editorial": {
+        "action": "Luke returns to the workbench.",
+        "cues": [
+          "repetition",
+          "craft",
+          "choice"
+        ],
+        "mood": [
+          "methodical"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for putting in the same work again or making or refining something with care.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 85,
+      "file": "00792709-luke-searches-the-workshop-shelf.mp4",
+      "source_start": 792.7085833333333,
+      "source_end_exclusive": 794.2935,
+      "duration": 1.584917,
+      "frames": 38,
+      "tags": [
+        "work",
+        "preparation",
+        "focus"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 2020468,
+      "editorial": {
+        "action": "Luke searches the workshop shelf.",
+        "cues": [
+          "craft",
+          "focus"
+        ],
+        "mood": [
+          "methodical",
+          "focused"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for making or refining something with care or giving a task your full attention.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 86,
+      "file": "00807181-helmeted-officer-against-brick.mp4",
+      "source_start": 807.1813749999999,
+      "source_end_exclusive": 808.808,
+      "duration": 1.626625,
+      "frames": 39,
+      "tags": [
+        "pursuit",
+        "vigilance",
+        "close-up"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 2001939,
+      "editorial": {
+        "action": "Helmeted officer against brick.",
+        "cues": [
+          "focus"
+        ],
+        "mood": [
+          "focused"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for giving a task your full attention.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 87,
+      "file": "00856314-luke-by-the-bright-window.mp4",
+      "source_start": 856.3137916666666,
+      "source_end_exclusive": 858.7328749999999,
+      "duration": 2.419083,
+      "frames": 58,
+      "tags": [
+        "hesitation",
+        "threshold",
+        "escape"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 2491075,
+      "editorial": {
+        "action": "Luke by the bright window.",
+        "cues": [
+          "hesitation",
+          "choice",
+          "pressure"
+        ],
+        "mood": [
+          "uncertain",
+          "tense"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for being unsure of the next move or facing a decision.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 88,
+      "file": "00861194-window-and-empty-room.mp4",
+      "source_start": 861.1936666666666,
+      "source_end_exclusive": 862.8202916666665,
+      "duration": 1.626625,
+      "frames": 39,
+      "tags": [
+        "absence",
+        "quiet",
+        "tension"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 2360998,
+      "editorial": {
+        "action": "Window and empty room.",
+        "cues": [
+          "pressure"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for feeling the stakes rise.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 89,
+      "file": "00863321-figure-down-on-pavement.mp4",
+      "source_start": 863.3207916666667,
+      "source_end_exclusive": 871.745875,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "setback",
+        "urgency",
+        "aftermath"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 12567932,
+      "editorial": {
+        "action": "Figure down on pavement.",
+        "cues": [
+          "setback",
+          "pressure"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for absorbing a setback or feeling the stakes rise.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 91,
+      "file": "00877710-aerial-view-of-the-street.mp4",
+      "source_start": 877.7101666666666,
+      "source_end_exclusive": 879.2950833333333,
+      "duration": 1.584917,
+      "frames": 38,
+      "tags": [
+        "aftermath",
+        "perspective",
+        "transition"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 845567,
+      "editorial": {
+        "action": "Aerial view of the street.",
+        "cues": [
+          "setback",
+          "transition"
+        ],
+        "mood": [],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for absorbing a setback or moving into a new situation.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    }
+  ],
+  "scan": {
+    "scan_samples": 1789,
+    "scan_blocks": 20,
+    "first_sample": 0.0,
+    "last_sample": 894.0,
+    "max_sample_gap_seconds": 0.5,
+    "candidate_count": 93,
+    "method": "2 fps",
+    "representative_candidate_frames_reviewed": 93,
+    "editorial_leads": 75,
+    "verified_excerpts": 75,
+    "continuous_playback_reviewed": false
+  },
+  "selection_complete": true
+}

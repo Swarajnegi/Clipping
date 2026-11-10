@@ -1,0 +1,964 @@
+{
+  "source": "Aesthetics - Fight Club - REMUX 1080p h264 - oatesy.mp4",
+  "source_bytes": 2881247835,
+  "source_resolution": [
+    1920,
+    800
+  ],
+  "source_frame_rate": "24000/1001",
+  "time_basis": "seconds in the supplied local scenepack",
+  "posting_reuse_basis": "Unresolved. Local review assets.",
+  "clips": [
+    {
+      "file": "00177516-embrace-at-the-support-group.mp4",
+      "source_start": 177.516,
+      "source_end_exclusive": 183.0215,
+      "duration": 5.5055,
+      "frames": 132,
+      "tags": [
+        "support",
+        "vulnerability",
+        "connection"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 6317887,
+      "editorial": {
+        "action": "One man folds into another man's embrace in a support group.",
+        "cues": [
+          "help",
+          "trust",
+          "connection"
+        ],
+        "mood": [
+          "tender"
+        ],
+        "framing": "Medium shared frame",
+        "fit": "Use for asking for help, accepting comfort or allowing someone to be there.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "excerpt_seconds": [
+            0.0,
+            1.5,
+            3.5,
+            5.0
+          ],
+          "sheet": "examples-08.jpg"
+        }
+      }
+    },
+    {
+      "file": "00227021-alone-in-an-ice-cavern.mp4",
+      "source_start": 227.021,
+      "source_end_exclusive": 232.5265,
+      "duration": 5.5055,
+      "frames": 132,
+      "tags": [
+        "solitude",
+        "inner world",
+        "uncertainty"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 7498298,
+      "editorial": {
+        "action": "Alone in an ice cavern.",
+        "cues": [
+          "isolation",
+          "hesitation"
+        ],
+        "mood": [
+          "lonely",
+          "uncertain"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for carrying something alone or being unsure of the next move.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "00284775-car-silhouette-in-the-garage.mp4",
+      "source_start": 284.775,
+      "source_end_exclusive": 288.403625,
+      "duration": 3.628625,
+      "frames": 87,
+      "tags": [
+        "arrival",
+        "distance",
+        "transition"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 4389309,
+      "editorial": {
+        "action": "Car silhouette in the garage.",
+        "cues": [
+          "transition"
+        ],
+        "mood": [],
+        "framing": "Silhouette or low light",
+        "fit": "Possible use for moving into a new situation.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "00383534-bar-exterior-after-dark.mp4",
+      "source_start": 383.534,
+      "source_end_exclusive": 389.0395,
+      "duration": 5.505,
+      "frames": 132,
+      "tags": [
+        "night",
+        "urban atmosphere",
+        "scene setting"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 5864171,
+      "editorial": {
+        "action": "Bar exterior after dark.",
+        "cues": [],
+        "mood": [],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Use as setting or texture when the exact line calls for this picture.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "00434789-two-men-by-the-bar-door.mp4",
+      "source_start": 434.789,
+      "source_end_exclusive": 440.2945,
+      "duration": 5.505,
+      "frames": 132,
+      "tags": [
+        "hesitation",
+        "conversation",
+        "tension"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 5376233,
+      "editorial": {
+        "action": "Two men by the bar door.",
+        "cues": [
+          "hesitation",
+          "connection",
+          "pressure"
+        ],
+        "mood": [
+          "uncertain",
+          "human",
+          "tense"
+        ],
+        "framing": "Shared frame",
+        "fit": "Possible use for being unsure of the next move or finding common ground.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "00464400-first-fight-outside-the-bar.mp4",
+      "source_start": 464.4,
+      "source_end_exclusive": 470.406,
+      "duration": 6.006,
+      "frames": 144,
+      "tags": [
+        "setback",
+        "risk",
+        "sparring"
+      ],
+      "review": "Timestamped contact-sheet review",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 6319843,
+      "editorial": {
+        "action": "First fight outside the bar.",
+        "cues": [
+          "setback",
+          "pressure"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for absorbing a setback or feeling the stakes rise.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Timestamped contact-sheet review"
+        }
+      }
+    },
+    {
+      "file": "00493600-tyler-and-narrator-after-the-first-fight.mp4",
+      "source_start": 493.6,
+      "source_end_exclusive": 500.982375,
+      "duration": 7.382,
+      "frames": 177,
+      "tags": [
+        "absorbing pain",
+        "regrouping",
+        "companionship"
+      ],
+      "review": "Timestamped contact-sheet review",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 8915719,
+      "editorial": {
+        "action": "Tyler and narrator after the first fight.",
+        "cues": [
+          "connection"
+        ],
+        "mood": [
+          "human"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for finding common ground.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Timestamped contact-sheet review"
+        }
+      }
+    },
+    {
+      "file": "00511700-walking-toward-paper-street-house.mp4",
+      "source_start": 511.7,
+      "source_end_exclusive": 518.081375,
+      "duration": 6.381,
+      "frames": 153,
+      "tags": [
+        "arriving",
+        "uncertainty",
+        "solitude"
+      ],
+      "review": "Timestamped contact-sheet review",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 7337392,
+      "editorial": {
+        "action": "A figure stands in a dark exterior amid scattered debris.",
+        "cues": [
+          "isolation",
+          "setback"
+        ],
+        "mood": [
+          "bleak"
+        ],
+        "framing": "Wide dark exterior",
+        "fit": "Possible use for carrying something alone or absorbing a setback.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "excerpt_seconds": [
+            0.957,
+            3.191,
+            5.424
+          ],
+          "sheet": "pilot-04.jpg"
+        }
+      }
+    },
+    {
+      "file": "00533800-tyler-spars-in-parking-lot.mp4",
+      "source_start": 533.8,
+      "source_end_exclusive": 540.014542,
+      "duration": 6.214542,
+      "frames": 149,
+      "tags": [
+        "practice",
+        "persistence",
+        "rivalry"
+      ],
+      "review": "Timestamped contact-sheet review",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 6353128,
+      "editorial": {
+        "action": "Tyler spars in parking lot.",
+        "cues": [
+          "focus",
+          "repetition",
+          "resolve"
+        ],
+        "mood": [
+          "focused",
+          "determined"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for giving a task your full attention or putting in the same work again.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Timestamped contact-sheet review"
+        }
+      }
+    },
+    {
+      "file": "00641057-walking-a-wet-city-sidewalk.mp4",
+      "source_start": 641.057,
+      "source_end_exclusive": 646.5625,
+      "duration": 5.505,
+      "frames": 132,
+      "tags": [
+        "walking",
+        "companionship",
+        "night"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 6971283,
+      "editorial": {
+        "action": "Walking a wet city sidewalk.",
+        "cues": [
+          "connection"
+        ],
+        "mood": [
+          "human"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for finding common ground.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "00741566-tyler-reads-in-the-basement.mp4",
+      "source_start": 741.566,
+      "source_end_exclusive": 744.443875,
+      "duration": 2.877875,
+      "frames": 69,
+      "tags": [
+        "casual",
+        "reflection",
+        "preparation"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 4559485,
+      "editorial": {
+        "action": "Tyler reads in the basement.",
+        "cues": [
+          "reflection",
+          "focus"
+        ],
+        "mood": [
+          "quiet",
+          "focused"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for taking a moment to think or giving a task your full attention.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "00847076-standing-in-the-basement-crowd.mp4",
+      "source_start": 847.076,
+      "source_end_exclusive": 852.5815,
+      "duration": 5.505,
+      "frames": 132,
+      "tags": [
+        "belonging",
+        "unease",
+        "group pressure"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 6611840,
+      "editorial": {
+        "action": "Standing in the basement crowd.",
+        "cues": [
+          "hesitation",
+          "pressure"
+        ],
+        "mood": [
+          "uncertain",
+          "tense"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for being unsure of the next move or feeling the stakes rise.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "00949085-roadside-behind-a-chain-link-fence.mp4",
+      "source_start": 949.085,
+      "source_end_exclusive": 954.215125,
+      "duration": 5.130125,
+      "frames": 123,
+      "tags": [
+        "distance",
+        "urban routine",
+        "transition"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 6478039,
+      "editorial": {
+        "action": "Roadside behind a chain link fence.",
+        "cues": [
+          "repetition",
+          "transition"
+        ],
+        "mood": [],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for putting in the same work again or moving into a new situation.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "01004089-narrator-in-the-office-hallway.mp4",
+      "source_start": 1004.089,
+      "source_end_exclusive": 1009.469375,
+      "duration": 5.380375,
+      "frames": 129,
+      "tags": [
+        "consequences",
+        "authority",
+        "pressure"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 8516813,
+      "editorial": {
+        "action": "Narrator in the office hallway.",
+        "cues": [
+          "setback",
+          "pressure"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for absorbing a setback or feeling the stakes rise.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "01106348-tyler-and-narrator-under-streetlights.mp4",
+      "source_start": 1106.348,
+      "source_end_exclusive": 1111.8535,
+      "duration": 5.505,
+      "frames": 132,
+      "tags": [
+        "conversation",
+        "friendship",
+        "doubt"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 6139512,
+      "editorial": {
+        "action": "Two men turn toward each other outside a bright storefront at night.",
+        "cues": [
+          "connection",
+          "anticipation"
+        ],
+        "mood": [
+          "casual"
+        ],
+        "framing": "Exterior two-shot",
+        "fit": "Possible use for finding common ground or waiting for the outcome.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "excerpt_seconds": [
+            0.826,
+            2.752,
+            4.679
+          ],
+          "sheet": "pilot-04.jpg"
+        }
+      }
+    },
+    {
+      "file": "01156103-bruised-tyler-close-up.mp4",
+      "source_start": 1156.103,
+      "source_end_exclusive": 1161.6085,
+      "duration": 5.505,
+      "frames": 132,
+      "tags": [
+        "setback",
+        "defiance",
+        "composure"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 5150813,
+      "editorial": {
+        "action": "Bruised tyler close up.",
+        "cues": [
+          "setback",
+          "resolve"
+        ],
+        "mood": [
+          "determined"
+        ],
+        "framing": "Face detail",
+        "fit": "Possible use for absorbing a setback or deciding to keep going.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "01313117-traffic-passes-the-house-at-night.mp4",
+      "source_start": 1313.117,
+      "source_end_exclusive": 1318.497375,
+      "duration": 5.380375,
+      "frames": 129,
+      "tags": [
+        "time passing",
+        "solitude",
+        "atmosphere"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 5854214,
+      "editorial": {
+        "action": "Traffic passes the house at night.",
+        "cues": [
+          "isolation"
+        ],
+        "mood": [
+          "lonely"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for carrying something alone.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "01362371-empty-office-corridor.mp4",
+      "source_start": 1362.371,
+      "source_end_exclusive": 1367.8765,
+      "duration": 5.5055,
+      "frames": 132,
+      "tags": [
+        "waiting",
+        "routine",
+        "isolation"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 5399651,
+      "editorial": {
+        "action": "Empty office corridor.",
+        "cues": [
+          "anticipation",
+          "repetition",
+          "isolation"
+        ],
+        "mood": [
+          "anticipatory",
+          "lonely"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for waiting for the outcome or putting in the same work again.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "01416626-faces-lean-in-from-above.mp4",
+      "source_start": 1416.626,
+      "source_end_exclusive": 1421.505875,
+      "duration": 4.879875,
+      "frames": 117,
+      "tags": [
+        "disorientation",
+        "pressure",
+        "realization"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 5840711,
+      "editorial": {
+        "action": "Faces lean in from above.",
+        "cues": [
+          "pressure"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Face detail",
+        "fit": "Possible use for feeling the stakes rise.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "01469380-alone-in-a-back-alley.mp4",
+      "source_start": 1469.38,
+      "source_end_exclusive": 1473.008625,
+      "duration": 3.628625,
+      "frames": 87,
+      "tags": [
+        "walking",
+        "isolation",
+        "uncertainty"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 4209886,
+      "editorial": {
+        "action": "Alone in a back alley.",
+        "cues": [
+          "isolation",
+          "hesitation"
+        ],
+        "mood": [
+          "lonely",
+          "uncertain"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for carrying something alone or being unsure of the next move.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "01545000-narrator-regroups-in-the-basement.mp4",
+      "source_start": 1545,
+      "source_end_exclusive": 1552.298958,
+      "duration": 7.298958,
+      "frames": 175,
+      "tags": [
+        "exhaustion",
+        "setback",
+        "composure"
+      ],
+      "review": "Timestamped contact-sheet review",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 5986143,
+      "editorial": {
+        "action": "Narrator regroups in the basement.",
+        "cues": [
+          "relief",
+          "setback",
+          "resolve"
+        ],
+        "mood": [
+          "released",
+          "determined"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for letting the tension settle or absorbing a setback.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Timestamped contact-sheet review"
+        }
+      }
+    },
+    {
+      "file": "01557000-tyler-watches-the-narrator.mp4",
+      "source_start": 1557,
+      "source_end_exclusive": 1562.213542,
+      "duration": 5.213,
+      "frames": 125,
+      "tags": [
+        "watching",
+        "reflection",
+        "tension"
+      ],
+      "review": "Timestamped contact-sheet review",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 2086914,
+      "editorial": {
+        "action": "Tyler watches the narrator.",
+        "cues": [
+          "reflection",
+          "pressure"
+        ],
+        "mood": [
+          "quiet",
+          "tense"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for taking a moment to think or feeling the stakes rise.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Timestamped contact-sheet review"
+        }
+      }
+    },
+    {
+      "file": "01877167-working-at-a-crowded-table.mp4",
+      "source_start": 1877.167,
+      "source_end_exclusive": 1882.6725,
+      "duration": 5.5055,
+      "frames": 132,
+      "tags": [
+        "focus",
+        "teamwork",
+        "repetitive work"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 5999201,
+      "editorial": {
+        "action": "Working at a crowded table.",
+        "cues": [
+          "focus",
+          "teamwork"
+        ],
+        "mood": [
+          "focused",
+          "cooperative"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for giving a task your full attention or getting something done together.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "01928672-group-gathers-around-the-table.mp4",
+      "source_start": 1928.672,
+      "source_end_exclusive": 1934.1775,
+      "duration": 5.505,
+      "frames": 132,
+      "tags": [
+        "belonging",
+        "tension",
+        "teamwork"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 5845652,
+      "editorial": {
+        "action": "Group gathers around the table.",
+        "cues": [
+          "pressure",
+          "teamwork"
+        ],
+        "mood": [
+          "tense",
+          "cooperative"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for feeling the stakes rise or getting something done together.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "02035181-tyler-reclines-in-a-dim-room.mp4",
+      "source_start": 2035.181,
+      "source_end_exclusive": 2038.809625,
+      "duration": 3.628625,
+      "frames": 87,
+      "tags": [
+        "confidence",
+        "casual",
+        "reflection"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 4761904,
+      "editorial": {
+        "action": "Tyler reclines in a dim room.",
+        "cues": [
+          "reflection"
+        ],
+        "mood": [
+          "quiet"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for taking a moment to think.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "02085685-man-pauses-in-a-concrete-corridor.mp4",
+      "source_start": 2085.685,
+      "source_end_exclusive": 2090.314625,
+      "duration": 4.629625,
+      "frames": 111,
+      "tags": [
+        "hesitation",
+        "isolation",
+        "anticipation"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 4763964,
+      "editorial": {
+        "action": "Man pauses in a concrete corridor.",
+        "cues": [
+          "hesitation",
+          "isolation",
+          "anticipation"
+        ],
+        "mood": [
+          "uncertain",
+          "lonely",
+          "anticipatory"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for being unsure of the next move or carrying something alone.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "02136440-late-night-diner-conversation.mp4",
+      "source_start": 2136.44,
+      "source_end_exclusive": 2139.818375,
+      "duration": 3.378375,
+      "frames": 81,
+      "tags": [
+        "casual",
+        "listening",
+        "companionship"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 3893145,
+      "editorial": {
+        "action": "Late night diner conversation.",
+        "cues": [
+          "listening",
+          "connection"
+        ],
+        "mood": [
+          "attentive",
+          "human"
+        ],
+        "framing": "Shared frame",
+        "fit": "Possible use for taking in what someone says or finding common ground.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "02340208-empty-parking-structure.mp4",
+      "source_start": 2340.208,
+      "source_end_exclusive": 2345.7135,
+      "duration": 5.505,
+      "frames": 132,
+      "tags": [
+        "space",
+        "solitude",
+        "suspense"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 6977691,
+      "editorial": {
+        "action": "Empty parking structure.",
+        "cues": [
+          "isolation",
+          "anticipation"
+        ],
+        "mood": [
+          "lonely",
+          "anticipatory"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for carrying something alone or waiting for the outcome.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "02392213-figure-at-a-nighttime-window.mp4",
+      "source_start": 2392.213,
+      "source_end_exclusive": 2397.7185,
+      "duration": 5.505,
+      "frames": 132,
+      "tags": [
+        "reflection",
+        "city",
+        "consequence"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 4752302,
+      "editorial": {
+        "action": "Figure at a nighttime window.",
+        "cues": [
+          "reflection",
+          "setback"
+        ],
+        "mood": [
+          "quiet"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for taking a moment to think or absorbing a setback.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    }
+  ]
+}

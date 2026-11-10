@@ -1,0 +1,27 @@
+{
+  "InterVariable.woff2": {
+    "url": "https://raw.githubusercontent.com/rsms/inter/master/docs/font-files/InterVariable.woff2",
+    "sha256": "693b77d4f32ee9b8bfc995589b5fad5e99adf2832738661f5402f9978429a8e3",
+    "bytes": 352240
+  },
+  "LICENSE.txt": {
+    "url": "https://raw.githubusercontent.com/rsms/inter/master/LICENSE.txt",
+    "sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a",
+    "bytes": 4380
+  },
+  "InterVariable-Italic.woff2": {
+    "url": "https://raw.githubusercontent.com/rsms/inter/master/docs/font-files/InterVariable-Italic.woff2",
+    "sha256": "e564f652916db6c139570fefb9524a77c4d48f30c92928de9db19b6b5c7a262a",
+    "bytes": 387976
+  },
+  "CormorantGaramond-Italic.ttf": {
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/cormorantgaramond/CormorantGaramond-Italic%5Bwght%5D.ttf",
+    "sha256": "0f48ea6abb2084537854f7174c470991a463b13036309e3b50a81511611c530d",
+    "bytes": 715644
+  },
+  "Cormorant-OFL.txt": {
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/cormorantgaramond/OFL.txt",
+    "sha256": "60700d351cac4650c51f3f9db318d2a420f8b45052dba2715eb5fec41f0f6956",
+    "bytes": 4387
+  }
+}

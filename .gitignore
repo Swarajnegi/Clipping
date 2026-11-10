@@ -1,0 +1,49 @@
+node_modules/
+.venv/
+work/
+public/clips/
+out/
+.runtime/
+models/
+music/
+Campaigns/
+.claude/
+__pycache__/
+*.pyc
+results.jsonl
+selection-results.jsonl
+
+# Machine-local configuration and generated renderer media
+.codex-attachments/
+.codex/
+.env
+.env.*
+!.env.example
+*.pem
+*.pfx
+*.key
+*.log
+/antigravity_anatomy/
+/public/*
+!/public/fonts/
+
+# Keep authored tooling and the browse metadata. Source and rendered media,
+# per-project specs, transcripts, and QA evidence stay in the local workspace.
+/Main/**/*
+!/Main/**/
+!/Main/*/Working/**/*.py
+!/Main/*/Working/**/*.ps1
+!/Main/*/Working/**/*.mjs
+!/Main/*/Working/**/*.cjs
+!/Main/*/Working/**/*.ts
+!/Main/*/Working/**/*.tsx
+!/Main/shorts-clips/Movie Clips/README.md
+!/Main/shorts-clips/Movie Clips/*/CATALOGUE.md
+!/Main/shorts-clips/Movie Clips/*/catalogue.json
+!/Main/shorts-clips/Anime Clips/README.md
+!/Main/shorts-clips/Anime Clips/*/CATALOGUE.md
+!/Main/shorts-clips/Anime Clips/*/catalogue.json
+/Main/**/Working/corpus-design-references/
+/Main/**/chunks/
+/Main/**/bundle/
+__pycache__/

@@ -1,0 +1,1364 @@
+{
+  "source": "Tony Stark - Iron-Man [2008] - [REMUX 4K HEVC-H265] - chaszq.mp4",
+  "source_bytes": 5033593519,
+  "source_resolution": [
+    3840,
+    1600
+  ],
+  "source_frame_rate": "24000/1001",
+  "time_basis": "seconds in the supplied local scenepack",
+  "posting_reuse_basis": "Unresolved. Local review assets.",
+  "clips": [
+    {
+      "file": "00041509-soldier-glances-across-the-humvee.mp4",
+      "source_start": 41.509,
+      "source_end_exclusive": 44.136625,
+      "duration": 2.627625,
+      "frames": 63,
+      "tags": [
+        "casual",
+        "listening",
+        "travel"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 6889194,
+      "editorial": {
+        "action": "Soldier glances across the humvee.",
+        "cues": [
+          "listening",
+          "transition"
+        ],
+        "mood": [
+          "attentive"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for taking in what someone says or moving into a new situation.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "00129776-tony-surrounded-by-armed-men.mp4",
+      "source_start": 129.776,
+      "source_end_exclusive": 133.654875,
+      "duration": 3.878875,
+      "frames": 93,
+      "tags": [
+        "pressure",
+        "vulnerability",
+        "uncertainty"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 8755281,
+      "editorial": {
+        "action": "Tony surrounded by armed men.",
+        "cues": [
+          "pressure",
+          "hesitation"
+        ],
+        "mood": [
+          "tense",
+          "uncertain"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for feeling the stakes rise or being unsure of the next move.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "00219793-tony-in-conversation-at-an-event.mp4",
+      "source_start": 219.793,
+      "source_end_exclusive": 223.671875,
+      "duration": 3.878875,
+      "frames": 93,
+      "tags": [
+        "confidence",
+        "casual",
+        "conversation"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 9402063,
+      "editorial": {
+        "action": "Tony in conversation at an event.",
+        "cues": [
+          "connection"
+        ],
+        "mood": [
+          "human"
+        ],
+        "framing": "Shared frame",
+        "fit": "Possible use for finding common ground.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "00312560-rhodey-sits-in-the-jet.mp4",
+      "source_start": 312.56,
+      "source_end_exclusive": 318.0655,
+      "duration": 5.505,
+      "frames": 132,
+      "tags": [
+        "listening",
+        "contemplation",
+        "travel"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 11680994,
+      "editorial": {
+        "action": "Rhodey sits in the jet.",
+        "cues": [
+          "listening",
+          "reflection",
+          "transition"
+        ],
+        "mood": [
+          "attentive",
+          "quiet"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for taking in what someone says or taking a moment to think.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "00401327-tony-before-a-mountain-range.mp4",
+      "source_start": 401.327,
+      "source_end_exclusive": 406.8325,
+      "duration": 5.5055,
+      "frames": 132,
+      "tags": [
+        "resolve",
+        "scale",
+        "anticipation"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 8123389,
+      "editorial": {
+        "action": "Tony before a mountain range.",
+        "cues": [
+          "resolve",
+          "anticipation"
+        ],
+        "mood": [
+          "determined",
+          "anticipatory"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for deciding to keep going or waiting for the outcome.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "00762145-tony-and-yinsen-in-the-cave.mp4",
+      "source_start": 762.145,
+      "source_end_exclusive": 767.6505,
+      "duration": 5.5055,
+      "frames": 132,
+      "tags": [
+        "collaboration",
+        "learning",
+        "constraint"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 8721399,
+      "editorial": {
+        "action": "Tony and yinsen in the cave.",
+        "cues": [
+          "teamwork"
+        ],
+        "mood": [
+          "cooperative"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for getting something done together.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "00853162-yinsen-works-at-the-bench.mp4",
+      "source_start": 853.162,
+      "source_end_exclusive": 858.6675,
+      "duration": 5.5055,
+      "frames": 132,
+      "tags": [
+        "craft",
+        "making",
+        "focus"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 8456740,
+      "editorial": {
+        "action": "Hands work with tongs as sparks scatter, before the angle cuts to two figures at the bench.",
+        "cues": [
+          "craft",
+          "teamwork",
+          "focus"
+        ],
+        "mood": [
+          "methodical"
+        ],
+        "framing": "Bright detail then workshop two-shot",
+        "fit": "Use for patient craft or learning through practical work together. Check the desired angle.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "excerpt_seconds": [
+            0.0,
+            1.5,
+            3.5,
+            5.0
+          ],
+          "sheet": "examples-10.jpg"
+        }
+      }
+    },
+    {
+      "file": "01125213-tony-looks-up-from-the-makeshift-armor.mp4",
+      "source_start": 1125.213,
+      "source_end_exclusive": 1130.343125,
+      "duration": 5.130125,
+      "frames": 123,
+      "tags": [
+        "preparation",
+        "trust",
+        "uncertainty"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 12241591,
+      "editorial": {
+        "action": "Tony looks up from the makeshift armor.",
+        "cues": [
+          "focus",
+          "trust",
+          "hesitation"
+        ],
+        "mood": [
+          "focused",
+          "uncertain"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for giving a task your full attention or letting someone in.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "01396514-cave-mouth-in-hard-light.mp4",
+      "source_start": 1396.514,
+      "source_end_exclusive": 1400.142625,
+      "duration": 3.628625,
+      "frames": 87,
+      "tags": [
+        "escape",
+        "isolation",
+        "landscape"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 8838607,
+      "editorial": {
+        "action": "Cave mouth in hard light.",
+        "cues": [
+          "pressure",
+          "isolation"
+        ],
+        "mood": [
+          "tense",
+          "lonely"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for feeling the stakes rise or carrying something alone.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "01574298-group-crosses-the-desert.mp4",
+      "source_start": 1574.298,
+      "source_end_exclusive": 1579.8035,
+      "duration": 5.5055,
+      "frames": 132,
+      "tags": [
+        "teamwork",
+        "persistence",
+        "scale"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 10797218,
+      "editorial": {
+        "action": "Group crosses the desert.",
+        "cues": [
+          "teamwork",
+          "resolve"
+        ],
+        "mood": [
+          "cooperative",
+          "determined"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for getting something done together or deciding to keep going.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "01662315-tony-listens-by-a-window.mp4",
+      "source_start": 1662.315,
+      "source_end_exclusive": 1667.8205,
+      "duration": 5.505,
+      "frames": 132,
+      "tags": [
+        "reflection",
+        "gravity",
+        "conversation"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 7429613,
+      "editorial": {
+        "action": "Tony looks off-camera beside a bright window.",
+        "cues": [
+          "reflection",
+          "hesitation"
+        ],
+        "mood": [
+          "quiet"
+        ],
+        "framing": "Face close-up",
+        "fit": "Possible use for taking a moment to think or being unsure of the next move.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "excerpt_seconds": [
+            0.826,
+            2.752,
+            4.679
+          ],
+          "sheet": "pilot-05.jpg"
+        }
+      }
+    },
+    {
+      "file": "01751332-two-figures-in-the-workshop.mp4",
+      "source_start": 1751.332,
+      "source_end_exclusive": 1753.959625,
+      "duration": 2.627625,
+      "frames": 63,
+      "tags": [
+        "scale",
+        "inventing",
+        "preparation"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 4992622,
+      "editorial": {
+        "action": "Two figures in the workshop.",
+        "cues": [
+          "focus"
+        ],
+        "mood": [
+          "focused"
+        ],
+        "framing": "Shared frame",
+        "fit": "Possible use for giving a task your full attention.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "01842599-pepper-helps-tony-in-the-lab.mp4",
+      "source_start": 1842.599,
+      "source_end_exclusive": 1848.1045,
+      "duration": 5.5055,
+      "frames": 132,
+      "tags": [
+        "trust",
+        "care",
+        "vulnerability"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 10622830,
+      "editorial": {
+        "action": "Pepper helps tony in the lab.",
+        "cues": [
+          "trust",
+          "help"
+        ],
+        "mood": [
+          "tender"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for letting someone in or reaching out or accepting support.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "01936616-tony-reclines-with-the-reactor.mp4",
+      "source_start": 1936.616,
+      "source_end_exclusive": 1940.244625,
+      "duration": 3.628625,
+      "frames": 87,
+      "tags": [
+        "recovery",
+        "discomfort",
+        "effort"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 6776678,
+      "editorial": {
+        "action": "Tony reclines with the reactor.",
+        "cues": [
+          "recovery",
+          "resolve"
+        ],
+        "mood": [
+          "resilient",
+          "determined"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for regrouping before the next attempt or deciding to keep going.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "02025133-walking-across-the-hangar.mp4",
+      "source_start": 2025.133,
+      "source_end_exclusive": 2030.513375,
+      "duration": 5.38,
+      "frames": 129,
+      "tags": [
+        "arrival",
+        "teamwork",
+        "scale"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 10498629,
+      "editorial": {
+        "action": "Walking across the hangar.",
+        "cues": [
+          "transition",
+          "teamwork"
+        ],
+        "mood": [
+          "cooperative"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for moving into a new situation or getting something done together.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "02112150-tony-in-front-of-a-holographic-workbench.mp4",
+      "source_start": 2112.15,
+      "source_end_exclusive": 2117.6555,
+      "duration": 5.505,
+      "frames": 132,
+      "tags": [
+        "planning",
+        "innovation",
+        "focus"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 14981137,
+      "editorial": {
+        "action": "Tony in front of a holographic workbench.",
+        "cues": [
+          "focus"
+        ],
+        "mood": [
+          "focused"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for giving a task your full attention.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "02202667-tony-works-at-a-crowded-bench.mp4",
+      "source_start": 2202.667,
+      "source_end_exclusive": 2208.1725,
+      "duration": 5.5055,
+      "frames": 132,
+      "tags": [
+        "craft",
+        "patience",
+        "repetition"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 9158675,
+      "editorial": {
+        "action": "Tony works at a crowded bench.",
+        "cues": [
+          "craft",
+          "focus",
+          "repetition"
+        ],
+        "mood": [
+          "methodical",
+          "focused"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for making or refining something with care or giving a task your full attention.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "02292684-tony-alone-in-a-wide-workshop.mp4",
+      "source_start": 2292.684,
+      "source_end_exclusive": 2298.1895,
+      "duration": 5.5055,
+      "frames": 132,
+      "tags": [
+        "solitude",
+        "tinkering",
+        "persistence"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 10724516,
+      "editorial": {
+        "action": "Tony alone in a wide workshop.",
+        "cues": [
+          "isolation",
+          "resolve"
+        ],
+        "mood": [
+          "lonely",
+          "determined"
+        ],
+        "framing": "Wide or establishing",
+        "fit": "Possible use for carrying something alone or deciding to keep going.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "02383951-two-men-talk-across-the-counter.mp4",
+      "source_start": 2383.951,
+      "source_end_exclusive": 2387.329375,
+      "duration": 3.378,
+      "frames": 81,
+      "tags": [
+        "casual",
+        "conversation",
+        "disagreement"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 5587868,
+      "editorial": {
+        "action": "Two men talk across the counter.",
+        "cues": [
+          "connection",
+          "conflict"
+        ],
+        "mood": [
+          "human",
+          "tense"
+        ],
+        "framing": "Shared frame",
+        "fit": "Possible use for finding common ground or meeting resistance.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "02404000-tony-and-robot-prepare-the-flight-test.mp4",
+      "source_start": 2404,
+      "source_end_exclusive": 2410.715042,
+      "duration": 6.715042,
+      "frames": 161,
+      "tags": [
+        "building",
+        "experimentation",
+        "preparation"
+      ],
+      "review": "Timestamped contact-sheet review",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 13984679,
+      "editorial": {
+        "action": "Tony and robot prepare the flight test.",
+        "cues": [
+          "craft",
+          "focus"
+        ],
+        "mood": [
+          "methodical",
+          "focused"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for making or refining something with care or giving a task your full attention.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Timestamped contact-sheet review"
+        }
+      }
+    },
+    {
+      "file": "02427900-tony-adjusts-and-lands-prototype.mp4",
+      "source_start": 2427.9,
+      "source_end_exclusive": 2435.198958,
+      "duration": 7.298958,
+      "frames": 175,
+      "tags": [
+        "trial and error",
+        "adaptation",
+        "balance"
+      ],
+      "review": "Timestamped contact-sheet review",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 15239986,
+      "editorial": {
+        "action": "Tony lifts above the workshop floor as bright jets fire beneath his feet.",
+        "cues": [
+          "craft",
+          "recovery"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "framing": "Wide effects action",
+        "fit": "Possible use for making or refining something with care or regrouping before the next attempt.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "excerpt_seconds": [
+            1.095,
+            3.649,
+            6.204
+          ],
+          "sheet": "pilot-05.jpg"
+        }
+      }
+    },
+    {
+      "file": "02436200-tony-resets-for-another-attempt.mp4",
+      "source_start": 2436.2,
+      "source_end_exclusive": 2441.788917,
+      "duration": 5.588917,
+      "frames": 134,
+      "tags": [
+        "reset",
+        "repetition",
+        "craft"
+      ],
+      "review": "Timestamped contact-sheet review",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 10146913,
+      "editorial": {
+        "action": "Tony resets for another attempt.",
+        "cues": [
+          "recovery",
+          "repetition",
+          "craft"
+        ],
+        "mood": [
+          "resilient",
+          "methodical"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for regrouping before the next attempt or putting in the same work again.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Timestamped contact-sheet review"
+        }
+      }
+    },
+    {
+      "file": "02454400-prototype-boots-firing-close-up.mp4",
+      "source_start": 2454.4,
+      "source_end_exclusive": 2457.319583,
+      "duration": 2.919,
+      "frames": 70,
+      "tags": [
+        "craft",
+        "experiment",
+        "ignition"
+      ],
+      "review": "Timestamped contact-sheet review",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 5917924,
+      "editorial": {
+        "action": "Prototype boots firing close up.",
+        "cues": [
+          "craft"
+        ],
+        "mood": [
+          "methodical"
+        ],
+        "framing": "Face detail",
+        "fit": "Possible use for making or refining something with care.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Timestamped contact-sheet review"
+        }
+      }
+    },
+    {
+      "file": "02561985-prototype-suit-stands-in-the-workshop.mp4",
+      "source_start": 2561.985,
+      "source_end_exclusive": 2565.613625,
+      "duration": 3.628625,
+      "frames": 87,
+      "tags": [
+        "anticipation",
+        "craft",
+        "reveal"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 7340514,
+      "editorial": {
+        "action": "Prototype suit stands in the workshop.",
+        "cues": [
+          "anticipation",
+          "craft"
+        ],
+        "mood": [
+          "anticipatory",
+          "methodical"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for waiting for the outcome or making or refining something with care.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "02577500-suit-in-workshop.mp4",
+      "source_start": 2577.5,
+      "source_end_exclusive": 2581.712542,
+      "duration": 4.212542,
+      "frames": 101,
+      "tags": [
+        "preparation",
+        "testing",
+        "reveal"
+      ],
+      "review": "Timestamped contact-sheet review",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 7328418,
+      "editorial": {
+        "action": "Suit in workshop.",
+        "cues": [
+          "focus"
+        ],
+        "mood": [
+          "focused"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for giving a task your full attention.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Timestamped contact-sheet review"
+        }
+      }
+    },
+    {
+      "file": "02584700-iron-man-flies-through-tunnel.mp4",
+      "source_start": 2584.7,
+      "source_end_exclusive": 2588.704,
+      "duration": 4.004,
+      "frames": 96,
+      "tags": [
+        "breakthrough",
+        "speed",
+        "risk"
+      ],
+      "review": "Timestamped contact-sheet review",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 9343402,
+      "editorial": {
+        "action": "Iron man flies through tunnel.",
+        "cues": [
+          "pressure"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for feeling the stakes rise.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Timestamped contact-sheet review"
+        }
+      }
+    },
+    {
+      "file": "02746519-hands-open-a-wrapped-package.mp4",
+      "source_start": 2746.519,
+      "source_end_exclusive": 2750.648125,
+      "duration": 4.129,
+      "frames": 99,
+      "tags": [
+        "gesture",
+        "anticipation",
+        "keepsake"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 7895733,
+      "editorial": {
+        "action": "Hands open a wrapped package.",
+        "cues": [
+          "anticipation"
+        ],
+        "mood": [
+          "anticipatory"
+        ],
+        "framing": "Object or hand detail",
+        "fit": "Possible use for waiting for the outcome.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "02832036-pepper-smiles-at-tony.mp4",
+      "source_start": 2832.036,
+      "source_end_exclusive": 2837.5415,
+      "duration": 5.505,
+      "frames": 132,
+      "tags": [
+        "connection",
+        "warmth",
+        "relief"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 11551025,
+      "editorial": {
+        "action": "Pepper smiles at tony.",
+        "cues": [
+          "connection",
+          "relief"
+        ],
+        "mood": [
+          "human",
+          "released"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for finding common ground or letting the tension settle.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "02920303-pepper-and-tony-in-quiet-conversation.mp4",
+      "source_start": 2920.303,
+      "source_end_exclusive": 2925.182875,
+      "duration": 4.879875,
+      "frames": 117,
+      "tags": [
+        "uncertainty",
+        "listening",
+        "intimacy"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 7777037,
+      "editorial": {
+        "action": "Pepper and tony in quiet conversation.",
+        "cues": [
+          "hesitation",
+          "listening",
+          "connection"
+        ],
+        "mood": [
+          "uncertain",
+          "attentive",
+          "human"
+        ],
+        "framing": "Shared frame",
+        "fit": "Possible use for being unsure of the next move or taking in what someone says.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "02968400-tony-listens-at-the-gala.mp4",
+      "source_start": 2968.4,
+      "source_end_exclusive": 2972.487417,
+      "duration": 4.087417,
+      "frames": 98,
+      "tags": [
+        "conversation",
+        "listening",
+        "intimacy"
+      ],
+      "review": "Timestamped contact-sheet review",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 8421252,
+      "editorial": {
+        "action": "Tony listens at the gala.",
+        "cues": [
+          "connection",
+          "listening"
+        ],
+        "mood": [
+          "human",
+          "attentive"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for finding common ground or taking in what someone says.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Timestamped contact-sheet review"
+        }
+      }
+    },
+    {
+      "file": "03017820-tense-conversation-at-an-event.mp4",
+      "source_start": 3017.82,
+      "source_end_exclusive": 3020.697875,
+      "duration": 2.877875,
+      "frames": 69,
+      "tags": [
+        "confrontation",
+        "pressure",
+        "decision"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 7030694,
+      "editorial": {
+        "action": "Tense conversation at an event.",
+        "cues": [
+          "conflict",
+          "pressure",
+          "choice"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Shared frame",
+        "fit": "Possible use for meeting resistance or feeling the stakes rise.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "03102087-face-on-a-monitor.mp4",
+      "source_start": 3102.087,
+      "source_end_exclusive": 3105.965875,
+      "duration": 3.878875,
+      "frames": 93,
+      "tags": [
+        "distance",
+        "discovery",
+        "suspicion"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 4645628,
+      "editorial": {
+        "action": "Face on a monitor.",
+        "cues": [
+          "hesitation"
+        ],
+        "mood": [
+          "uncertain"
+        ],
+        "framing": "Face detail",
+        "fit": "Possible use for being unsure of the next move.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "03192854-arc-reactor-insert.mp4",
+      "source_start": 3192.854,
+      "source_end_exclusive": 3195.731875,
+      "duration": 2.877875,
+      "frames": 69,
+      "tags": [
+        "detail",
+        "energy",
+        "breakthrough"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 5158424,
+      "editorial": {
+        "action": "Arc reactor insert.",
+        "cues": [],
+        "mood": [],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Use as setting or texture when the exact line calls for this picture.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "03280871-iron-man-faces-a-group-in-the-village.mp4",
+      "source_start": 3280.871,
+      "source_end_exclusive": 3286.3765,
+      "duration": 5.5055,
+      "frames": 132,
+      "tags": [
+        "resolve",
+        "stakes",
+        "confrontation"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 14247592,
+      "editorial": {
+        "action": "Iron man faces a group in the village.",
+        "cues": [
+          "resolve",
+          "pressure",
+          "conflict"
+        ],
+        "mood": [
+          "determined",
+          "tense"
+        ],
+        "framing": "Face detail",
+        "fit": "Possible use for deciding to keep going or feeling the stakes rise.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "03371888-armored-helmet-in-rubble.mp4",
+      "source_start": 3371.888,
+      "source_end_exclusive": 3377.3935,
+      "duration": 5.5055,
+      "frames": 132,
+      "tags": [
+        "setback",
+        "aftermath",
+        "recovery"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 6633716,
+      "editorial": {
+        "action": "Armored hands appear in rubble, followed by the helmet lifting into view.",
+        "cues": [
+          "recovery",
+          "setback",
+          "resolve"
+        ],
+        "mood": [
+          "grave"
+        ],
+        "framing": "Ground-level action detail, payoff late in excerpt",
+        "fit": "Use for trying again after failure when the lift is within the cut.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "excerpt_seconds": [
+            0.0,
+            1.5,
+            3.5,
+            5.0
+          ],
+          "sheet": "examples-09.jpg"
+        }
+      }
+    },
+    {
+      "file": "03465655-rhodey-talks-in-the-control-room.mp4",
+      "source_start": 3465.655,
+      "source_end_exclusive": 3468.532875,
+      "duration": 2.877875,
+      "frames": 69,
+      "tags": [
+        "pressure",
+        "collaboration",
+        "decisions"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 2636888,
+      "editorial": {
+        "action": "Rhodey talks in the control room.",
+        "cues": [
+          "pressure",
+          "teamwork"
+        ],
+        "mood": [
+          "tense",
+          "cooperative"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for feeling the stakes rise or getting something done together.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "03731456-rhodey-at-the-lectern.mp4",
+      "source_start": 3731.456,
+      "source_end_exclusive": 3736.9615,
+      "duration": 5.5055,
+      "frames": 132,
+      "tags": [
+        "public speaking",
+        "anticipation",
+        "formality"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 9348158,
+      "editorial": {
+        "action": "Rhodey at the lectern.",
+        "cues": [
+          "anticipation"
+        ],
+        "mood": [
+          "anticipatory"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for waiting for the outcome.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "04000507-iron-man-emerges-in-low-light.mp4",
+      "source_start": 4000.507,
+      "source_end_exclusive": 4003.885375,
+      "duration": 3.378375,
+      "frames": 81,
+      "tags": [
+        "effort",
+        "suspense",
+        "arrival"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 3255553,
+      "editorial": {
+        "action": "Iron man emerges in low light.",
+        "cues": [
+          "resolve",
+          "anticipation",
+          "transition"
+        ],
+        "mood": [
+          "determined",
+          "anticipatory"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for deciding to keep going or waiting for the outcome.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "04091524-tony-in-damaged-armor.mp4",
+      "source_start": 4091.524,
+      "source_end_exclusive": 4097.0295,
+      "duration": 5.5055,
+      "frames": 132,
+      "tags": [
+        "setback",
+        "perseverance",
+        "pressure"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 9903465,
+      "editorial": {
+        "action": "Tony in damaged armor.",
+        "cues": [
+          "setback",
+          "resolve",
+          "pressure"
+        ],
+        "mood": [
+          "determined",
+          "tense"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for absorbing a setback or deciding to keep going.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "04186791-workshop-erupts-in-sparks.mp4",
+      "source_start": 4186.791,
+      "source_end_exclusive": 4190.920125,
+      "duration": 4.129,
+      "frames": 99,
+      "tags": [
+        "consequences",
+        "danger",
+        "spectacle"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 11789080,
+      "editorial": {
+        "action": "Workshop erupts in sparks.",
+        "cues": [
+          "setback",
+          "pressure"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for absorbing a setback or feeling the stakes rise.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    },
+    {
+      "file": "04276058-tony-looks-down-at-a-statement.mp4",
+      "source_start": 4276.058,
+      "source_end_exclusive": 4280.937875,
+      "duration": 4.879875,
+      "frames": 117,
+      "tags": [
+        "decision",
+        "composure",
+        "public speaking"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 7787239,
+      "editorial": {
+        "action": "Tony looks down at a statement.",
+        "cues": [
+          "choice",
+          "resolve"
+        ],
+        "mood": [
+          "determined"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for facing a decision or deciding to keep going.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      }
+    }
+  ]
+}

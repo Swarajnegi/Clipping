@@ -1,0 +1,4261 @@
+{
+  "source": "Steve Rogers - Avengers Endgame [2019] - [REMUX 4K HEVC-H265] - chaszq.mp4",
+  "source_bytes": 3166829417,
+  "source_mtime_ns": 1794242695685901800,
+  "source_resolution": [
+    3840,
+    1608
+  ],
+  "source_frame_rate": "24000/1001",
+  "source_duration": 2717.005958,
+  "posting_reuse_basis": "Unresolved. Local library.",
+  "time_basis": "Source-relative seconds on the native frame clock. Scanned boundaries are estimates.",
+  "clips": [
+    {
+      "candidate_id": 2,
+      "file": "00004796-figures-beside-a-glass-workspace.mp4",
+      "source_start": 4.796458333333333,
+      "source_end_exclusive": 13.221541666666665,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "work",
+        "anticipation",
+        "scale"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 6441132,
+      "editorial": {
+        "action": "Figures beside a glass workspace.",
+        "cues": [
+          "craft",
+          "anticipation"
+        ],
+        "mood": [
+          "methodical",
+          "anticipatory"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for making or refining something with care or waiting for the outcome.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 3,
+      "file": "00013805-active-shot.mp4",
+      "source_start": 13.805458333333332,
+      "source_end_exclusive": 22.230541666666664,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "movement",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 8985289,
+      "editorial": {
+        "action": "A man studies his reflection before a cut to the exterior at night.",
+        "cues": [
+          "reflection",
+          "transition"
+        ],
+        "mood": [
+          "quiet"
+        ],
+        "framing": "Mirror close-up then exterior",
+        "fit": "Possible use for taking a moment to think or moving into a new situation.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "excerpt_seconds": [
+            1.264,
+            4.213,
+            7.161
+          ],
+          "sheet": "pilot-00.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 4,
+      "file": "00022814-active-shot.mp4",
+      "source_start": 22.81445833333333,
+      "source_end_exclusive": 31.239541666666664,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "movement",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 6992828,
+      "editorial": {
+        "action": "People exchange looks and speak across a dim team room.",
+        "cues": [
+          "teamwork",
+          "listening"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "framing": "Close and medium dialogue",
+        "fit": "Possible use for getting something done together or taking in what someone says.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 27.0,
+          "scan_block": "block-0000.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 8,
+      "file": "00053804-face-on-a-holographic-display.mp4",
+      "source_start": 53.803749999999994,
+      "source_end_exclusive": 61.72833333333333,
+      "duration": 7.924583,
+      "frames": 190,
+      "tags": [
+        "discovery",
+        "technology",
+        "concern"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 11541402,
+      "editorial": {
+        "action": "Face on a holographic display.",
+        "cues": [
+          "hesitation"
+        ],
+        "mood": [
+          "uncertain"
+        ],
+        "framing": "Face detail",
+        "fit": "Possible use for being unsure of the next move.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 9,
+      "file": "00062312-tony-looks-down-in-the-lab.mp4",
+      "source_start": 62.31225,
+      "source_end_exclusive": 69.73633333333333,
+      "duration": 7.424083,
+      "frames": 178,
+      "tags": [
+        "focus",
+        "exhaustion",
+        "contemplation"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 9408472,
+      "editorial": {
+        "action": "Tony looks down in the lab.",
+        "cues": [
+          "focus",
+          "relief",
+          "reflection"
+        ],
+        "mood": [
+          "focused",
+          "released",
+          "quiet"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for giving a task your full attention or letting the tension settle.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 13,
+      "file": "00082291-steady-shot.mp4",
+      "source_start": 82.29054166666666,
+      "source_end_exclusive": 90.75733333333332,
+      "duration": 8.466792,
+      "frames": 203,
+      "tags": [
+        "steady framing",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 6918640,
+      "editorial": {
+        "action": "A man sits or stands apart in a dim interior, looking toward someone off-camera.",
+        "cues": [
+          "reflection",
+          "isolation"
+        ],
+        "mood": [
+          "quiet"
+        ],
+        "framing": "Medium interior",
+        "fit": "Possible use for taking a moment to think or carrying something alone.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 86.5,
+          "scan_block": "block-0001.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 16,
+      "file": "00105814-steve-in-a-quiet-close-up.mp4",
+      "source_start": 105.81404166666665,
+      "source_end_exclusive": 114.23912499999999,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "listening",
+        "concern",
+        "reflection"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5045326,
+      "editorial": {
+        "action": "Steve in a quiet close up.",
+        "cues": [
+          "listening",
+          "hesitation",
+          "reflection"
+        ],
+        "mood": [
+          "attentive",
+          "uncertain",
+          "quiet"
+        ],
+        "framing": "Face detail",
+        "fit": "Possible use for taking in what someone says or being unsure of the next move.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 21,
+      "file": "00136303-steady-shot.mp4",
+      "source_start": 136.30283333333333,
+      "source_end_exclusive": 142.22541666666666,
+      "duration": 5.922583,
+      "frames": 142,
+      "tags": [
+        "steady framing",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 6057141,
+      "editorial": {
+        "action": "A man sits or stands apart in a dim interior, looking toward someone off-camera.",
+        "cues": [
+          "reflection",
+          "isolation"
+        ],
+        "mood": [
+          "quiet"
+        ],
+        "framing": "Medium interior",
+        "fit": "Possible use for taking a moment to think or carrying something alone.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 139.5,
+          "scan_block": "block-0003.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 24,
+      "file": "00149816-tony-touches-the-arc-reactor.mp4",
+      "source_start": 149.81633333333332,
+      "source_end_exclusive": 158.24141666666665,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "vulnerability",
+        "technology",
+        "consequence"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 6611644,
+      "editorial": {
+        "action": "Tony gestures near his glowing chest device while talking across a room.",
+        "cues": [
+          "conflict",
+          "choice"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "framing": "Medium dialogue with device detail",
+        "fit": "Use for a tense disagreement or showing the personal cost of a decision.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "excerpt_seconds": [
+            0.0,
+            2.5,
+            5.5,
+            8.0
+          ],
+          "sheet": "examples-03.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 25,
+      "file": "00158784-tony-gestures-as-he-speaks.mp4",
+      "source_start": 158.783625,
+      "source_end_exclusive": 162.24541666666664,
+      "duration": 3.461792,
+      "frames": 83,
+      "tags": [
+        "tension",
+        "explanation",
+        "confrontation"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 3673067,
+      "editorial": {
+        "action": "Tony gestures as he speaks.",
+        "cues": [
+          "pressure",
+          "conflict"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for feeling the stakes rise or meeting resistance.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 30,
+      "file": "00175300-active-shot.mp4",
+      "source_start": 175.30012499999998,
+      "source_end_exclusive": 183.7252083333333,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "movement",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 8632065,
+      "editorial": {
+        "action": "People exchange looks and speak across a dim team room.",
+        "cues": [
+          "teamwork",
+          "listening"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "framing": "Close and medium dialogue",
+        "fit": "Possible use for getting something done together or taking in what someone says.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 179.5,
+          "scan_block": "block-0003.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 34,
+      "file": "00199783-active-shot.mp4",
+      "source_start": 199.78291666666667,
+      "source_end_exclusive": 208.24970833333333,
+      "duration": 8.466792,
+      "frames": 203,
+      "tags": [
+        "movement",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 6840701,
+      "editorial": {
+        "action": "People exchange looks and speak across a dim team room.",
+        "cues": [
+          "teamwork",
+          "listening"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "framing": "Close and medium dialogue",
+        "fit": "Possible use for getting something done together or taking in what someone says.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 204.0,
+          "scan_block": "block-0004.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 41,
+      "file": "00234818-team-gathers-in-the-workspace.mp4",
+      "source_start": 234.81791666666666,
+      "source_end_exclusive": 239.23899999999998,
+      "duration": 4.421083,
+      "frames": 106,
+      "tags": [
+        "collaboration",
+        "decision",
+        "planning"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 3603200,
+      "editorial": {
+        "action": "Team gathers in the workspace.",
+        "cues": [
+          "teamwork",
+          "choice",
+          "focus"
+        ],
+        "mood": [
+          "cooperative",
+          "focused"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for getting something done together or facing a decision.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 45,
+      "file": "00247789-steve-leans-forward-with-a-hand-on-his-head.mp4",
+      "source_start": 247.7892083333333,
+      "source_end_exclusive": 256.256,
+      "duration": 8.466792,
+      "frames": 203,
+      "tags": [
+        "setback",
+        "exhaustion",
+        "reflection"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 3682103,
+      "editorial": {
+        "action": "A man looks down inside a dark vehicle, followed by an insert of an object in his hand.",
+        "cues": [
+          "reflection",
+          "grief",
+          "isolation"
+        ],
+        "mood": [
+          "somber"
+        ],
+        "framing": "Seated face then object detail",
+        "fit": "Use for quiet reflection or for the private weight of a decision.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "excerpt_seconds": [
+            0.0,
+            2.5,
+            5.5,
+            8.0
+          ],
+          "sheet": "examples-02.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 48,
+      "file": "00270312-active-shot.mp4",
+      "source_start": 270.31170833333334,
+      "source_end_exclusive": 273.23129166666666,
+      "duration": 2.919583,
+      "frames": 70,
+      "tags": [
+        "movement",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 4581920,
+      "editorial": {
+        "action": "A figure stands in silhouette at a bright opening.",
+        "cues": [
+          "choice",
+          "anticipation"
+        ],
+        "mood": [
+          "grave"
+        ],
+        "framing": "Wide backlit silhouette",
+        "fit": "Possible use for facing a decision or waiting for the outcome.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 272.0,
+          "scan_block": "block-0006.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 52,
+      "file": "00301301-active-shot.mp4",
+      "source_start": 301.301,
+      "source_end_exclusive": 309.7260833333333,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "movement",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 10063384,
+      "editorial": {
+        "action": "An exhausted-looking figure sits amid wreckage and warm points of light.",
+        "cues": [
+          "setback",
+          "isolation"
+        ],
+        "mood": [
+          "somber"
+        ],
+        "framing": "Low light, wreckage",
+        "fit": "Possible use for absorbing a setback or carrying something alone.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 305.5,
+          "scan_block": "block-0006.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 54,
+      "file": "00312812-carol-looks-across-the-ship.mp4",
+      "source_start": 312.8125,
+      "source_end_exclusive": 321.2375833333333,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "resolve",
+        "concern",
+        "attention"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5258244,
+      "editorial": {
+        "action": "Carol looks across the ship.",
+        "cues": [
+          "resolve",
+          "hesitation",
+          "focus"
+        ],
+        "mood": [
+          "determined",
+          "uncertain",
+          "focused"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for deciding to keep going or being unsure of the next move.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 58,
+      "file": "00348807-steady-shot.mp4",
+      "source_start": 348.80679166666664,
+      "source_end_exclusive": 357.231875,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "steady framing",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 4997169,
+      "editorial": {
+        "action": "An exhausted-looking figure sits amid wreckage and warm points of light.",
+        "cues": [
+          "setback",
+          "isolation"
+        ],
+        "mood": [
+          "somber"
+        ],
+        "framing": "Low light, wreckage",
+        "fit": "Possible use for absorbing a setback or carrying something alone.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 353.0,
+          "scan_block": "block-0007.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 61,
+      "file": "00375792-steady-shot.mp4",
+      "source_start": 375.7920833333333,
+      "source_end_exclusive": 384.258875,
+      "duration": 8.466792,
+      "frames": 203,
+      "tags": [
+        "steady framing",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5316553,
+      "editorial": {
+        "action": "An exhausted-looking figure sits amid wreckage and warm points of light.",
+        "cues": [
+          "setback",
+          "isolation"
+        ],
+        "mood": [
+          "somber"
+        ],
+        "framing": "Low light, wreckage",
+        "fit": "Possible use for absorbing a setback or carrying something alone.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 380.0,
+          "scan_block": "block-0008.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 62,
+      "file": "00384801-figures-in-a-green-lit-group.mp4",
+      "source_start": 384.8010833333333,
+      "source_end_exclusive": 393.22616666666664,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "unity",
+        "anticipation",
+        "atmosphere"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5141508,
+      "editorial": {
+        "action": "Figures in a green lit group.",
+        "cues": [
+          "teamwork",
+          "anticipation"
+        ],
+        "mood": [
+          "cooperative",
+          "anticipatory"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for getting something done together or waiting for the outcome.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 66,
+      "file": "00420795-steady-shot.mp4",
+      "source_start": 420.795375,
+      "source_end_exclusive": 429.2204583333333,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "steady framing",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 6462633,
+      "editorial": {
+        "action": "A bespectacled man looks aside under green light.",
+        "cues": [
+          "reflection",
+          "hesitation"
+        ],
+        "mood": [
+          "uncertain"
+        ],
+        "framing": "Face close-up",
+        "fit": "Possible use for taking a moment to think or being unsure of the next move.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 425.0,
+          "scan_block": "block-0009.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 68,
+      "file": "00438813-steady-shot.mp4",
+      "source_start": 438.81337499999995,
+      "source_end_exclusive": 447.2384583333333,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "steady framing",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 4347045,
+      "editorial": {
+        "action": "People exchange looks and speak across a dim team room.",
+        "cues": [
+          "teamwork",
+          "listening"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "framing": "Close and medium dialogue",
+        "fit": "Possible use for getting something done together or taking in what someone says.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 443.0,
+          "scan_block": "block-0009.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 71,
+      "file": "00465799-steady-shot.mp4",
+      "source_start": 465.79866666666663,
+      "source_end_exclusive": 474.22374999999994,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "steady framing",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 4049181,
+      "editorial": {
+        "action": "People exchange looks and speak across a dim team room.",
+        "cues": [
+          "teamwork",
+          "listening"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "framing": "Close and medium dialogue",
+        "fit": "Possible use for getting something done together or taking in what someone says.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 470.0,
+          "scan_block": "block-0010.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 74,
+      "file": "00492784-steady-shot.mp4",
+      "source_start": 492.7839583333333,
+      "source_end_exclusive": 501.25075,
+      "duration": 8.466792,
+      "frames": 203,
+      "tags": [
+        "steady framing",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 4552275,
+      "editorial": {
+        "action": "A red-haired woman looks across a dark room.",
+        "cues": [
+          "listening",
+          "reflection"
+        ],
+        "mood": [
+          "subdued"
+        ],
+        "framing": "Face close-up",
+        "fit": "Possible use for taking in what someone says or taking a moment to think.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 497.0,
+          "scan_block": "block-0011.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 75,
+      "file": "00501793-steve-alone-in-an-indoor-space.mp4",
+      "source_start": 501.7929583333333,
+      "source_end_exclusive": 510.25974999999994,
+      "duration": 8.466792,
+      "frames": 203,
+      "tags": [
+        "reflection",
+        "solitude",
+        "recovery"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 4389233,
+      "editorial": {
+        "action": "Steve alone in an indoor space.",
+        "cues": [
+          "reflection",
+          "isolation",
+          "recovery"
+        ],
+        "mood": [
+          "quiet",
+          "lonely",
+          "resilient"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for taking a moment to think or carrying something alone.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 78,
+      "file": "00528820-steady-shot.mp4",
+      "source_start": 528.8199583333333,
+      "source_end_exclusive": 537.2450416666667,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "steady framing",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 8244088,
+      "editorial": {
+        "action": "A man sits or stands apart in a dim interior, looking toward someone off-camera.",
+        "cues": [
+          "reflection",
+          "isolation"
+        ],
+        "mood": [
+          "quiet"
+        ],
+        "framing": "Medium interior",
+        "fit": "Possible use for taking a moment to think or carrying something alone.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 533.0,
+          "scan_block": "block-0011.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 82,
+      "file": "00564814-steady-shot.mp4",
+      "source_start": 564.81425,
+      "source_end_exclusive": 573.2393333333333,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "steady framing",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 2946377,
+      "editorial": {
+        "action": "A red-haired woman looks across a dark room.",
+        "cues": [
+          "listening",
+          "reflection"
+        ],
+        "mood": [
+          "subdued"
+        ],
+        "framing": "Face close-up",
+        "fit": "Possible use for taking in what someone says or taking a moment to think.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 569.0,
+          "scan_block": "block-0012.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 85,
+      "file": "00591800-steady-shot.mp4",
+      "source_start": 591.7995416666666,
+      "source_end_exclusive": 600.224625,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "steady framing",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 3494557,
+      "editorial": {
+        "action": "A red-haired woman looks across a dark room.",
+        "cues": [
+          "listening",
+          "reflection"
+        ],
+        "mood": [
+          "subdued"
+        ],
+        "framing": "Face close-up",
+        "fit": "Possible use for taking in what someone says or taking a moment to think.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 596.0,
+          "scan_block": "block-0013.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 88,
+      "file": "00615281-glowing-plan-on-the-monitor.mp4",
+      "source_start": 615.2813333333332,
+      "source_end_exclusive": 619.7441249999999,
+      "duration": 4.462792,
+      "frames": 107,
+      "tags": [
+        "planning",
+        "discovery",
+        "technology"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 3962420,
+      "editorial": {
+        "action": "Glowing plan on the monitor.",
+        "cues": [
+          "focus"
+        ],
+        "mood": [
+          "focused"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for giving a task your full attention.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 92,
+      "file": "00641307-steady-shot.mp4",
+      "source_start": 641.3073333333333,
+      "source_end_exclusive": 646.2289166666666,
+      "duration": 4.921583,
+      "frames": 118,
+      "tags": [
+        "steady framing",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5162044,
+      "editorial": {
+        "action": "A man stands in front of glass and a nighttime city.",
+        "cues": [
+          "reflection",
+          "hesitation"
+        ],
+        "mood": [
+          "quiet"
+        ],
+        "framing": "Medium interior",
+        "fit": "Possible use for taking a moment to think or being unsure of the next move.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 644.0,
+          "scan_block": "block-0014.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 95,
+      "file": "00663288-steady-shot.mp4",
+      "source_start": 663.2876249999999,
+      "source_end_exclusive": 671.7544166666667,
+      "duration": 8.466792,
+      "frames": 203,
+      "tags": [
+        "steady framing",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 11091110,
+      "editorial": {
+        "action": "A man stands in front of glass and a nighttime city.",
+        "cues": [
+          "reflection",
+          "hesitation"
+        ],
+        "mood": [
+          "quiet"
+        ],
+        "framing": "Medium interior",
+        "fit": "Possible use for taking a moment to think or being unsure of the next move.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 667.5,
+          "scan_block": "block-0014.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 100,
+      "file": "00689314-wide-view-of-the-team-workspace.mp4",
+      "source_start": 689.313625,
+      "source_end_exclusive": 697.7387083333333,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "scale",
+        "collaboration",
+        "effort"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 8561954,
+      "editorial": {
+        "action": "Wide view of the team workspace.",
+        "cues": [
+          "teamwork",
+          "resolve"
+        ],
+        "mood": [
+          "cooperative",
+          "determined"
+        ],
+        "framing": "Wide or establishing",
+        "fit": "Possible use for getting something done together or deciding to keep going.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 102,
+      "file": "00707290-man-gestures-by-the-window.mp4",
+      "source_start": 707.2899166666666,
+      "source_end_exclusive": 715.7567083333333,
+      "duration": 8.466792,
+      "frames": 203,
+      "tags": [
+        "explanation",
+        "teamwork",
+        "resolve"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 13485741,
+      "editorial": {
+        "action": "Man gestures by the window.",
+        "cues": [
+          "teamwork",
+          "resolve"
+        ],
+        "mood": [
+          "cooperative",
+          "determined"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for getting something done together or deciding to keep going.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 108,
+      "file": "00735318-steady-shot.mp4",
+      "source_start": 735.3179166666666,
+      "source_end_exclusive": 740.7399999999999,
+      "duration": 5.422083,
+      "frames": 130,
+      "tags": [
+        "steady framing",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 6302770,
+      "editorial": {
+        "action": "A man stands in front of glass and a nighttime city.",
+        "cues": [
+          "reflection",
+          "hesitation"
+        ],
+        "mood": [
+          "quiet"
+        ],
+        "framing": "Medium interior",
+        "fit": "Possible use for taking a moment to think or being unsure of the next move.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 738.0,
+          "scan_block": "block-0016.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 111,
+      "file": "00760802-active-shot.mp4",
+      "source_start": 760.8017083333333,
+      "source_end_exclusive": 763.2207916666666,
+      "duration": 2.419083,
+      "frames": 58,
+      "tags": [
+        "movement",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 3627714,
+      "editorial": {
+        "action": "People gather and look toward one another on a covered lakeside porch.",
+        "cues": [
+          "connection",
+          "listening"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "framing": "Daylight medium and shared shots",
+        "fit": "Possible use for finding common ground or taking in what someone says.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 762.0,
+          "scan_block": "block-0016.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 112,
+      "file": "00769811-steve-talks-on-the-porch.mp4",
+      "source_start": 769.8107083333333,
+      "source_end_exclusive": 772.7302916666666,
+      "duration": 2.919583,
+      "frames": 70,
+      "tags": [
+        "honesty",
+        "negotiation",
+        "quiet"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 3516686,
+      "editorial": {
+        "action": "Steve talks on the porch.",
+        "cues": [
+          "trust",
+          "conflict"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for letting someone in or meeting resistance.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 117,
+      "file": "00790790-steady-shot.mp4",
+      "source_start": 790.79,
+      "source_end_exclusive": 797.2547916666666,
+      "duration": 6.464792,
+      "frames": 155,
+      "tags": [
+        "steady framing",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 8535450,
+      "editorial": {
+        "action": "People gather and look toward one another on a covered lakeside porch.",
+        "cues": [
+          "connection",
+          "listening"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "framing": "Daylight medium and shared shots",
+        "fit": "Possible use for finding common ground or taking in what someone says.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 794.0,
+          "scan_block": "block-0017.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 125,
+      "file": "00824282-figures-on-a-rural-porch.mp4",
+      "source_start": 824.2817916666667,
+      "source_end_exclusive": 831.2470833333333,
+      "duration": 6.965292,
+      "frames": 167,
+      "tags": [
+        "family",
+        "quiet",
+        "conversation"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 12588270,
+      "editorial": {
+        "action": "Figures on a rural porch.",
+        "cues": [
+          "connection"
+        ],
+        "mood": [
+          "human"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for finding common ground.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 129,
+      "file": "00844802-steady-shot.mp4",
+      "source_start": 844.8022916666666,
+      "source_end_exclusive": 851.225375,
+      "duration": 6.423083,
+      "frames": 154,
+      "tags": [
+        "steady framing",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5859007,
+      "editorial": {
+        "action": "People gather and look toward one another on a covered lakeside porch.",
+        "cues": [
+          "connection",
+          "listening"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "framing": "Daylight medium and shared shots",
+        "fit": "Possible use for finding common ground or taking in what someone says.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 848.0,
+          "scan_block": "block-0018.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 135,
+      "file": "00878294-two-people-on-a-bench-outside.mp4",
+      "source_start": 878.2940833333332,
+      "source_end_exclusive": 886.260375,
+      "duration": 7.966292,
+      "frames": 191,
+      "tags": [
+        "companionship",
+        "listening",
+        "reflection"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 11737255,
+      "editorial": {
+        "action": "Two people sit on a covered porch as a third comes in and leans into an embrace.",
+        "cues": [
+          "help",
+          "connection",
+          "trust"
+        ],
+        "mood": [
+          "warm"
+        ],
+        "framing": "Daylight shared frame",
+        "fit": "For a line about asking for help, show someone making room for another person and welcoming them in.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "excerpt_seconds": [
+            0.0,
+            2.5,
+            5.0,
+            7.5
+          ],
+          "sheet": "examples-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 139,
+      "file": "00902819-active-shot.mp4",
+      "source_start": 902.8185833333333,
+      "source_end_exclusive": 908.2406666666666,
+      "duration": 5.422083,
+      "frames": 130,
+      "tags": [
+        "movement",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 7544471,
+      "editorial": {
+        "action": "People gather and look toward one another on a covered lakeside porch.",
+        "cues": [
+          "connection",
+          "listening"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "framing": "Daylight medium and shared shots",
+        "fit": "Possible use for finding common ground or taking in what someone says.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 905.5,
+          "scan_block": "block-0020.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 143,
+      "file": "00931305-man-looks-down-in-a-bright-room.mp4",
+      "source_start": 931.3053749999999,
+      "source_end_exclusive": 939.7304583333332,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "quiet",
+        "thought",
+        "preparation"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 10117878,
+      "editorial": {
+        "action": "Man looks down in a bright room.",
+        "cues": [
+          "reflection",
+          "focus"
+        ],
+        "mood": [
+          "quiet",
+          "focused"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for taking a moment to think or giving a task your full attention.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 145,
+      "file": "00946320-active-shot.mp4",
+      "source_start": 946.3203749999999,
+      "source_end_exclusive": 949.7404583333333,
+      "duration": 3.420083,
+      "frames": 82,
+      "tags": [
+        "movement",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5837064,
+      "editorial": {
+        "action": "A man faces an open landscape with someone in the foreground.",
+        "cues": [
+          "reflection",
+          "anticipation"
+        ],
+        "mood": [
+          "measured"
+        ],
+        "framing": "Wide exterior",
+        "fit": "Possible use for taking a moment to think or waiting for the outcome.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 948.0,
+          "scan_block": "block-0021.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 148,
+      "file": "00955788-vehicle-pulls-up-at-the-compound.mp4",
+      "source_start": 955.7881666666666,
+      "source_end_exclusive": 960.7514583333333,
+      "duration": 4.963292,
+      "frames": 119,
+      "tags": [
+        "arrival",
+        "commitment",
+        "change"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5951833,
+      "editorial": {
+        "action": "Vehicle pulls up at the compound.",
+        "cues": [
+          "transition",
+          "choice"
+        ],
+        "mood": [],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for moving into a new situation or facing a decision.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 150,
+      "file": "00969802-tony-at-the-car-window.mp4",
+      "source_start": 969.8021666666666,
+      "source_end_exclusive": 973.2222499999999,
+      "duration": 3.420083,
+      "frames": 82,
+      "tags": [
+        "decision",
+        "conversation",
+        "return"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 1812314,
+      "editorial": {
+        "action": "Tony at the car window.",
+        "cues": [
+          "choice",
+          "connection",
+          "transition"
+        ],
+        "mood": [
+          "human"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for facing a decision or finding common ground.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 158,
+      "file": "01000791-active-shot.mp4",
+      "source_start": 1000.7914583333333,
+      "source_end_exclusive": 1003.7527499999999,
+      "duration": 2.961292,
+      "frames": 71,
+      "tags": [
+        "movement",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 4234771,
+      "editorial": {
+        "action": "Men face one another outdoors beside a vehicle and shield.",
+        "cues": [
+          "trust",
+          "teamwork"
+        ],
+        "mood": [
+          "measured"
+        ],
+        "framing": "Daylight dialogue and shared frame",
+        "fit": "Possible use for letting someone in or getting something done together.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 1002.5,
+          "scan_block": "block-0022.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 161,
+      "file": "01016807-two-men-face-to-face-at-the-compound.mp4",
+      "source_start": 1016.8074583333332,
+      "source_end_exclusive": 1025.2325416666665,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "trust",
+        "reconciliation",
+        "conversation"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 10006210,
+      "editorial": {
+        "action": "Two men face to face at the compound.",
+        "cues": [
+          "trust",
+          "connection"
+        ],
+        "mood": [
+          "human"
+        ],
+        "framing": "Face detail",
+        "fit": "Possible use for letting someone in or finding common ground.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 166,
+      "file": "01049298-active-shot.mp4",
+      "source_start": 1049.2982499999998,
+      "source_end_exclusive": 1055.2208333333333,
+      "duration": 5.922583,
+      "frames": 142,
+      "tags": [
+        "movement",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 8757570,
+      "editorial": {
+        "action": "Men face one another outdoors beside a vehicle and shield.",
+        "cues": [
+          "trust",
+          "teamwork"
+        ],
+        "mood": [
+          "measured"
+        ],
+        "framing": "Daylight dialogue and shared frame",
+        "fit": "Possible use for letting someone in or getting something done together.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 1052.5,
+          "scan_block": "block-0023.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 167,
+      "file": "01056806-active-shot.mp4",
+      "source_start": 1056.80575,
+      "source_end_exclusive": 1062.7283333333332,
+      "duration": 5.922583,
+      "frames": 142,
+      "tags": [
+        "movement",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 8341964,
+      "editorial": {
+        "action": "Men face one another outdoors beside a vehicle and shield.",
+        "cues": [
+          "trust",
+          "teamwork"
+        ],
+        "mood": [
+          "measured"
+        ],
+        "framing": "Daylight dialogue and shared frame",
+        "fit": "Possible use for letting someone in or getting something done together.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 1060.0,
+          "scan_block": "block-0023.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 172,
+      "file": "01088296-sunset-through-the-hangar-windows.mp4",
+      "source_start": 1088.2955416666666,
+      "source_end_exclusive": 1092.7583333333332,
+      "duration": 4.462792,
+      "frames": 107,
+      "tags": [
+        "time passing",
+        "scale",
+        "transition"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 9010411,
+      "editorial": {
+        "action": "Sunset through the hangar windows.",
+        "cues": [
+          "transition"
+        ],
+        "mood": [],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for moving into a new situation.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 174,
+      "file": "01108316-active-shot.mp4",
+      "source_start": 1108.3155416666666,
+      "source_end_exclusive": 1116.740625,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "movement",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 13052127,
+      "editorial": {
+        "action": "Sunlight streams into a large room through glass.",
+        "cues": [
+          "reflection",
+          "transition"
+        ],
+        "mood": [
+          "warm"
+        ],
+        "framing": "Wide interior",
+        "fit": "Possible use for taking a moment to think or moving into a new situation.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 1112.5,
+          "scan_block": "block-0024.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 178,
+      "file": "01128711-clint-in-a-quiet-close-up.mp4",
+      "source_start": 1128.7109166666667,
+      "source_end_exclusive": 1130.2958333333333,
+      "duration": 1.584917,
+      "frames": 38,
+      "tags": [
+        "grief",
+        "concern",
+        "resolve"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 1579067,
+      "editorial": {
+        "action": "Clint in a quiet close up.",
+        "cues": [
+          "grief",
+          "hesitation",
+          "resolve"
+        ],
+        "mood": [
+          "somber",
+          "uncertain",
+          "determined"
+        ],
+        "framing": "Face detail",
+        "fit": "Possible use for feeling the weight of a loss or being unsure of the next move.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 186,
+      "file": "01161786-group-inside-the-time-travel-rig.mp4",
+      "source_start": 1161.785625,
+      "source_end_exclusive": 1164.2464166666666,
+      "duration": 2.460792,
+      "frames": 59,
+      "tags": [
+        "preparation",
+        "teamwork",
+        "risk"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5535695,
+      "editorial": {
+        "action": "Group inside the time travel rig.",
+        "cues": [
+          "focus",
+          "teamwork",
+          "pressure"
+        ],
+        "mood": [
+          "focused",
+          "cooperative",
+          "tense"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for giving a task your full attention or getting something done together.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 191,
+      "file": "01195820-steve-looks-out-of-the-window.mp4",
+      "source_start": 1195.8196249999999,
+      "source_end_exclusive": 1199.7402083333332,
+      "duration": 3.920583,
+      "frames": 94,
+      "tags": [
+        "thought",
+        "purpose",
+        "isolation"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 4661494,
+      "editorial": {
+        "action": "Steve looks out of the window.",
+        "cues": [
+          "reflection",
+          "isolation"
+        ],
+        "mood": [
+          "quiet",
+          "lonely"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for taking a moment to think or carrying something alone.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 194,
+      "file": "01215297-team-listens-in-a-tight-group.mp4",
+      "source_start": 1215.2974166666665,
+      "source_end_exclusive": 1217.7582083333332,
+      "duration": 2.460792,
+      "frames": 59,
+      "tags": [
+        "alignment",
+        "responsibility",
+        "attention"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 3212734,
+      "editorial": {
+        "action": "Team listens in a tight group.",
+        "cues": [
+          "focus"
+        ],
+        "mood": [
+          "focused"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for giving a task your full attention.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 197,
+      "file": "01229311-active-shot.mp4",
+      "source_start": 1229.3114166666667,
+      "source_end_exclusive": 1234.7334999999998,
+      "duration": 5.422083,
+      "frames": 130,
+      "tags": [
+        "movement",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 8412678,
+      "editorial": {
+        "action": "Uniformed figures stand together before action.",
+        "cues": [
+          "teamwork",
+          "anticipation"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "framing": "Shared staging shot",
+        "fit": "Possible use for getting something done together or waiting for the outcome.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 1232.0,
+          "scan_block": "block-0027.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 203,
+      "file": "01267308-active-shot.mp4",
+      "source_start": 1267.3077083333333,
+      "source_end_exclusive": 1271.7287916666667,
+      "duration": 4.421083,
+      "frames": 106,
+      "tags": [
+        "movement",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 6262630,
+      "editorial": {
+        "action": "Uniformed figures stand together before action.",
+        "cues": [
+          "teamwork",
+          "anticipation"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "framing": "Shared staging shot",
+        "fit": "Possible use for getting something done together or waiting for the outcome.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 1269.5,
+          "scan_block": "block-0028.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 205,
+      "file": "01279320-steve-walks-toward-the-team.mp4",
+      "source_start": 1279.3197083333332,
+      "source_end_exclusive": 1283.7407916666666,
+      "duration": 4.421083,
+      "frames": 106,
+      "tags": [
+        "arrival",
+        "leadership",
+        "momentum"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5066805,
+      "editorial": {
+        "action": "Steve walks toward the team.",
+        "cues": [
+          "transition"
+        ],
+        "mood": [],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for moving into a new situation.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 206,
+      "file": "01335209-active-shot.mp4",
+      "source_start": 1335.2088749999998,
+      "source_end_exclusive": 1336.7937916666665,
+      "duration": 1.584917,
+      "frames": 38,
+      "tags": [
+        "movement",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 1710203,
+      "editorial": {
+        "action": "A costumed man extends a hand or holds up a small bright object.",
+        "cues": [
+          "focus",
+          "anticipation"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Action detail",
+        "fit": "Possible use for giving a task your full attention or waiting for the outcome.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 1336.0,
+          "scan_block": "block-0029.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 208,
+      "file": "01360317-active-shot.mp4",
+      "source_start": 1360.3172916666665,
+      "source_end_exclusive": 1362.736375,
+      "duration": 2.419083,
+      "frames": 58,
+      "tags": [
+        "movement",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5261000,
+      "editorial": {
+        "action": "A costumed man extends a hand or holds up a small bright object.",
+        "cues": [
+          "focus",
+          "anticipation"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Action detail",
+        "fit": "Possible use for giving a task your full attention or waiting for the outcome.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 1361.5,
+          "scan_block": "block-0030.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 209,
+      "file": "01366282-wide-view-of-the-compound.mp4",
+      "source_start": 1366.2815833333332,
+      "source_end_exclusive": 1374.748375,
+      "duration": 8.466792,
+      "frames": 203,
+      "tags": [
+        "scale",
+        "work",
+        "anticipation"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 13277422,
+      "editorial": {
+        "action": "A standing figure steps past someone down on the atrium floor.",
+        "cues": [
+          "setback",
+          "pressure"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Wide action",
+        "fit": "Possible use for absorbing a setback or feeling the stakes rise.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "excerpt_seconds": [
+            1.27,
+            4.233,
+            7.197
+          ],
+          "sheet": "pilot-00.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 217,
+      "file": "01413787-steve-in-the-car.mp4",
+      "source_start": 1413.7873749999999,
+      "source_end_exclusive": 1417.2491666666665,
+      "duration": 3.461792,
+      "frames": 83,
+      "tags": [
+        "travel",
+        "pressure",
+        "attention"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5091544,
+      "editorial": {
+        "action": "Steve in the car.",
+        "cues": [
+          "transition",
+          "pressure",
+          "focus"
+        ],
+        "mood": [
+          "tense",
+          "focused"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for moving into a new situation or feeling the stakes rise.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 219,
+      "file": "01429261-active-shot.mp4",
+      "source_start": 1429.2611666666667,
+      "source_end_exclusive": 1431.2631666666666,
+      "duration": 2.002,
+      "frames": 48,
+      "tags": [
+        "movement",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 2547343,
+      "editorial": {
+        "action": "Two men face each other in a bright building.",
+        "cues": [
+          "conflict",
+          "choice"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "framing": "Medium dialogue",
+        "fit": "Possible use for meeting resistance or facing a decision.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 1430.5,
+          "scan_block": "block-0031.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 224,
+      "file": "01455788-captain-america-in-the-street.mp4",
+      "source_start": 1455.7876666666666,
+      "source_end_exclusive": 1460.2504583333332,
+      "duration": 4.462792,
+      "frames": 107,
+      "tags": [
+        "readiness",
+        "conflict",
+        "responsibility"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 9026007,
+      "editorial": {
+        "action": "Captain america in the street.",
+        "cues": [
+          "conflict"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for meeting resistance.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 229,
+      "file": "01472805-active-shot.mp4",
+      "source_start": 1472.8046666666667,
+      "source_end_exclusive": 1481.22975,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "movement",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 9336132,
+      "editorial": {
+        "action": "Two men face each other in a bright building.",
+        "cues": [
+          "conflict",
+          "choice"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "framing": "Medium dialogue",
+        "fit": "Possible use for meeting resistance or facing a decision.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 1477.0,
+          "scan_block": "block-0032.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 233,
+      "file": "01489780-workspace-through-the-wide-windows.mp4",
+      "source_start": 1489.7799583333333,
+      "source_end_exclusive": 1492.24075,
+      "duration": 2.460792,
+      "frames": 59,
+      "tags": [
+        "focus",
+        "work",
+        "atmosphere"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5823167,
+      "editorial": {
+        "action": "Workspace through the wide windows.",
+        "cues": [
+          "focus",
+          "craft"
+        ],
+        "mood": [
+          "focused",
+          "methodical"
+        ],
+        "framing": "Wide or establishing",
+        "fit": "Possible use for giving a task your full attention or making or refining something with care.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 238,
+      "file": "01515806-steady-shot.mp4",
+      "source_start": 1515.8059583333331,
+      "source_end_exclusive": 1524.2310416666667,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "steady framing",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 7225890,
+      "editorial": {
+        "action": "Two men stand side by side in a narrow metallic room.",
+        "cues": [
+          "teamwork",
+          "anticipation"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Two-shot",
+        "fit": "Possible use for getting something done together or waiting for the outcome.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 1520.0,
+          "scan_block": "block-0033.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 245,
+      "file": "01553302-figure-crosses-a-shadowed-workspace.mp4",
+      "source_start": 1553.3017499999999,
+      "source_end_exclusive": 1561.7268333333332,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "uncertainty",
+        "movement",
+        "suspense"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 9715976,
+      "editorial": {
+        "action": "Figure crosses a shadowed workspace.",
+        "cues": [
+          "hesitation",
+          "anticipation"
+        ],
+        "mood": [
+          "uncertain",
+          "anticipatory"
+        ],
+        "framing": "Silhouette or low light",
+        "fit": "Possible use for being unsure of the next move or waiting for the outcome.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 247,
+      "file": "01565314-rows-of-vials-in-close-up.mp4",
+      "source_start": 1565.3137499999998,
+      "source_end_exclusive": 1569.2343333333333,
+      "duration": 3.920583,
+      "frames": 94,
+      "tags": [
+        "detail",
+        "experimentation",
+        "planning"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 3184885,
+      "editorial": {
+        "action": "Rows of vials in close up.",
+        "cues": [
+          "craft",
+          "focus"
+        ],
+        "mood": [
+          "methodical",
+          "focused"
+        ],
+        "framing": "Face detail",
+        "fit": "Possible use for making or refining something with care or giving a task your full attention.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 253,
+      "file": "01583791-steady-shot.mp4",
+      "source_start": 1583.7905416666665,
+      "source_end_exclusive": 1592.2573333333332,
+      "duration": 8.466792,
+      "frames": 203,
+      "tags": [
+        "steady framing",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 6764974,
+      "editorial": {
+        "action": "A uniformed man looks through a dim doorway or room.",
+        "cues": [
+          "focus",
+          "anticipation"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Dark medium and face detail",
+        "fit": "Possible use for giving a task your full attention or waiting for the outcome.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 1588.0,
+          "scan_block": "block-0035.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 257,
+      "file": "01610818-steady-shot.mp4",
+      "source_start": 1610.8175416666666,
+      "source_end_exclusive": 1619.2426249999999,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "steady framing",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 6047025,
+      "editorial": {
+        "action": "A uniformed man looks through a dim doorway or room.",
+        "cues": [
+          "focus",
+          "anticipation"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Dark medium and face detail",
+        "fit": "Possible use for giving a task your full attention or waiting for the outcome.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 1615.0,
+          "scan_block": "block-0035.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 261,
+      "file": "01640806-steady-shot.mp4",
+      "source_start": 1640.805833333333,
+      "source_end_exclusive": 1645.7274166666666,
+      "duration": 4.921583,
+      "frames": 118,
+      "tags": [
+        "steady framing",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 1295659,
+      "editorial": {
+        "action": "A uniformed man looks through a dim doorway or room.",
+        "cues": [
+          "focus",
+          "anticipation"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Dark medium and face detail",
+        "fit": "Possible use for giving a task your full attention or waiting for the outcome.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 1643.5,
+          "scan_block": "block-0036.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 265,
+      "file": "01661785-active-shot.mp4",
+      "source_start": 1661.7851249999999,
+      "source_end_exclusive": 1665.2469166666665,
+      "duration": 3.461792,
+      "frames": 83,
+      "tags": [
+        "movement",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 3928571,
+      "editorial": {
+        "action": "A figure stands inside a large glass and steel space.",
+        "cues": [
+          "isolation",
+          "anticipation"
+        ],
+        "mood": [
+          "subdued"
+        ],
+        "framing": "Wide interior",
+        "fit": "Possible use for carrying something alone or waiting for the outcome.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 1663.5,
+          "scan_block": "block-0036.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 269,
+      "file": "01678302-looking-up-into-a-round-structure.mp4",
+      "source_start": 1678.3016249999998,
+      "source_end_exclusive": 1683.223208333333,
+      "duration": 4.921583,
+      "frames": 118,
+      "tags": [
+        "scale",
+        "perspective",
+        "transition"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 7439301,
+      "editorial": {
+        "action": "Looking up into a round structure.",
+        "cues": [
+          "transition"
+        ],
+        "mood": [],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for moving into a new situation.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 273,
+      "file": "01700282-two-men-in-conversation-by-the-water.mp4",
+      "source_start": 1700.2819166666666,
+      "source_end_exclusive": 1705.7457083333331,
+      "duration": 5.463792,
+      "frames": 131,
+      "tags": [
+        "friendship",
+        "honesty",
+        "reflection"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 8761735,
+      "editorial": {
+        "action": "Two men in conversation by the water.",
+        "cues": [
+          "connection",
+          "trust",
+          "reflection"
+        ],
+        "mood": [
+          "human",
+          "quiet"
+        ],
+        "framing": "Shared frame",
+        "fit": "Possible use for finding common ground or letting someone in.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 276,
+      "file": "01711793-active-shot.mp4",
+      "source_start": 1711.7934166666666,
+      "source_end_exclusive": 1715.7557083333331,
+      "duration": 3.962292,
+      "frames": 95,
+      "tags": [
+        "movement",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5667217,
+      "editorial": {
+        "action": "People stand together by the lake under a covered patio.",
+        "cues": [
+          "grief",
+          "connection"
+        ],
+        "mood": [
+          "somber"
+        ],
+        "framing": "Daylight shared frame",
+        "fit": "Possible use for feeling the weight of a loss or finding common ground.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 1714.0,
+          "scan_block": "block-0038.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 281,
+      "file": "01726808-active-shot.mp4",
+      "source_start": 1726.8084166666665,
+      "source_end_exclusive": 1731.2295,
+      "duration": 4.421083,
+      "frames": 106,
+      "tags": [
+        "movement",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 7211109,
+      "editorial": {
+        "action": "People stand together by the lake under a covered patio.",
+        "cues": [
+          "grief",
+          "connection"
+        ],
+        "mood": [
+          "somber"
+        ],
+        "framing": "Daylight shared frame",
+        "fit": "Possible use for feeling the weight of a loss or finding common ground.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 1729.0,
+          "scan_block": "block-0038.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 285,
+      "file": "01741281-clint-listens-outdoors.mp4",
+      "source_start": 1741.281208333333,
+      "source_end_exclusive": 1745.744,
+      "duration": 4.462792,
+      "frames": 107,
+      "tags": [
+        "concern",
+        "attention",
+        "thought"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5047913,
+      "editorial": {
+        "action": "Clint listens outdoors.",
+        "cues": [
+          "hesitation",
+          "focus",
+          "reflection"
+        ],
+        "mood": [
+          "uncertain",
+          "focused",
+          "quiet"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for being unsure of the next move or giving a task your full attention.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 294,
+      "file": "01770310-steady-shot.mp4",
+      "source_start": 1770.3102083333333,
+      "source_end_exclusive": 1773.2297916666666,
+      "duration": 2.919583,
+      "frames": 70,
+      "tags": [
+        "steady framing",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5316241,
+      "editorial": {
+        "action": "People stand together by the lake under a covered patio.",
+        "cues": [
+          "grief",
+          "connection"
+        ],
+        "mood": [
+          "somber"
+        ],
+        "framing": "Daylight shared frame",
+        "fit": "Possible use for feeling the weight of a loss or finding common ground.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 1772.0,
+          "scan_block": "block-0039.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 296,
+      "file": "01784783-steve-in-the-lab.mp4",
+      "source_start": 1784.783,
+      "source_end_exclusive": 1791.7482916666665,
+      "duration": 6.965292,
+      "frames": 167,
+      "tags": [
+        "responsibility",
+        "composure",
+        "decision"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 4372321,
+      "editorial": {
+        "action": "Steve in the lab.",
+        "cues": [
+          "resolve",
+          "choice"
+        ],
+        "mood": [
+          "determined"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for deciding to keep going or facing a decision.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 297,
+      "file": "01792290-active-shot.mp4",
+      "source_start": 1792.2904999999998,
+      "source_end_exclusive": 1797.7542916666666,
+      "duration": 5.463792,
+      "frames": 131,
+      "tags": [
+        "movement",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5540868,
+      "editorial": {
+        "action": "A seated figure is seen from across a large vehicle seat.",
+        "cues": [
+          "transition",
+          "reflection"
+        ],
+        "mood": [
+          "subdued"
+        ],
+        "framing": "Obstructed medium frame",
+        "fit": "Possible use for moving into a new situation or taking a moment to think.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 1795.0,
+          "scan_block": "block-0039.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 300,
+      "file": "01808682-active-shot.mp4",
+      "source_start": 1808.6818749999998,
+      "source_end_exclusive": 1810.3084999999999,
+      "duration": 1.626625,
+      "frames": 39,
+      "tags": [
+        "movement",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 2238551,
+      "editorial": {
+        "action": "A large figure bows his head in a bright room.",
+        "cues": [
+          "setback",
+          "reflection"
+        ],
+        "mood": [
+          "somber"
+        ],
+        "framing": "Medium close-up",
+        "fit": "Possible use for absorbing a setback or taking a moment to think.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 1809.5,
+          "scan_block": "block-0040.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 303,
+      "file": "01822779-glowing-gauntlet-in-close-up.mp4",
+      "source_start": 1822.7792916666665,
+      "source_end_exclusive": 1830.2450833333332,
+      "duration": 7.465792,
+      "frames": 179,
+      "tags": [
+        "risk",
+        "pressure",
+        "preparation"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 11402108,
+      "editorial": {
+        "action": "Glowing gauntlet in close up.",
+        "cues": [
+          "pressure",
+          "focus"
+        ],
+        "mood": [
+          "tense",
+          "focused"
+        ],
+        "framing": "Face detail",
+        "fit": "Possible use for feeling the stakes rise or giving a task your full attention.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 310,
+      "file": "01860317-active-shot.mp4",
+      "source_start": 1860.3167916666666,
+      "source_end_exclusive": 1868.741875,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "movement",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 6447983,
+      "editorial": {
+        "action": "Figures are partly concealed in dark wreckage or tangled structures.",
+        "cues": [
+          "pressure",
+          "setback"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Very dark action",
+        "fit": "Possible use for feeling the stakes rise or absorbing a setback.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 1864.5,
+          "scan_block": "block-0041.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 311,
+      "file": "01878293-steady-shot.mp4",
+      "source_start": 1878.2930833333332,
+      "source_end_exclusive": 1886.759875,
+      "duration": 8.466792,
+      "frames": 203,
+      "tags": [
+        "steady framing",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 9746241,
+      "editorial": {
+        "action": "Figures are partly concealed in dark wreckage or tangled structures.",
+        "cues": [
+          "pressure",
+          "setback"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Very dark action",
+        "fit": "Possible use for feeling the stakes rise or absorbing a setback.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 1882.5,
+          "scan_block": "block-0041.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 315,
+      "file": "01908782-steady-shot.mp4",
+      "source_start": 1908.781875,
+      "source_end_exclusive": 1917.2486666666666,
+      "duration": 8.466792,
+      "frames": 203,
+      "tags": [
+        "steady framing",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 6633506,
+      "editorial": {
+        "action": "Figures are partly concealed in dark wreckage or tangled structures.",
+        "cues": [
+          "pressure",
+          "setback"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Very dark action",
+        "fit": "Possible use for feeling the stakes rise or absorbing a setback.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 1913.0,
+          "scan_block": "block-0042.npz",
+          "sheet": "steve-01.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 319,
+      "file": "01940814-active-shot.mp4",
+      "source_start": 1940.8138749999998,
+      "source_end_exclusive": 1945.735458333333,
+      "duration": 4.921583,
+      "frames": 118,
+      "tags": [
+        "movement",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 6689735,
+      "editorial": {
+        "action": "Armored figures stand or fall amid a smoky battlefield and burning debris.",
+        "cues": [
+          "pressure",
+          "conflict"
+        ],
+        "mood": [
+          "intense"
+        ],
+        "framing": "Battlefield action, visible combat",
+        "fit": "Possible use for feeling the stakes rise or meeting resistance.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 1943.5,
+          "scan_block": "block-0043.npz",
+          "sheet": "steve-02.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 322,
+      "file": "01958290-steady-shot.mp4",
+      "source_start": 1958.2896666666666,
+      "source_end_exclusive": 1966.7564583333333,
+      "duration": 8.466792,
+      "frames": 203,
+      "tags": [
+        "steady framing",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 9207521,
+      "editorial": {
+        "action": "Armored figures stand or fall amid a smoky battlefield and burning debris.",
+        "cues": [
+          "pressure",
+          "conflict"
+        ],
+        "mood": [
+          "intense"
+        ],
+        "framing": "Battlefield action, visible combat",
+        "fit": "Possible use for feeling the stakes rise or meeting resistance.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 1962.5,
+          "scan_block": "block-0043.npz",
+          "sheet": "steve-02.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 325,
+      "file": "01985317-steve-amid-battlefield-rubble.mp4",
+      "source_start": 1985.3166666666666,
+      "source_end_exclusive": 1993.74175,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "setback",
+        "endurance",
+        "responsibility"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 8186290,
+      "editorial": {
+        "action": "Steve amid battlefield rubble.",
+        "cues": [
+          "setback"
+        ],
+        "mood": [],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for absorbing a setback.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 328,
+      "file": "02006296-armored-figure-on-the-battlefield.mp4",
+      "source_start": 2006.2959583333331,
+      "source_end_exclusive": 2014.7210416666665,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "confrontation",
+        "scale",
+        "action"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 12196459,
+      "editorial": {
+        "action": "Armored figure on the battlefield.",
+        "cues": [
+          "conflict"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for meeting resistance.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 330,
+      "file": "02018308-steady-shot.mp4",
+      "source_start": 2018.307958333333,
+      "source_end_exclusive": 2025.2315416666665,
+      "duration": 6.923583,
+      "frames": 166,
+      "tags": [
+        "steady framing",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 8144089,
+      "editorial": {
+        "action": "Armored figures stand or fall amid a smoky battlefield and burning debris.",
+        "cues": [
+          "pressure",
+          "conflict"
+        ],
+        "mood": [
+          "intense"
+        ],
+        "framing": "Battlefield action, visible combat",
+        "fit": "Possible use for feeling the stakes rise or meeting resistance.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 2022.0,
+          "scan_block": "block-0044.npz",
+          "sheet": "steve-02.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 334,
+      "file": "02047295-steve-looks-across-a-burning-field.mp4",
+      "source_start": 2047.29525,
+      "source_end_exclusive": 2055.720333333333,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "resolve",
+        "pressure",
+        "exhaustion"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 11981699,
+      "editorial": {
+        "action": "Steve looks across a burning field.",
+        "cues": [
+          "resolve",
+          "pressure",
+          "relief"
+        ],
+        "mood": [
+          "determined",
+          "tense",
+          "released"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for deciding to keep going or feeling the stakes rise.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 337,
+      "file": "02068316-active-shot.mp4",
+      "source_start": 2068.31625,
+      "source_end_exclusive": 2071.7363333333333,
+      "duration": 3.420083,
+      "frames": 82,
+      "tags": [
+        "movement",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5753105,
+      "editorial": {
+        "action": "Armored figures stand or fall amid a smoky battlefield and burning debris.",
+        "cues": [
+          "pressure",
+          "conflict"
+        ],
+        "mood": [
+          "intense"
+        ],
+        "framing": "Battlefield action, visible combat",
+        "fit": "Possible use for feeling the stakes rise or meeting resistance.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 2070.0,
+          "scan_block": "block-0046.npz",
+          "sheet": "steve-02.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 343,
+      "file": "02105812-armored-figure-stands-through-smoke.mp4",
+      "source_start": 2105.8120416666666,
+      "source_end_exclusive": 2114.2371249999997,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "confrontation",
+        "pressure",
+        "anticipation"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 12275272,
+      "editorial": {
+        "action": "Armored figure stands through smoke.",
+        "cues": [
+          "conflict",
+          "pressure",
+          "anticipation"
+        ],
+        "mood": [
+          "tense",
+          "anticipatory"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for meeting resistance or feeling the stakes rise.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 345,
+      "file": "02125790-active-shot.mp4",
+      "source_start": 2125.7903333333334,
+      "source_end_exclusive": 2134.2571249999996,
+      "duration": 8.466792,
+      "frames": 203,
+      "tags": [
+        "movement",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 10189559,
+      "editorial": {
+        "action": "Armored figures stand or fall amid a smoky battlefield and burning debris.",
+        "cues": [
+          "pressure",
+          "conflict"
+        ],
+        "mood": [
+          "intense"
+        ],
+        "framing": "Battlefield action, visible combat",
+        "fit": "Possible use for feeling the stakes rise or meeting resistance.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 2130.0,
+          "scan_block": "block-0047.npz",
+          "sheet": "steve-02.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 347,
+      "file": "02136801-active-shot.mp4",
+      "source_start": 2136.8013333333333,
+      "source_end_exclusive": 2142.2234166666667,
+      "duration": 5.422083,
+      "frames": 130,
+      "tags": [
+        "movement",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 9796773,
+      "editorial": {
+        "action": "Armored figures stand or fall amid a smoky battlefield and burning debris.",
+        "cues": [
+          "pressure",
+          "conflict"
+        ],
+        "mood": [
+          "intense"
+        ],
+        "framing": "Battlefield action, visible combat",
+        "fit": "Possible use for feeling the stakes rise or meeting resistance.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 2139.5,
+          "scan_block": "block-0047.npz",
+          "sheet": "steve-02.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 352,
+      "file": "02173797-wide-view-of-the-battlefield.mp4",
+      "source_start": 2173.796625,
+      "source_end_exclusive": 2181.7212083333334,
+      "duration": 7.924583,
+      "frames": 190,
+      "tags": [
+        "scale",
+        "teamwork",
+        "conflict"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 12333390,
+      "editorial": {
+        "action": "Wide view of the battlefield.",
+        "cues": [
+          "teamwork",
+          "conflict"
+        ],
+        "mood": [
+          "cooperative",
+          "tense"
+        ],
+        "framing": "Wide or establishing",
+        "fit": "Possible use for getting something done together or meeting resistance.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 357,
+      "file": "02201282-active-shot.mp4",
+      "source_start": 2201.2824166666664,
+      "source_end_exclusive": 2209.749208333333,
+      "duration": 8.466792,
+      "frames": 203,
+      "tags": [
+        "movement",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 10049224,
+      "editorial": {
+        "action": "Armored figures stand or fall amid a smoky battlefield and burning debris.",
+        "cues": [
+          "pressure",
+          "conflict"
+        ],
+        "mood": [
+          "intense"
+        ],
+        "framing": "Battlefield action, visible combat",
+        "fit": "Possible use for feeling the stakes rise or meeting resistance.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 2205.5,
+          "scan_block": "block-0049.npz",
+          "sheet": "steve-02.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 359,
+      "file": "02214796-active-shot.mp4",
+      "source_start": 2214.7959166666665,
+      "source_end_exclusive": 2223.221,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "movement",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 12042704,
+      "editorial": {
+        "action": "Armored figures stand or fall amid a smoky battlefield and burning debris.",
+        "cues": [
+          "pressure",
+          "conflict"
+        ],
+        "mood": [
+          "intense"
+        ],
+        "framing": "Battlefield action, visible combat",
+        "fit": "Possible use for feeling the stakes rise or meeting resistance.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 2219.0,
+          "scan_block": "block-0049.npz",
+          "sheet": "steve-02.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 365,
+      "file": "02251291-figures-step-out-of-the-portal.mp4",
+      "source_start": 2251.290708333333,
+      "source_end_exclusive": 2259.7574999999997,
+      "duration": 8.466792,
+      "frames": 203,
+      "tags": [
+        "arrival",
+        "solidarity",
+        "turning point"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 14828939,
+      "editorial": {
+        "action": "Figures step out of the portal.",
+        "cues": [
+          "transition",
+          "teamwork"
+        ],
+        "mood": [
+          "cooperative"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for moving into a new situation or getting something done together.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 366,
+      "file": "02260300-team-walks-toward-the-battle.mp4",
+      "source_start": 2260.299708333333,
+      "source_end_exclusive": 2266.2222916666665,
+      "duration": 5.922583,
+      "frames": 142,
+      "tags": [
+        "teamwork",
+        "momentum",
+        "resolve"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 11165647,
+      "editorial": {
+        "action": "Team walks toward the battle.",
+        "cues": [
+          "teamwork",
+          "resolve"
+        ],
+        "mood": [
+          "cooperative",
+          "determined"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for getting something done together or deciding to keep going.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 373,
+      "file": "02298796-armored-figures-in-the-smoke.mp4",
+      "source_start": 2298.7965,
+      "source_end_exclusive": 2307.221583333333,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "aftermath",
+        "effort",
+        "conflict"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 13040563,
+      "editorial": {
+        "action": "Armored figures in the smoke.",
+        "cues": [
+          "setback",
+          "resolve",
+          "conflict"
+        ],
+        "mood": [
+          "determined",
+          "tense"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for absorbing a setback or deciding to keep going.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 375,
+      "file": "02317816-active-shot.mp4",
+      "source_start": 2317.8154999999997,
+      "source_end_exclusive": 2326.2405833333332,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "movement",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 11539367,
+      "editorial": {
+        "action": "Armored figures stand or fall amid a smoky battlefield and burning debris.",
+        "cues": [
+          "pressure",
+          "conflict"
+        ],
+        "mood": [
+          "intense"
+        ],
+        "framing": "Battlefield action, visible combat",
+        "fit": "Possible use for feeling the stakes rise or meeting resistance.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 2322.0,
+          "scan_block": "block-0051.npz",
+          "sheet": "steve-02.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 379,
+      "file": "02348805-active-shot.mp4",
+      "source_start": 2348.8047916666665,
+      "source_end_exclusive": 2353.7263749999997,
+      "duration": 4.921583,
+      "frames": 118,
+      "tags": [
+        "movement",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 8015769,
+      "editorial": {
+        "action": "People work around equipment in a clearing between trees.",
+        "cues": [
+          "teamwork",
+          "focus"
+        ],
+        "mood": [
+          "measured"
+        ],
+        "framing": "Outdoor group and equipment",
+        "fit": "Possible use for getting something done together or giving a task your full attention.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 2351.5,
+          "scan_block": "block-0052.npz",
+          "sheet": "steve-02.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 381,
+      "file": "02356813-bruce-in-a-woodland-close-up.mp4",
+      "source_start": 2356.8127916666667,
+      "source_end_exclusive": 2365.237875,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "reflection",
+        "concern",
+        "recovery"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 12869545,
+      "editorial": {
+        "action": "Bruce in a woodland close up.",
+        "cues": [
+          "reflection",
+          "hesitation",
+          "recovery"
+        ],
+        "mood": [
+          "quiet",
+          "uncertain",
+          "resilient"
+        ],
+        "framing": "Face detail",
+        "fit": "Possible use for taking a moment to think or being unsure of the next move.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 389,
+      "file": "02389804-bucky-listens-in-the-woods.mp4",
+      "source_start": 2389.804083333333,
+      "source_end_exclusive": 2394.2251666666666,
+      "duration": 4.421083,
+      "frames": 106,
+      "tags": [
+        "friendship",
+        "concern",
+        "reflection"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 4319294,
+      "editorial": {
+        "action": "Bucky listens in the woods.",
+        "cues": [
+          "connection",
+          "hesitation",
+          "reflection"
+        ],
+        "mood": [
+          "human",
+          "uncertain",
+          "quiet"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for finding common ground or being unsure of the next move.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 390,
+      "file": "02401816-active-shot.mp4",
+      "source_start": 2401.816083333333,
+      "source_end_exclusive": 2406.7376666666664,
+      "duration": 4.921583,
+      "frames": 118,
+      "tags": [
+        "movement",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 3692575,
+      "editorial": {
+        "action": "A long-haired man watches someone from across a wooded clearing.",
+        "cues": [
+          "listening",
+          "trust"
+        ],
+        "mood": [
+          "quiet"
+        ],
+        "framing": "Outdoor face close-up",
+        "fit": "Possible use for taking in what someone says or letting someone in.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 2404.5,
+          "scan_block": "block-0053.npz",
+          "sheet": "steve-02.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 394,
+      "file": "02445735-active-shot.mp4",
+      "source_start": 2445.734958333333,
+      "source_end_exclusive": 2447.736958333333,
+      "duration": 2.002,
+      "frames": 48,
+      "tags": [
+        "movement",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 4235847,
+      "editorial": {
+        "action": "People work around equipment in a clearing between trees.",
+        "cues": [
+          "teamwork",
+          "focus"
+        ],
+        "mood": [
+          "measured"
+        ],
+        "framing": "Outdoor group and equipment",
+        "fit": "Possible use for getting something done together or giving a task your full attention.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 2446.5,
+          "scan_block": "block-0054.npz",
+          "sheet": "steve-02.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 397,
+      "file": "02458289-active-shot.mp4",
+      "source_start": 2458.2891666666665,
+      "source_end_exclusive": 2461.750958333333,
+      "duration": 3.461792,
+      "frames": 83,
+      "tags": [
+        "movement",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 2866703,
+      "editorial": {
+        "action": "A long-haired man watches someone from across a wooded clearing.",
+        "cues": [
+          "listening",
+          "trust"
+        ],
+        "mood": [
+          "quiet"
+        ],
+        "framing": "Outdoor face close-up",
+        "fit": "Possible use for taking in what someone says or letting someone in.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 2460.0,
+          "scan_block": "block-0054.npz",
+          "sheet": "steve-02.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 400,
+      "file": "02479811-two-figures-walk-toward-the-water.mp4",
+      "source_start": 2479.8106666666663,
+      "source_end_exclusive": 2488.23575,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "transition",
+        "journey",
+        "anticipation"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 13607748,
+      "editorial": {
+        "action": "Two figures walk toward the water.",
+        "cues": [
+          "transition",
+          "anticipation"
+        ],
+        "mood": [
+          "anticipatory"
+        ],
+        "framing": "Shared frame",
+        "fit": "Possible use for moving into a new situation or waiting for the outcome.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 403,
+      "file": "02500790-active-shot.mp4",
+      "source_start": 2500.7899583333333,
+      "source_end_exclusive": 2509.25675,
+      "duration": 8.466792,
+      "frames": 203,
+      "tags": [
+        "movement",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 14462038,
+      "editorial": {
+        "action": "Figures approach or sit near a bench by open water.",
+        "cues": [
+          "connection",
+          "reflection"
+        ],
+        "mood": [
+          "quiet"
+        ],
+        "framing": "Wide lakeside frame",
+        "fit": "Possible use for finding common ground or taking a moment to think.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 2505.0,
+          "scan_block": "block-0055.npz",
+          "sheet": "steve-02.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 407,
+      "file": "02528818-steady-shot.mp4",
+      "source_start": 2528.817958333333,
+      "source_end_exclusive": 2537.2430416666666,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "steady framing",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 4613716,
+      "editorial": {
+        "action": "An older man looks toward someone among trees.",
+        "cues": [
+          "reflection",
+          "trust"
+        ],
+        "mood": [
+          "quiet"
+        ],
+        "framing": "Outdoor face close-up",
+        "fit": "Possible use for taking a moment to think or letting someone in.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 2533.0,
+          "scan_block": "block-0056.npz",
+          "sheet": "steve-02.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 410,
+      "file": "02545793-two-people-by-the-lake.mp4",
+      "source_start": 2545.7932499999997,
+      "source_end_exclusive": 2554.2600416666664,
+      "duration": 8.466792,
+      "frames": 203,
+      "tags": [
+        "reflection",
+        "companionship",
+        "closure"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 10717205,
+      "editorial": {
+        "action": "Two people by the lake.",
+        "cues": [
+          "reflection",
+          "connection"
+        ],
+        "mood": [
+          "quiet",
+          "human"
+        ],
+        "framing": "Shared frame",
+        "fit": "Possible use for taking a moment to think or finding common ground.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 417,
+      "file": "02580286-steady-shot.mp4",
+      "source_start": 2580.2860416666663,
+      "source_end_exclusive": 2588.752833333333,
+      "duration": 8.466792,
+      "frames": 203,
+      "tags": [
+        "steady framing",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 12464235,
+      "editorial": {
+        "action": "Figures approach or sit near a bench by open water.",
+        "cues": [
+          "connection",
+          "reflection"
+        ],
+        "mood": [
+          "quiet"
+        ],
+        "framing": "Wide lakeside frame",
+        "fit": "Possible use for finding common ground or taking a moment to think.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 2584.5,
+          "scan_block": "block-0057.npz",
+          "sheet": "steve-02.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 419,
+      "file": "02593299-the-shield-in-the-woods.mp4",
+      "source_start": 2593.2990416666667,
+      "source_end_exclusive": 2601.2236249999996,
+      "duration": 7.924583,
+      "frames": 190,
+      "tags": [
+        "legacy",
+        "handoff",
+        "responsibility"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 11848338,
+      "editorial": {
+        "action": "The shield in the woods.",
+        "cues": [],
+        "mood": [],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Use as setting or texture when the exact line calls for this picture.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 422,
+      "file": "02615279-sam-looks-at-steve.mp4",
+      "source_start": 2615.279333333333,
+      "source_end_exclusive": 2623.7461249999997,
+      "duration": 8.466792,
+      "frames": 203,
+      "tags": [
+        "listening",
+        "trust",
+        "legacy"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 8049052,
+      "editorial": {
+        "action": "Sam looks at steve.",
+        "cues": [
+          "listening",
+          "trust"
+        ],
+        "mood": [
+          "attentive"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for taking in what someone says or letting someone in.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 427,
+      "file": "02634298-older-steve-in-the-woods.mp4",
+      "source_start": 2634.298333333333,
+      "source_end_exclusive": 2642.7234166666663,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "reflection",
+        "peace",
+        "closure"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 8201996,
+      "editorial": {
+        "action": "Older steve in the woods.",
+        "cues": [
+          "reflection"
+        ],
+        "mood": [
+          "quiet"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for taking a moment to think.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 428,
+      "file": "02643307-steady-shot.mp4",
+      "source_start": 2643.307333333333,
+      "source_end_exclusive": 2650.7314166666665,
+      "duration": 7.424083,
+      "frames": 178,
+      "tags": [
+        "steady framing",
+        "readable lighting"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 7693101,
+      "editorial": {
+        "action": "An older man looks toward someone among trees.",
+        "cues": [
+          "reflection",
+          "trust"
+        ],
+        "mood": [
+          "quiet"
+        ],
+        "framing": "Outdoor face close-up",
+        "fit": "Possible use for taking a moment to think or letting someone in.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 2647.0,
+          "scan_block": "block-0058.npz",
+          "sheet": "steve-02.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 430,
+      "file": "02682305-two-figures-in-warm-window-light.mp4",
+      "source_start": 2682.3046249999998,
+      "source_end_exclusive": 2685.724708333333,
+      "duration": 3.420083,
+      "frames": 82,
+      "tags": [
+        "intimacy",
+        "nostalgia",
+        "closure"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5002577,
+      "editorial": {
+        "action": "Two figures in warm window light.",
+        "cues": [
+          "connection"
+        ],
+        "mood": [
+          "human"
+        ],
+        "framing": "Shared frame",
+        "fit": "Possible use for finding common ground.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Representative frame reviewed"
+        }
+      }
+    },
+    {
+      "candidate_id": 432,
+      "file": "02695318-active-shot.mp4",
+      "source_start": 2695.3176249999997,
+      "source_end_exclusive": 2703.742708333333,
+      "duration": 8.425083,
+      "frames": 202,
+      "tags": [
+        "movement",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 10627890,
+      "editorial": {
+        "action": "Two people lean close together in a warm interior.",
+        "cues": [
+          "connection",
+          "relief"
+        ],
+        "mood": [
+          "tender"
+        ],
+        "framing": "Intimate close-up",
+        "fit": "Possible use for finding common ground or letting the tension settle.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 2699.5,
+          "scan_block": "block-0059.npz",
+          "sheet": "steve-02.jpg"
+        }
+      }
+    },
+    {
+      "candidate_id": 434,
+      "file": "02709790-active-shot.mp4",
+      "source_start": 2709.7904166666663,
+      "source_end_exclusive": 2714.253208333333,
+      "duration": 4.462792,
+      "frames": 107,
+      "tags": [
+        "movement",
+        "low light"
+      ],
+      "review": "Timeline screened; labels describe motion and lighting",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5471382,
+      "editorial": {
+        "action": "A round shield catches light in a dark setting.",
+        "cues": [
+          "anticipation",
+          "resolve"
+        ],
+        "mood": [
+          "grave"
+        ],
+        "framing": "Object detail",
+        "fit": "Possible use for waiting for the outcome or deciding to keep going.",
+        "evidence": {
+          "status": "source_frame",
+          "source_second": 2712.0,
+          "scan_block": "block-0060.npz",
+          "sheet": "steve-02.jpg"
+        }
+      }
+    }
+  ],
+  "scan": {
+    "scan_samples": 5434,
+    "scan_blocks": 61,
+    "first_sample": 0.0,
+    "last_sample": 2716.5,
+    "max_sample_gap_seconds": 0.5,
+    "candidate_count": 434,
+    "method": "2 fps"
+  },
+  "selection_complete": true
+}

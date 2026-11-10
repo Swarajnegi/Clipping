@@ -1,0 +1,4 @@
+interface:
+  display_name: "Viral Shorts"
+  short_description: "Create carefully framed, captioned video shorts"
+  default_prompt: "Use $viral-shorts to turn my video into carefully selected, well-framed Shorts and check the local clipping runtime first."
