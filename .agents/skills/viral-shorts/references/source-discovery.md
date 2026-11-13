@@ -82,7 +82,7 @@ Restrained captions are small uppercase phrases. Kinetic captions allow timed em
 Times are assembled clip seconds, excluding an optional intro. Emphasis temporarily
 replaces the base caption; choose text actually supported by the source speech.
 
-For the owner's layered silver/italic treatment, set `palette: "silver"` and
+For a legacy silver/italic treatment explicitly requested for a clip, set `palette: "silver"` and
 `wordReveal: true`. Optional `layers` is a list of independently timed text elements:
 `{t, dur, text, x, y, size, width?, font: "condensed"|"serif"|"sans", italic?, z?,
 rotate?, wordTimes?}`. `wordTimes` contains one assembled-timeline entry per displayed
@@ -100,7 +100,9 @@ nonempty authored layers; the default remains the existing base-plus-emphasis be
 Optional `cutaways: [{file: "D:/.../cleared-master.mp4", start: 2, end: 3.2, t: 5}]`
 prepares a source excerpt and overlays it inside the band at assembled second 5.
 It is always muted; the original speaker's audio continues beneath it. The builder
-normalises cutaway FPS to the main source. Provide a reuse basis for every cutaway.
+normalises cutaway FPS to the main source. Record a reuse basis for each posting
+deliverable. Keep drafts in `Working` and label completed private deliveries in
+`Exports/02 Private Reviews`.
 No anime or stock assets are automatically obtained. Existing styles remain available
 when `referenceEdit` is omitted.
 For paired exports, per-clip `sourceAudioDb` can attenuate the speech/effects master before
@@ -108,9 +110,7 @@ adding the bed (between -30 and 0 dB, default 0). Use measured audio peaks to ch
 Packet hashes, packet counts and FPS must match; container start/duration rounding up to
 1 ms is allowed and reported. One missing picture packet or changed content still fails QA.
 
-Historical first-run brief (1 November 2026): 12 candidate moments and three pilot decisions.
-Do not impose that quota on later briefs. For the current brief, each candidate entry
-needs source URL, source start/end, surrounding context, matching reference/timestamps,
+Each candidate entry needs source URL, source start/end, surrounding context, matching reference/timestamps,
 reason, source-verification status, visual inspection coverage and reuse basis. Unresolved
 leads belong in a separate section and do not count as verified render-ready candidates.
 If fewer than the current brief requests satisfy the evidence requirements, report the

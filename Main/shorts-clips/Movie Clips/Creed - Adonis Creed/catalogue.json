@@ -1,0 +1,185 @@
+{
+  "source": "Adonis Creed - Creed [2015] - [REMUX 4K HEVC-H265] - chaszq.mp4",
+  "source_bytes": 8249755738,
+  "source_path_at_intake": "E:\\Clipping\\Movie Clips\\Adonis Creed - Creed [2015] - [REMUX 4K HEVC-H265] - chaszq.mp4",
+  "source_resolution": [
+    3840,
+    1600
+  ],
+  "source_frame_rate": "24000/1001",
+  "source_duration": 7080.281542,
+  "verified_intake_limit": 7080.281542,
+  "posting_reuse_basis": "Unresolved. Local library.",
+  "clips": [
+    {
+      "file": "00259000-hands-wrap-boxing-gloves.mp4",
+      "source_start": 259.00874999999996,
+      "source_end": 267.01674999999994,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 18331788,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "craft",
+        "focus"
+      ],
+      "editorial": {
+        "action": "A boxer’s hands are wrapped before the match.",
+        "cues": [
+          "craft",
+          "focus"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "Preparing carefully before a challenge.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "00301000-adonis-warms-up-alone.mp4",
+      "source_start": 301.00904166666663,
+      "source_end": 309.0170416666666,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 20910919,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "focus",
+        "anticipation"
+      ],
+      "editorial": {
+        "action": "Adonis moves in the changing room and looks up before the fight.",
+        "cues": [
+          "focus",
+          "anticipation"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "Getting ready under pressure.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "00395000-adonis-at-his-office-desk.mp4",
+      "source_start": 395.01962499999996,
+      "source_end": 403.02762499999994,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 19883188,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "focus",
+        "craft"
+      ],
+      "editorial": {
+        "action": "Adonis sits at an office desk working at a computer.",
+        "cues": [
+          "focus",
+          "craft"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "Routine work and concentration.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "00628000-boxer-in-training-ring.mp4",
+      "source_start": 628.0023749999999,
+      "source_end": 636.010375,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 18044930,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "anticipation",
+        "focus"
+      ],
+      "editorial": {
+        "action": "A boxer stands ready in headgear inside a gym ring.",
+        "cues": [
+          "anticipation",
+          "focus"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "Preparation before sparring.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "00721000-boxers-spar-in-gym.mp4",
+      "source_start": 721.0119583333333,
+      "source_end": 729.0199583333333,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 18237522,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "repetition",
+        "pressure"
+      ],
+      "editorial": {
+        "action": "Two boxers exchange movements in a gym ring.",
+        "cues": [
+          "repetition",
+          "pressure"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "Practice, challenge and physical effort.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "02054000-adonis-and-rocky-in-gym.mp4",
+      "source_start": 2054.0102916666665,
+      "source_end": 2062.0182916666663,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 20854793,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "connection",
+        "teamwork",
+        "listening"
+      ],
+      "editorial": {
+        "action": "Adonis and Rocky face each other in the gym.",
+        "cues": [
+          "connection",
+          "teamwork",
+          "listening"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "A coach and student beginning to work together.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    }
+  ]
+}

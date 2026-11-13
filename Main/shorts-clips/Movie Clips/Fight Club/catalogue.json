@@ -111,33 +111,6 @@
       }
     },
     {
-      "file": "00383534-bar-exterior-after-dark.mp4",
-      "source_start": 383.534,
-      "source_end_exclusive": 389.0395,
-      "duration": 5.505,
-      "frames": 132,
-      "tags": [
-        "night",
-        "urban atmosphere",
-        "scene setting"
-      ],
-      "review": "Reviewed representative frame and screened approximate shot boundary",
-      "video_decoded": true,
-      "silent": true,
-      "bytes": 5864171,
-      "editorial": {
-        "action": "Bar exterior after dark.",
-        "cues": [],
-        "mood": [],
-        "framing": "Verify crop in the intended interval",
-        "fit": "Use as setting or texture when the exact line calls for this picture.",
-        "evidence": {
-          "status": "prior_visual_review",
-          "detail": "Reviewed representative frame and screened approximate shot boundary"
-        }
-      }
-    },
-    {
       "file": "00434789-two-men-by-the-bar-door.mp4",
       "source_start": 434.789,
       "source_end_exclusive": 440.2945,
@@ -169,38 +142,6 @@
         "evidence": {
           "status": "prior_visual_review",
           "detail": "Reviewed representative frame and screened approximate shot boundary"
-        }
-      }
-    },
-    {
-      "file": "00464400-first-fight-outside-the-bar.mp4",
-      "source_start": 464.4,
-      "source_end_exclusive": 470.406,
-      "duration": 6.006,
-      "frames": 144,
-      "tags": [
-        "setback",
-        "risk",
-        "sparring"
-      ],
-      "review": "Timestamped contact-sheet review",
-      "video_decoded": true,
-      "silent": true,
-      "bytes": 6319843,
-      "editorial": {
-        "action": "First fight outside the bar.",
-        "cues": [
-          "setback",
-          "pressure"
-        ],
-        "mood": [
-          "tense"
-        ],
-        "framing": "Verify crop in the intended interval",
-        "fit": "Possible use for absorbing a setback or feeling the stakes rise.",
-        "evidence": {
-          "status": "prior_visual_review",
-          "detail": "Timestamped contact-sheet review"
         }
       }
     },
@@ -371,69 +312,6 @@
       }
     },
     {
-      "file": "00847076-standing-in-the-basement-crowd.mp4",
-      "source_start": 847.076,
-      "source_end_exclusive": 852.5815,
-      "duration": 5.505,
-      "frames": 132,
-      "tags": [
-        "belonging",
-        "unease",
-        "group pressure"
-      ],
-      "review": "Reviewed representative frame and screened approximate shot boundary",
-      "video_decoded": true,
-      "silent": true,
-      "bytes": 6611840,
-      "editorial": {
-        "action": "Standing in the basement crowd.",
-        "cues": [
-          "hesitation",
-          "pressure"
-        ],
-        "mood": [
-          "uncertain",
-          "tense"
-        ],
-        "framing": "Verify crop in the intended interval",
-        "fit": "Possible use for being unsure of the next move or feeling the stakes rise.",
-        "evidence": {
-          "status": "prior_visual_review",
-          "detail": "Reviewed representative frame and screened approximate shot boundary"
-        }
-      }
-    },
-    {
-      "file": "00949085-roadside-behind-a-chain-link-fence.mp4",
-      "source_start": 949.085,
-      "source_end_exclusive": 954.215125,
-      "duration": 5.130125,
-      "frames": 123,
-      "tags": [
-        "distance",
-        "urban routine",
-        "transition"
-      ],
-      "review": "Reviewed representative frame and screened approximate shot boundary",
-      "video_decoded": true,
-      "silent": true,
-      "bytes": 6478039,
-      "editorial": {
-        "action": "Roadside behind a chain link fence.",
-        "cues": [
-          "repetition",
-          "transition"
-        ],
-        "mood": [],
-        "framing": "Verify crop in the intended interval",
-        "fit": "Possible use for putting in the same work again or moving into a new situation.",
-        "evidence": {
-          "status": "prior_visual_review",
-          "detail": "Reviewed representative frame and screened approximate shot boundary"
-        }
-      }
-    },
-    {
       "file": "01004089-narrator-in-the-office-hallway.mp4",
       "source_start": 1004.089,
       "source_end_exclusive": 1009.469375,
@@ -533,6 +411,134 @@
           "detail": "Reviewed representative frame and screened approximate shot boundary"
         }
       }
+    }
+  ],
+  "unavailable_excerpts": [
+    {
+      "file": "00383534-bar-exterior-after-dark.mp4",
+      "source_start": 383.534,
+      "source_end_exclusive": 389.0395,
+      "duration": 5.505,
+      "frames": 132,
+      "tags": [
+        "night",
+        "urban atmosphere",
+        "scene setting"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 5864171,
+      "editorial": {
+        "action": "Bar exterior after dark.",
+        "cues": [],
+        "mood": [],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Use as setting or texture when the exact line calls for this picture.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      },
+      "availability": "missing_locally"
+    },
+    {
+      "file": "00464400-first-fight-outside-the-bar.mp4",
+      "source_start": 464.4,
+      "source_end_exclusive": 470.406,
+      "duration": 6.006,
+      "frames": 144,
+      "tags": [
+        "setback",
+        "risk",
+        "sparring"
+      ],
+      "review": "Timestamped contact-sheet review",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 6319843,
+      "editorial": {
+        "action": "First fight outside the bar.",
+        "cues": [
+          "setback",
+          "pressure"
+        ],
+        "mood": [
+          "tense"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for absorbing a setback or feeling the stakes rise.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Timestamped contact-sheet review"
+        }
+      },
+      "availability": "missing_locally"
+    },
+    {
+      "file": "00847076-standing-in-the-basement-crowd.mp4",
+      "source_start": 847.076,
+      "source_end_exclusive": 852.5815,
+      "duration": 5.505,
+      "frames": 132,
+      "tags": [
+        "belonging",
+        "unease",
+        "group pressure"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 6611840,
+      "editorial": {
+        "action": "Standing in the basement crowd.",
+        "cues": [
+          "hesitation",
+          "pressure"
+        ],
+        "mood": [
+          "uncertain",
+          "tense"
+        ],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for being unsure of the next move or feeling the stakes rise.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      },
+      "availability": "missing_locally"
+    },
+    {
+      "file": "00949085-roadside-behind-a-chain-link-fence.mp4",
+      "source_start": 949.085,
+      "source_end_exclusive": 954.215125,
+      "duration": 5.130125,
+      "frames": 123,
+      "tags": [
+        "distance",
+        "urban routine",
+        "transition"
+      ],
+      "review": "Reviewed representative frame and screened approximate shot boundary",
+      "video_decoded": true,
+      "silent": true,
+      "bytes": 6478039,
+      "editorial": {
+        "action": "Roadside behind a chain link fence.",
+        "cues": [
+          "repetition",
+          "transition"
+        ],
+        "mood": [],
+        "framing": "Verify crop in the intended interval",
+        "fit": "Possible use for putting in the same work again or moving into a new situation.",
+        "evidence": {
+          "status": "prior_visual_review",
+          "detail": "Reviewed representative frame and screened approximate shot boundary"
+        }
+      },
+      "availability": "missing_locally"
     },
     {
       "file": "01313117-traffic-passes-the-house-at-night.mp4",
@@ -563,7 +569,8 @@
           "status": "prior_visual_review",
           "detail": "Reviewed representative frame and screened approximate shot boundary"
         }
-      }
+      },
+      "availability": "missing_locally"
     },
     {
       "file": "01362371-empty-office-corridor.mp4",
@@ -597,7 +604,8 @@
           "status": "prior_visual_review",
           "detail": "Reviewed representative frame and screened approximate shot boundary"
         }
-      }
+      },
+      "availability": "missing_locally"
     },
     {
       "file": "01416626-faces-lean-in-from-above.mp4",
@@ -628,7 +636,8 @@
           "status": "prior_visual_review",
           "detail": "Reviewed representative frame and screened approximate shot boundary"
         }
-      }
+      },
+      "availability": "missing_locally"
     },
     {
       "file": "01469380-alone-in-a-back-alley.mp4",
@@ -661,7 +670,8 @@
           "status": "prior_visual_review",
           "detail": "Reviewed representative frame and screened approximate shot boundary"
         }
-      }
+      },
+      "availability": "missing_locally"
     },
     {
       "file": "01545000-narrator-regroups-in-the-basement.mp4",
@@ -695,7 +705,8 @@
           "status": "prior_visual_review",
           "detail": "Timestamped contact-sheet review"
         }
-      }
+      },
+      "availability": "missing_locally"
     },
     {
       "file": "01557000-tyler-watches-the-narrator.mp4",
@@ -728,7 +739,8 @@
           "status": "prior_visual_review",
           "detail": "Timestamped contact-sheet review"
         }
-      }
+      },
+      "availability": "missing_locally"
     },
     {
       "file": "01877167-working-at-a-crowded-table.mp4",
@@ -761,7 +773,8 @@
           "status": "prior_visual_review",
           "detail": "Reviewed representative frame and screened approximate shot boundary"
         }
-      }
+      },
+      "availability": "missing_locally"
     },
     {
       "file": "01928672-group-gathers-around-the-table.mp4",
@@ -794,7 +807,8 @@
           "status": "prior_visual_review",
           "detail": "Reviewed representative frame and screened approximate shot boundary"
         }
-      }
+      },
+      "availability": "missing_locally"
     },
     {
       "file": "02035181-tyler-reclines-in-a-dim-room.mp4",
@@ -825,7 +839,8 @@
           "status": "prior_visual_review",
           "detail": "Reviewed representative frame and screened approximate shot boundary"
         }
-      }
+      },
+      "availability": "missing_locally"
     },
     {
       "file": "02085685-man-pauses-in-a-concrete-corridor.mp4",
@@ -860,7 +875,8 @@
           "status": "prior_visual_review",
           "detail": "Reviewed representative frame and screened approximate shot boundary"
         }
-      }
+      },
+      "availability": "missing_locally"
     },
     {
       "file": "02136440-late-night-diner-conversation.mp4",
@@ -893,7 +909,8 @@
           "status": "prior_visual_review",
           "detail": "Reviewed representative frame and screened approximate shot boundary"
         }
-      }
+      },
+      "availability": "missing_locally"
     },
     {
       "file": "02340208-empty-parking-structure.mp4",
@@ -926,7 +943,8 @@
           "status": "prior_visual_review",
           "detail": "Reviewed representative frame and screened approximate shot boundary"
         }
-      }
+      },
+      "availability": "missing_locally"
     },
     {
       "file": "02392213-figure-at-a-nighttime-window.mp4",
@@ -958,7 +976,8 @@
           "status": "prior_visual_review",
           "detail": "Reviewed representative frame and screened approximate shot boundary"
         }
-      }
+      },
+      "availability": "missing_locally"
     }
   ]
 }

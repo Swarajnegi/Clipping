@@ -27,14 +27,15 @@ Use a 1080×1920 logical design canvas and 2160×3840 delivery:
 
 ```json
 {"referenceEdit": {
-  "profile": "editorial", "palette": "silver", "layeredOnly": true,
+  "profile": "editorial", "layeredOnly": true,
   "frame": {"x": 50, "y": 470, "width": 980, "height": 980, "radius": 48},
   "layers": []
 }}
 ```
 
 This is geometry only. Add real timed caption layers before validation; empty
-editorial layers are rejected. Every word retains the white Difference preset.
+editorial layers are rejected. Apply the white Difference preset as specified
+in the [caption guide](editorial-captions.md).
 Keep visible words within the picture's rounded bounds, with comfortable inset;
 the frame is x=50–1030 and y=470–1450 at logical resolution. Follow actual empty
 space and movement. The owner's later 8 November correction centres the complete
@@ -42,7 +43,9 @@ caption block near logical (540,960), the shared centre of this square and canva
 The subsequent owner clarification allows placement in other genuinely empty areas
 for visual appeal and readability. Centre is the default, not a compulsory anchor
 in every shot. Adjust framing/shot choice and whole-phrase placement to keep faces
-and meaningful gestures clear; inspect motion and camera cuts. This supersedes the older
+and meaningful gestures clear. Check the crop before and after each source angle
+change. An interview two-shot may need a speaker-focused crop when the line
+belongs to one person. This supersedes the older
 bottom-centre starting placement for new channel edits. Existing mask points and captions use the
 same global logical coordinates, not coordinates relative to this inset box.
 

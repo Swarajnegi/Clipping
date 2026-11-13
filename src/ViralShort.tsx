@@ -19,6 +19,7 @@ import {ReferenceCaptions, ReferenceCutaways} from "./ReferenceEdit";
 import {EditorialCaptions} from "./EditorialCaptions";
 import {maskPoints} from "./captionMotion";
 import {frameSourceWidth, referencePictureBox} from "./pictureFrame";
+import {transitionAt} from "./transitionMotion";
 
 const { fontFamily } = loadFont("normal", { weights: ["700", "800", "900"], subsets: ["latin"] });
 
@@ -90,7 +91,8 @@ const shownWidth = (p: ClipProps, shot: Shot, box: Box): number => {
   return Math.max(w, Math.min(fillW, 1));
 };
 
-export const Framed: React.FC<{ p: ClipProps; t: number; frame: number; muted?: boolean }> = ({ p, t, frame, muted }) => {
+export const Framed: React.FC<{ p: ClipProps; t: number; frame: number; muted?: boolean; pictureFilter?: string }> =
+({ p, t, frame, muted, pictureFilter }) => {
   const { fps } = useVideoConfig();
   const box = canvasBox(p);
   const shot = shotAt(p.shots, t);
@@ -129,7 +131,7 @@ export const Framed: React.FC<{ p: ClipProps; t: number; frame: number; muted?: 
           top: (vidH - renderH) / 2,
           width: vidW,
           height: renderH,
-          filter: gradeFilter(p),
+          filter: pictureFilter ? `${gradeFilter(p)} ${pictureFilter}` : gradeFilter(p),
           transform: p.referenceEdit?.frame ? `scale(${z})` : undefined,
           transformOrigin: `${box.w / 2 - left}px ${renderH / 2}px`,
         }}
@@ -328,6 +330,8 @@ const ClipBody: React.FC<{ p: ClipProps }> = ({ p }) => {
   const { fps, durationInFrames } = useVideoConfig();
   const t = frame / fps;
   const editorial = p.referenceEdit?.profile === "editorial";
+  const transition = p.transitionCues ? transitionAt(p.transitionCues, frame, fps) : undefined;
+  const picture = canvasBox(p);
   const mask = p.referenceEdit?.foregroundMasks?.find(m => t >= m.t && t < m.t + m.dur);
   const behind = p.referenceEdit?.layers?.some(l => l.depth === "behind" && t >= l.t && t < l.t + l.dur);
   const introFrames = p.intro ? Math.round(p.intro.durationSec * fps) : 0;
@@ -340,13 +344,16 @@ const ClipBody: React.FC<{ p: ClipProps }> = ({ p }) => {
   return (
     <AbsoluteFill>
       {needsBlur(p, t) ? <Background p={p} /> : null}
-      <Framed p={p} t={t} frame={frame} />
-      {p.referenceEdit ? <ReferenceCutaways p={p} /> : null}
+      <Framed p={p} t={t} frame={frame} pictureFilter={transition?.filter} />
+      {p.referenceEdit ? <ReferenceCutaways p={p} pictureFilter={transition?.filter} /> : null}
+      {transition?.overlay ? <div style={{position: "absolute", left: picture.x, top: picture.y,
+        width: picture.w, height: picture.h, borderRadius: picture.radius,
+        background: transition.overlay, pointerEvents: "none"}} /> : null}
       <AbsoluteFill style={{ backgroundColor: `rgba(0,0,0,${loopDim})` }} />
       {editorial ? <>
         <EditorialCaptions p={p} depth="behind" />
         {mask && behind ? <AbsoluteFill style={{zIndex: 10000, clipPath: `polygon(${maskPoints(mask, t).map(([x,y]) => `${x}px ${y}px`).join(",")})`}}>
-          <Framed p={p} t={t} frame={frame} muted />
+          <Framed p={p} t={t} frame={frame} muted pictureFilter={transition?.filter} />
         </AbsoluteFill> : null}
         <EditorialCaptions p={p} depth="front" />
       </> : p.referenceEdit ? <ReferenceCaptions p={p} /> : p.captions.length > 0 ? <Captions p={p} captions={p.captions} t={t} /> : null}

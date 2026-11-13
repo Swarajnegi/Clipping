@@ -1,0 +1,196 @@
+{
+  "source": "Harvey Specter - Suits S01 [Upscaled 4K H265] - aeharvey.mp4",
+  "source_bytes": 3804256307,
+  "source_mtime_ns": 1794372017014505800,
+  "source_path_at_intake": "E:\\Clipping\\Movie Clips\\Harvey Specter - Suits S01 [Upscaled 4K H265] - aeharvey.mp4",
+  "source_resolution": [
+    1920,
+    1080
+  ],
+  "source_frame_rate": "24000/1001",
+  "source_duration": 5906.666,
+  "posting_reuse_basis": "Unresolved. Local private review.",
+  "scan": "56 distributed 2.4-second sample windows plus targeted motion checks.",
+  "clips": [
+    {
+      "file": "04291150-harvey-and-mike-walk-together.mp4",
+      "source_start": 4291.161875,
+      "source_end": 4293.497541666667,
+      "duration": 2.3356666666666666,
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 4283048,
+      "tags": [
+        "teamwork",
+        "transition",
+        "connection"
+      ],
+      "review": "Targeted source-motion samples and decoded output",
+      "editorial": {
+        "action": "Harvey and Mike walk side by side past the office buildings.",
+        "cues": [
+          "teamwork",
+          "transition",
+          "connection"
+        ],
+        "mood": [],
+        "framing": "Source-native, crop per edit",
+        "fit": "Stepping into a larger professional world with a colleague.",
+        "evidence": {
+          "status": "motion_review",
+          "coverage": "Targeted source interval"
+        }
+      }
+    },
+    {
+      "file": "01076860-colleagues-meet-in-a-bright-interior.mp4",
+      "source_start": 1076.8674583333332,
+      "source_end": 1077.9935833333332,
+      "duration": 1.1261249999999998,
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 2121804,
+      "tags": [
+        "teamwork",
+        "connection",
+        "help"
+      ],
+      "review": "Targeted source-motion samples and decoded output",
+      "editorial": {
+        "action": "Suited colleagues approach one another and reach out while talking.",
+        "cues": [
+          "teamwork",
+          "connection",
+          "help"
+        ],
+        "mood": [],
+        "framing": "Source-native, crop per edit",
+        "fit": "A recognisable workplace exchange.",
+        "evidence": {
+          "status": "motion_review",
+          "coverage": "Targeted source interval"
+        }
+      }
+    },
+    {
+      "file": "05363160-mike-reviews-the-paperwork.mp4",
+      "source_start": 5363.149458333333,
+      "source_end": 5365.151458333334,
+      "duration": 2.002,
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 3690307,
+      "tags": [
+        "craft",
+        "focus",
+        "repetition"
+      ],
+      "review": "Targeted source-motion samples and decoded output",
+      "editorial": {
+        "action": "Mike sits by the window with an open document and reads it.",
+        "cues": [
+          "craft",
+          "focus",
+          "repetition"
+        ],
+        "mood": [],
+        "framing": "Source-native, crop per edit",
+        "fit": "Visible paperwork behind the polished job.",
+        "evidence": {
+          "status": "motion_review",
+          "coverage": "Targeted source interval"
+        }
+      }
+    },
+    {
+      "file": "03113910-team-gathers-around-the-desk.mp4",
+      "source_start": 3113.902458333333,
+      "source_end": 3116.029583333333,
+      "duration": 2.127125,
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 4060042,
+      "tags": [
+        "teamwork",
+        "listening",
+        "connection"
+      ],
+      "review": "Targeted source-motion samples and decoded output",
+      "editorial": {
+        "action": "People gathered around the office desk listen and exchange looks.",
+        "cues": [
+          "teamwork",
+          "listening",
+          "connection"
+        ],
+        "mood": [],
+        "framing": "Source-native, crop per edit",
+        "fit": "Doing work with a team.",
+        "evidence": {
+          "status": "motion_review",
+          "coverage": "Targeted source interval"
+        }
+      }
+    },
+    {
+      "file": "02040890-lawyers-stand-before-the-court.mp4",
+      "source_start": 2040.8721666666665,
+      "source_end": 2042.9992916666665,
+      "duration": 2.127125,
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 4330755,
+      "tags": [
+        "pressure",
+        "resolve",
+        "focus"
+      ],
+      "review": "Targeted source-motion samples and decoded output",
+      "editorial": {
+        "action": "People in suits face one another in a courtroom.",
+        "cues": [
+          "pressure",
+          "resolve",
+          "focus"
+        ],
+        "mood": [],
+        "framing": "Source-native, crop per edit",
+        "fit": "A public test of professional preparation.",
+        "evidence": {
+          "status": "motion_review",
+          "coverage": "Targeted source interval"
+        }
+      }
+    },
+    {
+      "file": "05898850-mike-and-harvey-share-a-reaction.mp4",
+      "source_start": 5898.851291666666,
+      "source_end": 5900.686458333333,
+      "duration": 1.8351666666666666,
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 3566034,
+      "tags": [
+        "connection",
+        "trust",
+        "relief"
+      ],
+      "review": "Targeted source-motion samples and decoded output",
+      "editorial": {
+        "action": "Harvey and Mike exchange expressions outdoors.",
+        "cues": [
+          "connection",
+          "trust",
+          "relief"
+        ],
+        "mood": [],
+        "framing": "Source-native, crop per edit",
+        "fit": "An outward-looking human response rather than a solitary portrait.",
+        "evidence": {
+          "status": "motion_review",
+          "coverage": "Targeted source interval"
+        }
+      }
+    }
+  ]
+}

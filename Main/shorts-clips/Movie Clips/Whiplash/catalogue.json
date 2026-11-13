@@ -1,0 +1,286 @@
+{
+  "source": "Whiplash (2014) - Best Scenes [REMUX 4K] - noahae.mp4",
+  "source_bytes": 5767933256,
+  "source_mtime_ns": 1794288776962319700,
+  "source_path_at_intake": "E:\\Clipping\\Movie Clips\\Whiplash (2014) - Best Scenes [REMUX 4K] - noahae.mp4",
+  "source_resolution": [
+    3840,
+    1600
+  ],
+  "source_frame_rate": "24000/1001",
+  "source_duration": 2836.58375,
+  "posting_reuse_basis": "Unresolved. Local private review.",
+  "scan": "56 distributed 2.4-second sample windows plus targeted motion checks.",
+  "clips": [
+    {
+      "file": "02623120-andrew-catches-his-breath-under-stage-lights.mp4",
+      "source_start": 2623.1205,
+      "source_end": 2625.456166666667,
+      "duration": 2.3356666666666666,
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 21594874,
+      "tags": [
+        "relief",
+        "victory",
+        "focus"
+      ],
+      "review": "Targeted source-motion samples and decoded output",
+      "editorial": {
+        "action": "Andrew holds his eyes closed and breathes between strokes under amber stage lights.",
+        "cues": [
+          "relief",
+          "victory",
+          "focus"
+        ],
+        "mood": [],
+        "framing": "Source-native, crop per edit",
+        "fit": "Physical release after giving everything to a performance.",
+        "evidence": {
+          "status": "motion_review",
+          "coverage": "Targeted source interval"
+        }
+      }
+    },
+    {
+      "file": "00878450-fletcher-presses-andrew-during-rehearsal.mp4",
+      "source_start": 878.4609166666665,
+      "source_end": 879.9624166666665,
+      "duration": 1.5014999999999998,
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 11073070,
+      "tags": [
+        "pressure",
+        "setback",
+        "listening"
+      ],
+      "review": "Targeted source-motion samples and decoded output",
+      "editorial": {
+        "action": "Fletcher leans in and talks into Andrew's face while Andrew looks down.",
+        "cues": [
+          "pressure",
+          "setback",
+          "listening"
+        ],
+        "mood": [],
+        "framing": "Source-native, crop per edit",
+        "fit": "A readable consequence of missing the mark in rehearsal.",
+        "evidence": {
+          "status": "motion_review",
+          "coverage": "Targeted source interval"
+        }
+      }
+    },
+    {
+      "file": "00261700-andrew-repeats-strokes-at-the-kit.mp4",
+      "source_start": 261.71979166666665,
+      "source_end": 264.0554583333333,
+      "duration": 2.3356666666666666,
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 12055239,
+      "tags": [
+        "craft",
+        "focus",
+        "repetition"
+      ],
+      "review": "Targeted source-motion samples and decoded output",
+      "editorial": {
+        "action": "Andrew looks down at the drum kit and alternates strokes with both hands.",
+        "cues": [
+          "craft",
+          "focus",
+          "repetition"
+        ],
+        "mood": [],
+        "framing": "Source-native, crop per edit",
+        "fit": "Showing sustained physical practice and repeated attempts.",
+        "evidence": {
+          "status": "motion_review",
+          "coverage": "Targeted source interval"
+        }
+      }
+    },
+    {
+      "file": "01546480-sticks-strike-the-drum-in-rehearsal.mp4",
+      "source_start": 1546.4615833333332,
+      "source_end": 1548.0465,
+      "duration": 1.5849166666666665,
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 13885871,
+      "tags": [
+        "repetition",
+        "focus",
+        "craft"
+      ],
+      "review": "Targeted source-motion samples and decoded output",
+      "editorial": {
+        "action": "Sticks and cymbals move through several quick strikes.",
+        "cues": [
+          "repetition",
+          "focus",
+          "craft"
+        ],
+        "mood": [],
+        "framing": "Source-native, crop per edit",
+        "fit": "Detail of repetitive physical work.",
+        "evidence": {
+          "status": "motion_review",
+          "coverage": "Targeted source interval"
+        }
+      }
+    },
+    {
+      "file": "00519700-fletcher-smiles-in-the-rehearsal-room.mp4",
+      "source_start": 519.6858333333333,
+      "source_end": 521.1039166666667,
+      "duration": 1.4180833333333331,
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 7034791,
+      "tags": [
+        "relief",
+        "connection",
+        "victory"
+      ],
+      "review": "Targeted source-motion samples and decoded output",
+      "editorial": {
+        "action": "Fletcher's expression softens into a smile.",
+        "cues": [
+          "relief",
+          "connection",
+          "victory"
+        ],
+        "mood": [],
+        "framing": "Source-native, crop per edit",
+        "fit": "A small human reward following effort.",
+        "evidence": {
+          "status": "motion_review",
+          "coverage": "Targeted source interval"
+        }
+      }
+    },
+    {
+      "file": "01647920-andrew-breathes-under-pressure.mp4",
+      "source_start": 1647.9379583333332,
+      "source_end": 1649.7314166666665,
+      "duration": 1.7934583333333332,
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 6767061,
+      "tags": [
+        "pressure",
+        "recovery",
+        "focus"
+      ],
+      "review": "Targeted source-motion samples and decoded output",
+      "editorial": {
+        "action": "Andrew breathes heavily in close-up.",
+        "cues": [
+          "pressure",
+          "recovery",
+          "focus"
+        ],
+        "mood": [],
+        "framing": "Source-native, crop per edit",
+        "fit": "A visible physical cost and reset.",
+        "evidence": {
+          "status": "motion_review",
+          "coverage": "Targeted source interval"
+        }
+      }
+    },
+    {
+      "file": "02162020-andrew-practises-alone-at-the-kit.mp4",
+      "source_start": 2162.034875,
+      "source_end": 2163.953458333333,
+      "duration": 1.9185833333333333,
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 9648873,
+      "tags": [
+        "repetition",
+        "focus",
+        "craft"
+      ],
+      "review": "Targeted source-motion samples and decoded output",
+      "editorial": {
+        "action": "Andrew plays the kit in a small practice room.",
+        "cues": [
+          "repetition",
+          "focus",
+          "craft"
+        ],
+        "mood": [],
+        "framing": "Source-native, crop per edit",
+        "fit": "Private work behind a public performance.",
+        "evidence": {
+          "status": "motion_review",
+          "coverage": "Targeted source interval"
+        }
+      }
+    },
+    {
+      "file": "02470620-andrew-ready-at-the-performance.mp4",
+      "source_start": 2470.634833333333,
+      "source_end": 2472.136333333333,
+      "duration": 1.5014999999999998,
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 10803035,
+      "tags": [
+        "anticipation",
+        "pressure",
+        "focus"
+      ],
+      "review": "Targeted source-motion samples and decoded output",
+      "editorial": {
+        "action": "Andrew sits at the kit onstage, looking up with his sticks ready.",
+        "cues": [
+          "anticipation",
+          "pressure",
+          "focus"
+        ],
+        "mood": [],
+        "framing": "Source-native, crop per edit",
+        "fit": "The moment before performing in public.",
+        "evidence": {
+          "status": "motion_review",
+          "coverage": "Targeted source interval"
+        }
+      }
+    },
+    {
+      "file": "02777220-hands-execute-a-drum-pattern.mp4",
+      "source_start": 2777.2327916666663,
+      "source_end": 2778.817708333333,
+      "duration": 1.5849166666666665,
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 12317213,
+      "tags": [
+        "craft",
+        "repetition",
+        "focus"
+      ],
+      "review": "Targeted source-motion samples and decoded output",
+      "editorial": {
+        "action": "The drummer's hands execute a rapid pattern over the head of the drum.",
+        "cues": [
+          "craft",
+          "repetition",
+          "focus"
+        ],
+        "mood": [],
+        "framing": "Source-native, crop per edit",
+        "fit": "A skill that visibly comes from practice.",
+        "evidence": {
+          "status": "motion_review",
+          "coverage": "Targeted source interval"
+        }
+      }
+    }
+  ]
+}

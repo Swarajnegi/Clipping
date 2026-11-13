@@ -5,7 +5,31 @@ description: Discover original footage from reference edits, study the owner's e
 
 # /viral-shorts
 
-## Default framing and production source quality — 8 November 2026
+## Owner-led editing
+
+For new thought.palace edits, follow the [five editing stages](references/owner-led-edit.md)
+in order. This workflow governs the technical steps below.
+
+1. Gather playable source-only proofs. Check the spoken hook second by second
+   through the opening three seconds, fluent delivery and complete payoff. Stop
+   for the owner's passage approval.
+2. Map the spoken beats and inspect every reference shot boundary, including
+   brief inserts. Give the owner exact cues, playable B-roll choices, source
+   offsets, crops and planned screen times. Record the chosen shots and holds.
+3. If the owner wants the edit timed to a song, confirm the exact recording,
+   excerpt and offset before locking. If the owner handles music independently
+   or asks for no music, record that and proceed on dialogue timing.
+4. Lock the speech, B-roll, crops, cuts, transitions, SFX and any agreed song
+   timing before captioning. Review the caption-free assembly with sound.
+5. Author captions against the locked edit. Verify the full sequence, including
+   completed words, every cut and transition, mask clearance and phone-size
+   legibility. If the owner asks to review frames first, supply the requested
+   frame sequence and wait for approval before encoding the final video.
+   Deliver the music-free master with intentional SFX and a checked cover.
+
+Save decisions per clip in `Working` and resume from the earliest pending stage.
+
+## Default framing and production source quality
 
 For future vertical edits, use the owner's **centred rounded-square picture on a
 black 9:16 canvas**, based on the supplied Chris Williamson reference. Author the
@@ -28,16 +52,22 @@ For already-selected raw footage requiring illustrated cards, comparisons and
 speech-led motion graphics, use [motion-edit](../motion-edit/SKILL.md). Keep this
 workflow for discovery, moment selection and ordinary captioned clip production.
 
-## Dialogue-led movie cutaways — 9 November 2026
+## Dialogue-led movie cutaways
 
-**Permanent owner direction:** Include silent, dialogue-matched film or TV
-cutaways in every new edit. Aim for around six or seven inserts per clip,
-adjusting for the spoken beats and runtime. Follow
+**Permanent owner direction:** Use silent, dialogue-matched film or TV cutaways
+where the passage gives them a clear job. Plan the visual beats from opening to
+payoff before choosing the number of inserts. Hold on the speaker when the
+available cutaways lack a readable action or a clear connection. Follow
 [movie cutaways](references/movie-cutaways.md) and search the local Movie Clips
 catalogue first. Map the hook, development and payoff to recognizable scenes.
 Use as much variety from the extracted film and TV library as the dialogue
 supports, both within an edit and across a batch. Choose every insert for the
 exact spoken cue and keep connected sequences coherent.
+Judge the meaning of the cutaway sequence as well as its individual actions.
+Check what the final crop communicates with the sound off, then compare it
+with the spoken line and the clip's point. A surface match can suggest a
+different motive or emotion. Choose an image that reinforces the speaker's
+meaning, or let the speaker carry the line.
 Start on the speaker, keep dialogue continuous and return to them where their
 delivery carries the moment. Recompose captions around faces and action.
 Verify a posting reuse basis for the inserts before promoting a clip for
@@ -45,48 +75,26 @@ publication. Keep versions with unresolved reuse labeled as private review.
 
 When the owner adds a full-length pack, follow the guide's
 [pack intake](references/movie-cutaways.md#new-pack-intake-and-handoff) on the next
-applicable clipping request. Save and verify standalone excerpts before the owner
-removes the full-length file.
+applicable clipping request. Save reusable excerpts with **5–10 seconds of
+usable source footage**, including room on both sides of the key action where
+the source allows. Keep shorter edit trims in the project's `Working` folder.
+Verify the saved durations and action coverage before handing back the pack
+for removal. Flag any shorter detail shots and any longer replacement that
+still needs the original.
 
-## Default caption treatment — owner decisions, 3–8 November 2026
+## Default caption treatment
 
-Latest owner correction, 8 November: for new thought.palace edits, centre the
-**whole caption composition** in the middle of the picture, rather than anchoring
-it at the bottom. On the current centred square/9:16 canvas both centres are
-logical (540, 960). The owner's later clarification allows other genuinely empty
-areas when they improve visual appeal and readability. Choose placement per shot
-or phrase, keep faces/meaningful gestures clear, and avoid words jumping arbitrarily.
-Keep the established type, timing and Difference treatment. Preserve older saved project geometry.
-Read `EDITORIAL_TASTE.md` for the current duration, source-variety and owner-review
-brief; these are not universal duration/source-count rules for other projects.
+Read `EDITORIAL_TASTE.md` and the [editorial caption guide](references/editorial-captions.md)
+before authoring. Use `referenceEdit.profile: "editorial"`, bundled Inter Bold,
+a phone-readable baseline and noticeably larger key words. For a progressive
+stack, reveal the upper line first and keep it in place as subsequent lines
+appear below it. Choose a position for the completed block based on the shot
+and its movement. Keep every glyph clear of masks and picture edges.
+Use white-fill Difference on all spoken-caption layers by default, including
+emphasis and italics. Apply explicit exceptions only to the words the owner
+specifies. A designed transition card is its own graphic.
 
-For new edits, use the [reference-style editorial captions](references/editorial-captions.md):
-locally bundled Inter Bold, tight typography, word-synchronous stacked phrases,
-large emphasis words, selective perspective and clean subject-depth compositing.
-**Permanent owner instruction, 8 November 2026: apply colour-reactive Difference
-blending to every word of every caption in every future video.** This includes
-supporting words, emphasis, italic accents and every caption layer, not selected phrases
-or foliage shots only. Author `surface: "difference"` explicitly on every layer and
-follow the guide's white-fill preset. The supplied `surface-proof-phone.png` is the
-visual reference: letters respond to the actual picture beneath them; simple translucent
-white text does not reproduce it. Tune effect strength and placement for readability,
-but do not silently switch words back to solid silver/normal blending. Change this rule
-only when the owner explicitly requests an exception. Inspect the effect on the actual
-moving footage, including bright clothing, dark areas and camera cuts, at phone size.
-**Permanent owner direction, 10 November 2026:** Give selected hook, pivot and
-payoff words visibly heavier weight or a larger size than their supporting text.
-Use occasional true italics or a contrasting licensed typeface where the phrase
-benefits from it, as in the 1 November 11:58 reference ("high" around 16s).
-Reserve those word positions before their reveal. Inspect the hierarchy and
-spacing at phone size. Keep the approved clean Difference finish. Solve
-readability over skin or bright clothing through placement and typography.
-Read that guide before authoring captions. This supersedes the older italic/picture-band
-caption defaults, unless the current brief explicitly chooses another treatment.
-Author `referenceEdit.profile: "editorial"` and its layers; selecting `brand.style: "bold"`
-alone does not generate this treatment. Older styles remain explicit alternatives and
-existing approved exports/specifications keep their behavior. Do not retrofit them unasked.
-
-## Hook treatments and thumbnails — owner instruction, 8 November 2026
+## Hook treatments and thumbnails
 
 Before designing an opening or final cover, read
 [hook treatments and thumbnails](references/hooks-and-thumbnails.md). The preserved
@@ -94,21 +102,25 @@ Before designing an opening or final cover, read
 reframing/zoom, captions, illustrative animation and an audio stage. Adapt techniques
 to the actual speech and channel tone; a visual effect cannot supply a missing
 spoken hook or complete payoff. Record the chosen treatment and why it fits.
-**Permanent owner direction, 10 November 2026:** Start with the spoken hook and
+Start with the spoken hook and
 make the first meaningful visual change on the earliest natural beat in the
-opening one to three seconds. Prefer a dialogue-matched film or TV cutaway where
-the line earns it. Use a reframing, caption emphasis or purposeful graphic when
-the speaker should stay on screen. Check timing, readability and speech clarity
-through all three seconds. Record the actual first line, the first transition's
-timestamp and the spoken beat it serves. Check the opening at phone size before
-delivering the finished cut.
-An inexpensive opening preview may be shown on a specific clip before final finishing;
-this is optional, not a new mandatory approval gate. Existing owner review gates apply.
+opening. Let the spoken thought and action determine the timing. Use a
+dialogue-matched cutaway, source angle, reaction or caption build. Recheck
+the crop at each camera change. Record the opening line, the first visible
+change and the beat it serves, then check the first three seconds at phone size.
+Carry that pacing through the example, turn and payoff. Review what the viewer
+gains during a long hold and keep it when the speaker's delivery does the work.
+Use hard cuts for most
+changes and a [paired transition and sound](references/transitions.md) when a
+specific beat benefits from an accent. Music-free delivery retains those effects.
+After the three [owner decisions](references/owner-led-edit.md), an inexpensive
+opening treatment preview may be shown before final finishing.
 
-Every finished clip must include a high-quality matching thumbnail/cover image,
-reviewed at phone size and delivered beside its video in `Exports`. Keep exploratory
-opening/thumbnail drafts in `Working`; finish only the owner's approved selections
-when the brief calls for rough-cut review. Do not insert a static thumbnail intro
+When packaging a finished clip for delivery, include a matching thumbnail/cover
+image checked at phone size and in a centred square crop. Deliver it beside the
+video in `Exports` when the reuse basis is confirmed. Keep exploratory
+opening/thumbnail drafts in `Working`. Finish the owner's approved selections.
+Do not insert a static thumbnail intro
 or copy the reference creator's footage, graphics, notifications, branding or sound.
 
 ## Standing owner rule — our channel, reference inspiration only
@@ -146,7 +158,9 @@ Use `D:\J.A.R.V.I.S\Clipping\Main\shorts-clips` for this skill:
   decisions, reference analysis, clips JSON, drafts and QA evidence.
 - `Movie Clips/<title>`: reusable source-native, silent film/TV excerpts with source
   times, editorial tags and review status. Start at `Movie Clips/README.md`.
-- `Exports/<project-id>`: finished, validated videos and their delivery notes.
+- `Exports/01 Finished Edits/<project-id>`: validated finished videos, covers and
+  delivery notes. Use `Exports/02 Private Reviews/<project-id>` for completed
+  private-review packages and `Exports/03 Archive/<project-id>` for archived edits.
 
 Keep reference analysis in `Working/reference-analysis`, with timestamped observations
 and a record of which files were actually inspected. Recheck for new/changed examples
@@ -162,24 +176,14 @@ provider review and upload-deletion results. `--mode local` requires the GPU gua
 prepares full transcripts and one-second frame sheets for assistant inspection. Prepared
 evidence and provider descriptions are not a claim of direct full audiovisual playback.
 
-Owner's 1 November 2026 brief: `WhatsApp Video 2026-11-01 at 11.54.55 AM.mp4` and
-`WhatsApp Video 2026-11-01 at 11.58.27 AM.mp4` are editing targets. Other examples guide
-content, delivery, humour and music taste. Discover by taste across creators; begin with
-Tate's Emergency Meeting/Tate Confidential, Rogan and Williamson. Follow the target's
-opening, including direct speaker openings; do not force a narrated intro. Keep separate
-profiles if these two edits differ. Findings live in `Working/reference-analysis`.
-Read its `REFERENCE_STUDY.md` and the current project's source shortlist before selecting
-a style. The inspected November targets use (A) restrained captions with illustrative
-cutaways and (B) selective kinetic typography over the speaker. Both use a wide picture
-band on black. Per-clip `referenceEdit` supports these layouts; read the source-discovery
-reference for its schema. Exact visual matching still requires font/position tuning and motion QA. Audio/music study
-coverage is recorded separately in the report; it is not inferred from the frame sheets.
+The 1 November reference study in `Working/reference-analysis/REFERENCE_STUDY.md`
+documents two earlier wide-band styles. Consult it when those examples are relevant.
+Use the current brief and `EDITORIAL_TASTE.md` for source selection and current style.
 
 The commands below still use the renderer's existing `work`, `out` and `public` staging
 paths. Retain necessary staging files for those commands; copy project records/drafts/QA
-into `Working/<project-id>` and promote only reviewed deliverables into
-`Exports/<project-id>`. Do not claim these scripts already support output-directory flags,
-move/delete existing projects, or relocate shared dependencies/caches for this layout.
+into `Working/<project-id>` and package reviewed deliverables in the appropriate
+`Exports` folder.
 
 ## Native Windows location and runtime
 
@@ -327,13 +331,13 @@ deliver interrupted or partial outputs without revalidation. Cancellation stops 
 guard-owned Windows Job Object. A pending cleanup record blocks new work until that job
 is confirmed empty; the next invocation checks this without terminating other processes.
 
-Usage: `/viral-shorts <url-or-file> [n=2-10] [campaign brief path]` in Claude;
-use `$viral-shorts` or select the skill in Codex. Read the source video's actual frame rate;
+Usage: `/viral-shorts <url-or-file> [brief]` in Claude Code. The repository-root
+[`CLAUDE.md`](../../../CLAUDE.md) maps the local workflow, tools and examples.
+Use `$viral-shorts` or select the skill in Codex. Read the source video's actual frame rate;
 preserve it through selection, timing and rendering instead of assuming 30 FPS.
 
-You are the editor. Scripts perceive and render; **you judge**. Never skip the looking steps —
-on the MW4 run, half of the audio-top candidates were killcam replays, pre-round screens and
-a firing range, and on the TED test a fixed centre crop would have cut the speaker in half.
+You are the editor. Inspect source footage and the assembled edit yourself,
+including the active speaker and intended action in the final crop.
 
 ## Selection before production
 
@@ -357,6 +361,8 @@ Prepare an inexpensive full-length editorial proof before 4K finishing. Review i
 flow with sound and record the actual reviewer/method/coverage. Transcript and frame checks
 alone cannot establish spoken fluency. Pending audiovisual review is not editorial approval.
 Keep this coverage distinct from technical render QA and the owner's decision to publish.
+For thought.palace, the first proof is source-only and requires the owner's approval
+before B-roll scouting.
 
 Use actual audience metrics at comparable publication ages. `results.py` preserves legacy
 `--avd` as percentage viewed; duration in seconds is a separate field. Unknown metrics stay
@@ -433,16 +439,22 @@ Check restored scripts' help/schema before using optional flags; examples are no
    Reject: replays/killcams, menus, loading, pre-round, practice ranges, dead air, non-English UI
    when the brief says English only, and moments that need context the clip does not contain.
 
-4. **Frame.** Fast-cut sources (a cut every ~1–2s in `timeline.txt`): omit `shots` on talk
+4. **Pause for thought.palace's owner-led decisions.** Show the source-only
+   proof with sound. After source approval, send the B-roll brief and wait for
+   shot choices. Confirm music timing only if the edit is being timed to a song. Continue
+   to the final framing and build once those decisions are recorded.
+
+   **Frame.** Fast-cut sources (a cut every ~1–2s in `timeline.txt`): omit `shots` on talk
    clips — build.py makes one shot per detected cut and face-tracks each (YuNet; b-roll with
    no face falls back to centre). Slower multi-cam (TED, podcasts): run sheet.py through
    `$Guard -Mode Run -Workload Cpu` with arguments `@('.\scripts\sheet.py', $VideoId, '--shots', $ShotRange, '--name', 'cN_shots')` → set per-shot `x` (gridlines 0.25/0.5/0.75) and `w`
    (omit = full-bleed + tracking; 0.6–0.7 for slides/on-screen text; 1.0 whole frame;
    `"lock": true` to stop tracking, e.g. audience shots). Gaming: type `gaming`, x 0.5.
    Blue sub-samples (S3b…) expose missed cuts — add a shot there.
-   Two-person conversations (interview, car ride, podcast two-shot): set `"trackMode": "group"`
-   and `"widthFrac": 0.5` so tracking centres BOTH faces — default tracking follows the
-   largest face and cropped Jay Leno out while he delivered the punchline.
+   Two-person conversations: inspect every angle change in the final crop.
+   Centre the speaking subject when the line belongs to them. Use
+   `"trackMode": "group"` when both faces or their interaction need to read,
+   and choose the width from the actual framing.
    Vehicle/action/wide-shot clips: `"widthFrac": 0.42` so explosions and water shots keep context.
    Intro stills: avoid frames with the source's own burned-in labels/arrows.
 
@@ -454,30 +466,35 @@ Check restored scripts' help/schema before using optional flags; examples are no
 
 6. **Write `work/<id>/clips.json`** (schema in `scripts\build.py` docstring): `brand` (style,
    accent, grade, music, voice), per clip start/end or `segments`, type, `intro`, hook, shots,
-   punchIns (≤1.1×, 1–2 biggest beats), title, description, why. Campaign brief? Required
+   optional punchIns (≤1.1×, only for an expressive beat that earns a push),
+   title, description, why. Campaign brief? Required
    caption/#Ad/tags → `footer`, logo → `watermark`, mandatory on-screen text → hook.
 
 7. **Render** — `& $Guard -Mode Run -Workload Gpu -FilePath $ClipPython -ArgumentList @('.\scripts\build.py', $ClipsJson)` (append `'--only', '2'` for an actual selected clip).
-   For the owner's paired delivery use `"pairedExports": true` at the top level of clips.json
+   For the default thought.palace delivery, render without the selected song.
+   Include a YouTube Sound cue sheet when song timing was agreed. If paired delivery is explicitly requested,
+   use `"pairedExports": true` at the top level of clips.json
    or append `--paired-exports`. Configure a cleared music file. The builder renders one
    speech/effects master with the added bed disabled, then stream-copies its picture while
    mixing the bed into the companion. Outputs: `clip_NN.mp4`, `clip_NN_music-free.mp4`,
    and a packet-hash/timing receipt. Source-embedded music remains in both: choose clean
    dialogue sources or explicitly mark that limitation. Never mute speech to make this version.
-   The old laptop measured ~10–13 min per minute of output; that is historical only.
    Measure one small render here before estimating a batch. Keep one heavy render at a time,
    with cancellation and observable progress; do not launch parallel background batches.
 
-8. **QA.** Read every `out/<id>/qa/clip_NN.jpg` (start, 35%, 70%, end; frame 1 is the intro
-   when present). Check: intro still is striking, captions readable/synced/one line in clean,
-   hook in the safe zone and off faces, no half-cropped subject, and no foreign overlaid
-   watermarks/symbols/handles/end cards. Include frames across source cuts and any animated
-   branding. Use the owner's approved mark or none. Fix, re-render with `--only`.
+8. **QA.** Use the generated contact sheet for a first look. Check the first three seconds,
+   every cut on both sides, each completed caption group, masks through motion, transition
+   flashes/cards, and the final phrase at phone size. Listen through the assembled edit
+   when possible. Check active-speaker framing, branding, frame count, FPS, dimensions,
+   decode and audio continuity. Record actual coverage and fix failures before handoff.
 
 9. **Hand over** validated `clip_NN.mp4`, its matching reviewed thumbnail/cover image,
-   and `UPLOAD.md` from
-   `Main/shorts-clips/Exports/<project-id>/` after copying from renderer staging;
-   keep QA evidence under the project's `Working` folder. Remind the user to check 1–2 on the phone
+   and `UPLOAD.md` in the appropriate export folder after copying from renderer staging.
+   Include the confirmed [YouTube Sound cue](references/transitions.md#choose-and-time-the-music)
+   when planned, with recording, excerpt start/end and edit offset.
+   Retain other ranked options with their own suggested timestamps and indicate
+   which cuts would need retiming.
+   Keep QA evidence under the project's `Working` folder. Remind the user to check 1–2 on the phone
    with sound before posting if that coverage remains outstanding. Do not prescribe a posting quota.
 
 10. **Close the loop.** Log real Studio metrics using `scripts/results.py add`; legacy
@@ -488,9 +505,9 @@ Check restored scripts' help/schema before using optional flags; examples are no
 
 ## Rules
 
-- Rights: catalogue discovery leads with unknown permission, but record a reuse basis before
-  production/delivery (own footage, permission, applicable licence or authorized campaign).
-  Public availability and creator identity do not establish permission. Third-party footage
-  can receive claims or strikes; flag an unresolved reuse basis once, without inventing a legal determination.
-- Music: only license-clean tracks the user placed in `D:\J.A.R.V.I.S\Clipping\music\`; never rip songs.
-- Don't reuse the MW4/Valorant clips in `D:\J.A.R.V.I.S\Clipping\Campaigns` as references — they failed.
+- Rights: record a reuse basis before delivering a clip for posting (own footage,
+  permission, applicable licence or authorized campaign). Public availability alone
+  does not establish permission. Keep private drafts in `Working` and label
+  any delivered private reviews with the applicable reuse status.
+- Embedded music: use cleared tracks supplied by the owner in the local music folder.
+  Platform sound recommendations and timing notes are separate from permission to embed audio.

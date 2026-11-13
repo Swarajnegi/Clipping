@@ -1,0 +1,35 @@
+{
+  "provider": "Mixkit",
+  "license": "https://mixkit.co/license/modal/sfxFree/",
+  "retrieved": "2026-11-11",
+  "sounds": {
+    "small-electric-glitch": {
+      "title": "Small electric glitch",
+      "source": "https://mixkit.co/free-sound-effects/glitch/",
+      "download": "https://assets.mixkit.co/active_storage/sfx/2595/2595.wav",
+      "sha256": "a0b1fc7da700d4ee99294b242039836717a9e9e2c53ffa308b72dda7c22a7578",
+      "startMs": 0, "accentMs": 40, "endMs": 285, "gainDb": -22
+    },
+    "glitch-static": {
+      "title": "Glitch static",
+      "source": "https://mixkit.co/free-sound-effects/glitch/",
+      "download": "https://assets.mixkit.co/active_storage/sfx/1457/1457.wav",
+      "sha256": "cc9f5435e533b0b40574227f0eca027c5eda444ec82725b5d9566e103c581f86",
+      "startMs": 0, "accentMs": 10, "endMs": 260, "gainDb": -22
+    },
+    "digital-sweep-effect": {
+      "title": "Digital sweep effect",
+      "source": "https://mixkit.co/free-sound-effects/woosh/",
+      "download": "https://assets.mixkit.co/active_storage/sfx/2631/2631.wav",
+      "sha256": "b7045c17edc447439300a7f8c6d8b172983934de5671028cbfe6e15f48e4b1c9",
+      "startMs": 180, "accentMs": 375, "endMs": 560, "gainDb": -20
+    },
+    "camera-shutter-click": {
+      "title": "Camera shutter click",
+      "source": "https://mixkit.co/free-sound-effects/camera/",
+      "download": "https://assets.mixkit.co/active_storage/sfx/1133/1133.wav",
+      "sha256": "0a38265f932837141d9fc6a1da560a919139ed621d330418090d4ddf6cb8e824",
+      "startMs": 110, "accentMs": 190, "endMs": 345, "gainDb": -16
+    }
+  }
+}

@@ -1,7 +1,7 @@
 # Editorial taste and learning notes
 
-Updated: 8 November 2026 (owner's Asia/Calcutta date).
-Channel shown on the two supplied posts: thought.palace.
+Updated: 11 November 2026 (owner's Asia/Calcutta date).
+Channel: thought.palace.
 
 Read before choosing moments or designing captions for this owner's channel.
 This is an evolving editorial memory, separate from the viral-shorts skill.
@@ -329,6 +329,95 @@ the existing results.py log with zero/fake retention metrics.
 Future learning should distinguish owner selection, public reach, and private
 retention/engagement analytics. Compare results at similar ages when available;
 record negative feedback and revise these hypotheses as more choices arrive.
+
+### Simon Sinek × Trevor Noah — 11 November 2026
+
+The owner shared a YouTube Studio AI snapshot for the posted
+[asking-for-help Short](https://www.youtube.com/shorts/YcQm8sgTs0o). The snapshot
+reports 1,302 views (typical 3–520), 34 likes (2–20), 56.7% stayed to watch
+(45.8%–57.7%), and 23s average view duration with 63.1% average percentage
+viewed (53.2%–57.3%). These are owner-supplied figures at an unspecified
+publication age. The exact uploaded revision and retention curve were not
+independently verified.
+
+Keep the contrast about building trust by asking for help and the personal
+example that earns its payoff as a channel benchmark. Studio AI pointed to a
+taper after the payoff around 25s, “showing up for you.” For similar passages,
+test an earlier visual change on the actual opening line and end closer to the
+payoff when the story still feels complete. The 56.7% figure measures the feed
+decision. Use the retention curve to check where viewers who stayed left.
+Treat the two edit changes as hypotheses and compare at similar publication ages.
+
+### Cutaway feedback — 11 November 2026
+
+The owner likes frequent, quick movie inserts when their action, reaction or
+emotion is clear in the final crop and fits the spoken line. They flagged inserts
+in the pacing batch that showed a door, a back, a cropped-out character or an
+unreadable scene. Retain useful visual beats and let the speaker carry the line
+when the available footage falls short. Look for library coverage of joy, craft,
+professionalism, warmth and personal insight as well as struggle or isolation.
+Prioritize films and series the channel's audience is likely to recognize when
+scouting packs. The owner named Limitless and The Wolf of Wall Street for
+ambition and asked about Atonement for love. Recognition helps break ties after
+the action, crop and exact spoken fit have passed review.
+
+### Speaker coverage and sound placement — 11 November 2026
+
+The owner flagged unnecessary zooming in and out in the Goggins Heart-Shaped
+Box preview. The authored timeline has 16 speaker shot entries, including the
+opening, mostly digital changes in one camera. For this channel, start with one
+readable speaker crop and use it on returns. A different camera angle, reaction,
+or a specific emotional turn can earn a change. Passage length alone is a poor
+reason to move the camera.
+
+The two supplied 12:49:48 WhatsApp references support a more specific approach.
+The square edit uses short sequences of purposeful actions, including one drummer
+at several stages of practice. It punctuates particular action or word changes
+with sound and lets the final instruction play on the face. The horizontal edit
+uses a run of hard cuts for overwork, then a longer sequence showing the process
+of resting and returning. It holds the closing speaker for over three seconds.
+Use that progression to plan which shot the next line needs, and leave ordinary
+hard cuts quiet when the dialogue or music already gives them an accent.
+
+The [timestamped comparison](<Main/shorts-clips/Working/reference-analysis/dialogue-cuts-20261111/REVIEW.md>)
+records the visible shots, audio transients and where exact sounds remain
+unresolved. The framing correction is explicit owner feedback. The pacing and
+sound suggestions are adaptations of the two references.
+
+### Match the point of the clip — 11 November 2026
+
+The owner flagged the Suits inserts in Mel Robbins's self-worth edit and
+suggested Blade Runner 2049 or The Place Beyond the Pines. The courtroom and
+office sequence made a personal idea feel like professional approval. Before
+delivering a cut, review what the sequence implies without the spoken line and
+then compare it with the clip's human point. Personal stories can use a small
+action or expression with the right emotion. A different source belongs when
+its mood and visible action both support the line.
+
+The owner asked to skip Roger Federer's “It's Only a Point” and said they
+never liked this clip. The feedback applies to this selection. No reason or
+broader preference about tennis was given.
+
+### Henry Cavill — 13 November 2026
+
+The owner selected an *About Time* night walk for happiness and a *Good Will
+Hunting* argument for misery. They replaced the kiss and split a dinner hold
+into separate decision and happiness beats. The selected shot at a specific
+source offset matters as much as the film title. In this edit the quieter
+walk made companionship legible and the argument gave it a clear contrast.
+
+The owner asked for larger text throughout, with a progressive top-to-bottom
+stack in the opening. Each earlier line stays as the next appears below it.
+They also wanted the two parts of the final phrase close together, with a
+larger solid-white “Fair.” That fill is a local exception to the usual
+Difference treatment. They rejected clipped last letters, including when
+the opening foreground mask caused them.
+
+The owner singled out the camera-capture transition into the white
+“and lastly” card. In this cut it marks a verbal pivot after the dark
+embrace and gives the last line its own beat. See the [shot map](<Main/shorts-clips/Working/henry-cavill-9Lumng-20261113/caption-free-v2-shot-map.json>)
+and [review frames](<Main/shorts-clips/Working/henry-cavill-9Lumng-20261113/v4-caption-check.jpg>).
+These are edit decisions and taste evidence. Audience performance was not measured.
 
 ## Update discipline
 

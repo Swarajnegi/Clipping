@@ -1,4 +1,5 @@
 import type { Caption } from "@remotion/captions";
+import type {TransitionCue} from "./transitionMotion";
 
 // One entry per shot; holds until the next entry. x = horizontal centre of interest (0..1 of
 // source width), w = fraction of source width shown (0.316 full-bleed, 1.0 whole frame over blur).
@@ -97,4 +98,5 @@ export type ClipProps = {
   music: Music | null;
   referenceEdit?: ReferenceEdit;
   cutaways?: Cutaway[];
+  transitionCues?: TransitionCue[];
 };

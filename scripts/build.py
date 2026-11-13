@@ -40,6 +40,7 @@ clips.json schema:
      "trackMode": "largest",                     # "group": centre all prominent faces (two-shots)
      "shots": [{"t": 0, "x": 0.5}, {"t": 7.2, "x": 0.64, "w": 1.0}],  # assembled-timeline seconds
      "punchIns": [{"t": 6.1, "dur": 0.6, "scale": 1.1}],
+     "transitionCues": [{"frame": 45, "preset": "inversion-flicker", "soundId": "small-electric-glitch"}],
      "style": null, "music": null,               # per-clip overrides of brand
      "title": "...", "description": "...", "why": "..."
   }]
@@ -62,6 +63,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import FFMPEG, NODE, REMOTION, OUT, PUBLIC, ROOT, WORK, encoder, mmss, probe, require_guard, run  # noqa: E402
 from track import track as face_track  # noqa: E402
+from transition_sounds import mix_transition_sounds, resolve_cues  # noqa: E402
 
 TYPE_DEFAULTS = {
     # 0.42 of a 16:9 frame fills the width at 1.33x and leaves room for blurred bands.
@@ -470,6 +472,15 @@ def main() -> int:
                 print(f"  face track: {sum(hits) / max(clip_dur, 1e-6):.0%} of samples had a face")
 
         intro = make_intro(clip, brand, name, snippet, pub_dir, vid)
+        intro_duration = intro["durationSec"] if intro else 0
+        duration_sec = round(clip_dur + intro_duration, 3)
+        # Match Math.round in the composition for both clocks, including .5 ties.
+        intro_frames = math.floor(intro_duration * media.fps + 0.5)
+        total_frames = max(1, math.floor(duration_sec * media.fps + 0.5))
+        transition_cues = clip.get("transitionCues", [])
+        transition_assets = resolve_cues(
+            transition_cues, total_frames - intro_frames, media.fps, clip.get("referenceEdit")
+        )
         cutaways = []
         for index, item in enumerate(clip.get("cutaways") or []):
             at, duration = float(item["t"]), float(item["end"]) - float(item["start"])
@@ -485,14 +496,15 @@ def main() -> int:
             cutaways.append({"src": f"clips/{vid}/{cutaway_path.name}", "t": at, "dur": duration})
         music_cfg = clip.get("music", brand.get("music"))
         music = ({"src": publish(music_cfg["file"], pub_dir, vid), "db": float(music_cfg.get("db", -12)),
-                  "fadeOutSec": float(music_cfg.get("fadeOutSec", 2))} if music_cfg else None)
+                  "fadeOutSec": float(music_cfg.get("fadeOutSec", 2))}
+                 if music_cfg and not transition_assets else None)
 
         bg = snippet if clip.get("referenceEdit") else blur_background(snippet)
         props = {
             "src": f"clips/{vid}/{name}.mp4",
             "bgSrc": f"clips/{vid}/{bg.name}",
             "fps": media.fps,
-            "durationSec": round(clip_dur + (intro["durationSec"] if intro else 0), 3),
+            "durationSec": duration_sec,
             "srcWidth": media.width,
             "srcHeight": media.height,
             "widthFrac": clip.get("widthFrac") or defaults["widthFrac"],
@@ -514,6 +526,8 @@ def main() -> int:
             "referenceEdit": clip.get("referenceEdit"),
             "cutaways": cutaways,
         }
+        if transition_cues:
+            props["transitionCues"] = transition_cues
         ppath = props_dir / f"{name}.json"
         ppath.write_text(json.dumps(props, ensure_ascii=False), encoding="utf-8")
 
@@ -535,7 +549,15 @@ def main() -> int:
             if (m.width, m.height) != (1080 * args.output_scale, 1920 * args.output_scale) or abs(m.fps - media.fps) > 0.001:
                 raise RuntimeError("Rendered dimensions/frame rate do not match the requested output")
             gain_db = float(clip.get("sourceAudioDb", 0))
-            if gain_db:
+            if transition_assets:
+                with_effects = pending.with_name(pending.stem + ".effects.mp4")
+                mix_transition_sounds(pending, with_effects, transition_cues, transition_assets,
+                                      media.fps, total_frames, intro_frames=intro_frames,
+                                      source_gain_db=gain_db, dialogue=snippet,
+                                      intro_audio=PUBLIC / intro["audio"] if intro else None)
+                pending.unlink()
+                pending = with_effects
+            elif gain_db:
                 levelled = pending.with_name(pending.stem + ".levelled.mp4")
                 adjust_source_audio(pending, gain_db, levelled)
                 pending = levelled
@@ -560,6 +582,11 @@ def main() -> int:
                     "source_audio_gain_db": gain_db,
                     "note": "Only the separately added bed is removed; source-embedded music remains."}, indent=2), encoding="utf-8")
             else:
+                if transition_assets and music_cfg:
+                    mixed_pending = pending.with_name(pending.stem + ".mixed.mp4")
+                    mix_companion(pending, music_cfg, mixed_pending)
+                    pending.unlink()
+                    pending = mixed_pending
                 pending.replace(final)
             print(f"  -> {final.name} {m.width}x{m.height} @{m.fps} {m.duration:.2f}s "
                   f"{final.stat().st_size / 1e6:.1f} MB")

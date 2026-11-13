@@ -3,6 +3,15 @@
 Owner-approved on 3 November 2026. Reference: [The Nicks Edit tutorial](https://www.youtube.com/watch?v=uAga_kBywLM).
 This guide governs caption treatment, not content selection or permission to reuse assets.
 
+For thought.palace, captioning is the final editing step: begin caption design,
+placement, timing and rendering only after the source speech, B-roll, any
+chosen song timing, picture cuts, transitions and SFX are locked.
+Use the existing beat map when composing captions. Follow the
+[owner-led workflow](owner-led-edit.md).
+Use vertical stacks beside a subject when the clear space is tall and narrow,
+ordinary horizontal phrases when the frame gives them width, and centred
+compositions when the picture allows. Check the full stack as words reveal.
+
 **Owner update, 8 November 2026:** Difference blending is required on every caption
 word in every future video, including supporting text and italic accents. This replaces
 the earlier selective-use/solid-fallback advice. Only an explicit owner exception changes
@@ -56,7 +65,8 @@ The first supplied file is the one with `(1)` in its name; the second has no suf
 
 ### Colour-reactive text preset
 
-Set `surface: "difference"` explicitly on **every** editorial caption layer. It defaults to a white
+Set `surface: "difference"` explicitly on every spoken-caption layer unless
+the owner has requested a specific exception. It defaults to a white
 solid fill, `blend: "difference"`, full `fillOpacity: 1`, and `shadow: "none"`.
 The actual footage supplies the colour and texture: white-minus-green produces
 pink/purple, while white-minus-pale backgrounds produces dark letters. This is a
@@ -73,7 +83,7 @@ the middle panel shows full Difference; the lower panel shows a softer 65% mix.
 Start at full strength; `fillOpacity: 0.65` is the pictured softer alternative.
 Tune a positive effect strength for the footage without leaving any words untreated.
 `fillOpacity` mixes the effect with the original picture. The renderer supports
-`color`, `gradient`, `blend` and `shadow` overrides, but new channel captions must use
+`color`, `gradient`, `blend` and `shadow` overrides. For the Difference preset use
 white `color: "#ffffff"`, no inherited silver gradient, and Difference blending.
 Omit `blend` or set it to `"difference"`; do not inherit `"normal"` from an old layer.
 Inspect the whole word
@@ -105,11 +115,10 @@ retain the bundled licences and source/hash receipts. Never activate the persona
 reference downloads for production. Recheck the actual italic glyph bounds, word timing,
 and phone-size readability, especially thin serif strokes and overshoots.
 
-Every future channel edit must result in visible, inspected Difference layers
-in the rendered footage. Use the white Difference fill with clean edges. Apply
-the same surface to supporting
-words and italic layers. Save an actual-footage comparison; the synthetic leaf chart alone is not proof
-that the requested treatment was applied to an edit.
+Verify the chosen surface on the actual footage, including supporting words and
+italic layers. The synthetic leaf chart shows the preset, not its appearance in
+an edit. A designed transition card is a separate graphic. A requested solid
+white payoff applies only to the named phrase, as with Cavill's “to be Fair.”
 
 ### Other reference fonts and exact availability
 
@@ -130,11 +139,9 @@ Do not substitute another font silently or copy the reel's third-party media ass
 
 ## Authoring and rendering
 
-Use `referenceEdit.profile: "editorial"`, `palette: "silver"`, `layeredOnly: true`,
-and manually authored `layers`. `bandHeight: 1920` gives a full-height canvas; author
-the existing `shots` crop for the actual speaker and source cuts. **For new projects,
-the 8 November rounded-square framing default supersedes that full-height starting
-layout:** author `referenceEdit.frame` per [framing and source quality](framing-and-source-quality.md).
+Use `referenceEdit.profile: "editorial"`, `layeredOnly: true`, and manually authored
+`layers`. Author `referenceEdit.frame` per [framing and source quality](framing-and-source-quality.md)
+and set the `shots` crop for the actual speaker and source cuts.
 Keep old authored layouts intact. Other layouts remain
 available when a brief needs them. Never force text across faces to preserve a template.
 
@@ -172,6 +179,15 @@ animate at their own timestamps; previously visible words must not recenter or j
 For mixed font sizes or unusual compositions, author one word/phrase per layer with
 explicit positions. Phrase composition is an editorial task, not automatic random sizing.
 
+A progressive top-to-bottom build is a sequence of fixed rows. Reveal the first
+line at the top on its words, hold it while the next lines appear below, and
+clear the group together at the next thought or incompatible picture cut.
+Use independent layer positions and a shared end time. Vertical entrance
+animation is a separate choice. Fit the widest completed group and its motion
+inside the picture. Start large enough to read on a phone and use a larger
+key word where the shot has room. Tighten spacing so a payoff such as
+“to be” and “Fair” reads as a single phrase.
+
 For [movie cutaways](movie-cutaways.md), keep Inter Bold for supporting words and
 reserve visible size or weight changes for spoken hooks, turns and payoffs. Use
 bundled Cormorant Italic selectively. Plan the entire phrase for the moving shot,
@@ -199,12 +215,17 @@ hands; add keyframes when the outline changes. Do not use a large rectangular cu
 ## Acceptance and reuse
 
 Before the full render, inspect stills at phrase starts, settled emphasis and every
-mask transition. Then review the complete output with sound. Check word onsets within
-one source frame, stable typography, readable emphasis, mask edges, crop changes, and
+mask transition. Check each fully revealed group and the frames before and
+after every caption or picture change. Check the word's final glyph, group
+overlaps, mask coverage through motion, and outgoing fades over cards or new
+shots. If a mask clips a word, move the group into clear space or refine the
+mask. Do not leave partly obscured letters. Then review the complete output
+with sound when available. Check word onsets against actual dialogue within
+one source frame where verified, stable typography, readable emphasis, crop changes, and
 safe placement against Reels/Shorts UI overlays. Check light clothing and bright areas
 specifically: the owner previously flagged the Ronaldo “life” payoff over a white shirt.
 Under the current all-word Difference rule, solve separation with framing, typography
-and mix strength while preserving the effect. Check every authored caption layer for
+and mix strength while preserving the effect. Check every non-exempt caption layer for
 `surface: "difference"`, a white fill without an inherited gradient/normal blend, and
 a positive effect mix; sample every phrase and source cut for the visible response.
 Selective occlusion may establish depth,

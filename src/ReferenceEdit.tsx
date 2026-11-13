@@ -4,7 +4,7 @@ import {createTikTokStyleCaptions} from "@remotion/captions";
 import type {ClipProps} from "./types";
 import {referencePictureBox} from "./pictureFrame";
 
-export const ReferenceCutaways: React.FC<{p: ClipProps}> = ({p}) => {
+export const ReferenceCutaways: React.FC<{p: ClipProps; pictureFilter?: string}> = ({p, pictureFilter}) => {
   const {fps} = useVideoConfig();
   const box = referencePictureBox(p.referenceEdit!);
   return <>{(p.cutaways ?? []).map((cut, i) =>
@@ -12,7 +12,7 @@ export const ReferenceCutaways: React.FC<{p: ClipProps}> = ({p}) => {
       <div style={{position: "absolute", left: box.x, top: box.y, width: box.w, height: box.h,
         borderRadius: box.radius, overflow: "hidden", background: "black"}}>
         <OffthreadVideo src={staticFile(cut.src)} muted
-          style={{width: "100%", height: "100%", objectFit: "cover"}} />
+          style={{width: "100%", height: "100%", objectFit: "cover", filter: pictureFilter}} />
       </div>
     </Sequence>)}</>;
 };

@@ -66,16 +66,18 @@ faithful to the passage. A thumbnail/title cannot rescue weak opening speech.
 
 ## Applying a treatment
 
-Plan the first visual transition on the earliest useful spoken beat within
-the first three seconds. Let an illustrative cutaway arrive as soon as its
-cue makes sense. When the speaker's expression or delivery is the hook, use
-a restrained push, shot change or typographic reveal instead. Evaluate the
-opening at normal playback speed and keep the speech clear.
+Plan the first visual change on the earliest useful spoken beat. Let an
+illustrative cutaway arrive on the beat it serves. Keep the speaker at a stable scale when their expression or delivery
+is the hook. Consider a genuine source reaction/angle or a typographic reveal.
+Use a digital push only if it improves a specific expressive beat or crop.
+Evaluate the opening at normal playback speed and keep the speech clear.
 
-Record an opening plan alongside the cut: exact spoken opening, first-three-second
-beats, chosen technique and purpose, source/caption timing, graphic provenance,
-audio decision and the complete payoff later in the clip. Use only the treatments
-that earn their place; applying every stage to every clip is not the objective.
+Record a full-clip beat map alongside the cut. Include the spoken opening,
+example, turn and payoff, their time or frame, each visual choice and its purpose,
+caption emphasis, source provenance, and any [transition and sound](transitions.md).
+Check longer stretches for progression in the spoken point, a reaction or a
+deliberate hold. When returning from cutaways, reuse the established speaker
+framing unless a genuine angle or expressive change earns new coverage.
 
 Existing capabilities cover graded footage, shot-aware crops, `punchIns`, timed
 editorial caption layers and frame-driven motion. Use an authorised original or
@@ -87,8 +89,8 @@ For a novel treatment or uncertain fit, an inexpensive opening preview on one
 specific clip is welcome before final exports. Save it as a labelled variant in
 `Working`, keeping the clean full proof and audio intact. Show enough of the opening
 to assess the treatment, then review the complete passage for the promised payoff.
-This is optional; do not add a mandatory approval loop to every routine edit. Respect
-an explicit rough-cut approval gate, including the current five pending proposals.
+This treatment preview is optional. Follow the separate [owner-led decisions](owner-led-edit.md)
+for the source passage, actual B-roll and any song timing.
 
 Inspect native/phone-size frames across the first three seconds and transitions;
 check faces, gesture clearance, stable phrase layout, actual word onsets and readable
@@ -104,7 +106,8 @@ and readability. Check the actual moving shot rather than assuming one side is e
 Keep faces and important gestures clear. Change position deliberately at phrase/shot
 boundaries; do not make already visible words jump as a phrase builds. Preserve
 complete wording, individual word timing, approved fonts, selective true italics and
-all-word white Difference. Existing approved projects are not rebuilt automatically.
+the white Difference treatment in the [caption guide](editorial-captions.md).
+Existing approved projects are not rebuilt automatically.
 
 ## Required thumbnail for every finished clip
 
@@ -118,32 +121,12 @@ all-word white Difference. Existing approved projects are not rebuilt automatica
 - Match our approved typography and framing direction. Use cleared bundled fonts;
   an occasional italic accent may support hierarchy. The thumbnail must remain
   readable over bright/dark clothing and at small display sizes.
-- For the default vertical 4K delivery, author a 2160×3840 cover and check that its
-  important subject/text also survives a centred square crop. Match a deliberately
+- Author a vertical cover for vertical delivery, aiming for 2160×3840 on a 4K
+  project. Inspect the full headline, including the lowest line, and the
+  subject's face in both the full image and a centred square crop. Match a deliberately
   horizontal deliverable's cover to that format. Do not call an upscale recovered
   camera detail. Do not insert the static cover into the spoken opening automatically.
-- Keep drafts in `Working`; deliver the reviewed `<clip-id>-thumbnail.jpg` or `.png`
-  beside **each** finished video in `Exports/<project-id>`. Include its frame/time,
-  headline and QA coverage in delivery notes. A final video without its thumbnail
-  is an incomplete delivery under this owner instruction. This does not require
-  finishing covers for rejected rough cuts or retroactively rebuilding old uploads.
-
-## Concrete candidate: James Clear rough (not rendered/approved)
-
-`Working/complete-thoughts-20261108/drafts/03-clear-goals-and-systems-ROUGH.mp4`
-is a potential fit for the contrast treatment, subject to owner listening selection.
-
-- **0–1.84s:** Bartlett reads the genuine winners/losers/same-goals premise. Build
-  every spoken word at its saved onset; put hierarchy on the contrast and then
-  **same goals**, preserving white Difference. The torso offers central caption space.
-- **From about 1.84s:** retain the genuine cut to Clear and his Olympic example.
-  A subtle push can mark the speaker change, without a flash or invented notification.
-  If a later comparison graphic helps, independently illustrate the shared gold-medal
-  goal; do not borrow Olympic broadcast footage or pretend it proves the argument.
-- **Ending:** keep the necessary/not-sufficient qualification and systems/habits
-  conclusion. The opening treatment must not replace those sentences.
-- **Possible cover headline:** “SAME GOAL. DIFFERENT RESULT.” This is editorial
-  cover copy, not a new spoken quote. Use an expressive clean Clear frame.
-
-This is an application plan, not a claim of a completed preview, listening approval,
-final thumbnail or export. Other current roughs remain pending too.
+- Keep drafts in `Working`. Place the reviewed `<clip-id>-thumbnail.jpg` or
+  `.png` beside the video in its finished or private review export folder.
+  Include its frame/time, headline and QA coverage in delivery notes.
+  For a render-only request, follow the requested scope.

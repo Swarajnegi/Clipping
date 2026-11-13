@@ -2,7 +2,7 @@
 
 Original pack **Luke Glanton Badass [4K].mp4**.
 
-75 standalone, silent clips at 3840×1600 and 24000/1001 FPS.
+74 standalone, silent clips at 3840×1600 and 24000/1001 FPS.
 
 | Source time | Clip | Tags | Review |
 | --- | --- | --- | --- |
@@ -24,7 +24,6 @@ Original pack **Luke Glanton Badass [4K].mp4**.
 | 00:02:36.281 | [two men at the trailer entrance](00156281-two-men-at-the-trailer-entrance.mp4) | meeting, work, outdoors | Representative frame reviewed |
 | 00:02:45.290 | [two men walk from the trailer](00165290-two-men-walk-from-the-trailer.mp4) | companionship, departure, work | Representative frame reviewed |
 | 00:03:21.785 | [motorcycle on a forest road from above](00201785-motorcycle-on-a-forest-road-from-above.mp4) | journey, perspective, movement | Representative frame reviewed |
-| 00:03:27.207 | [rider on a curving woodland road](00207207-rider-on-a-curving-woodland-road.mp4) | travel, solitude, movement | Representative frame reviewed |
 | 00:03:30.293 | [luke in blue night light](00210293-luke-in-blue-night-light.mp4) | uncertainty, surprise, close-up | Representative frame reviewed |
 | 00:03:35.799 | [rider passes a parked pickup](00215799-rider-passes-a-parked-pickup.mp4) | arrival, night, movement | Representative frame reviewed |
 | 00:03:42.305 | [figure alone beside open water](00222305-figure-alone-beside-open-water.mp4) | solitude, scale, outdoors | Representative frame reviewed |
@@ -85,3 +84,5 @@ Original pack **Luke Glanton Badass [4K].mp4**.
 The source timecodes are relative to the original local pack. See [catalogue.json](catalogue.json) for the complete source and verification records.
 
 Posting reuse is unresolved.
+
+Source timecodes for missing local files are retained under `unavailable_excerpts` in [catalogue.json](catalogue.json).

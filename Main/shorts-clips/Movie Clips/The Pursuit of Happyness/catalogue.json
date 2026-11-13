@@ -1,0 +1,332 @@
+{
+  "source": "Visual Logoless - The Pursuit of Happyness Dialogue Remux 1080p -@blitzfilms.mp4.crdownload",
+  "source_bytes": 2757345262,
+  "source_path_at_intake": "D:\\J.A.R.V.I.S\\Clipping\\Main\\shorts-clips\\Movie Clips\\Visual Logoless - The Pursuit of Happyness Dialogue Remux 1080p -@blitzfilms.mp4.crdownload",
+  "source_resolution": [
+    1920,
+    800
+  ],
+  "source_frame_rate": "24000/1001",
+  "source_duration": 1646.89525,
+  "verified_intake_limit": 1522.0,
+  "posting_reuse_basis": "Unresolved. Local library.",
+  "clips": [
+    {
+      "file": "00311000-chris-solves-cube-in-taxi.mp4",
+      "source_start": 311.0190416666666,
+      "source_end": 319.0270416666666,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 13913074,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "focus",
+        "craft",
+        "pressure"
+      ],
+      "editorial": {
+        "action": "Chris focuses on a Rubik’s cube while sitting beside a businessman in a taxi.",
+        "cues": [
+          "focus",
+          "craft",
+          "pressure"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "Concentration and problem solving under pressure.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "00455000-chris-on-the-phone.mp4",
+      "source_start": 454.9962083333333,
+      "source_end": 463.0042083333333,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 14979988,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "pressure",
+        "focus"
+      ],
+      "editorial": {
+        "action": "Chris stands indoors talking on the phone.",
+        "cues": [
+          "pressure",
+          "focus"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "A difficult call or trying to make progress.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "00540000-father-helps-son-with-backpack.mp4",
+      "source_start": 539.9977916666667,
+      "source_end": 548.0057916666667,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 14228573,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "help",
+        "connection"
+      ],
+      "editorial": {
+        "action": "Chris helps his son adjust a backpack before they talk.",
+        "cues": [
+          "help",
+          "connection"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "Care and support during a busy day.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "00660000-chris-washes-up-at-sink.mp4",
+      "source_start": 659.9926666666667,
+      "source_end": 668.0006666666667,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 15301871,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "pressure",
+        "recovery"
+      ],
+      "editorial": {
+        "action": "Chris washes up at a public sink.",
+        "cues": [
+          "pressure",
+          "recovery"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "Preparing yourself under difficult circumstances.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "00732000-chris-arrives-for-interview.mp4",
+      "source_start": 731.9812499999999,
+      "source_end": 739.98925,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 14014372,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "pressure",
+        "resolve"
+      ],
+      "editorial": {
+        "action": "Chris speaks and gestures to interviewers across a table.",
+        "cues": [
+          "pressure",
+          "resolve"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "Facing a high-stakes opportunity.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "01056000-father-and-son-at-basketball-court.mp4",
+      "source_start": 1056.0132916666666,
+      "source_end": 1064.0212916666667,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 13921915,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "connection",
+        "help"
+      ],
+      "editorial": {
+        "action": "Chris and his son stand together at a fenced basketball court.",
+        "cues": [
+          "connection",
+          "help"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "Encouragement between parent and child.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "01295000-father-talks-to-son-on-bench.mp4",
+      "source_start": 1295.0020416666666,
+      "source_end": 1303.0100416666667,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 13522120,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "connection",
+        "help",
+        "listening"
+      ],
+      "editorial": {
+        "action": "Chris talks to his son while they sit together on a public bench.",
+        "cues": [
+          "connection",
+          "help",
+          "listening"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "A reassuring conversation in a hard situation.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "01332000-father-and-son-sit-together.mp4",
+      "source_start": 1331.9973333333332,
+      "source_end": 1340.0053333333333,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 13816852,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "connection",
+        "help"
+      ],
+      "editorial": {
+        "action": "Chris reaches across to his son as they sit at a station bench.",
+        "cues": [
+          "connection",
+          "help"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "Care and connection in an ordinary public place.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "01452000-chris-checks-notes-on-steps.mp4",
+      "source_start": 1451.9922083333333,
+      "source_end": 1460.0002083333334,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 16599198,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "focus",
+        "pressure"
+      ],
+      "editorial": {
+        "action": "Chris looks down at an item on the steps outside among pedestrians.",
+        "cues": [
+          "focus",
+          "pressure"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "Checking a plan before moving forward.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "01476000-son-and-father-lie-awake.mp4",
+      "source_start": 1476.0162083333332,
+      "source_end": 1484.0242083333333,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 14434628,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "connection",
+        "pressure",
+        "sacrifice"
+      ],
+      "editorial": {
+        "action": "Chris and his son lie close together with worried expressions.",
+        "cues": [
+          "connection",
+          "pressure",
+          "sacrifice"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "A difficult night and family responsibility.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    }
+  ],
+  "unavailable_excerpts": [
+    {
+      "file": "00405000-hands-turn-rubiks-cube.mp4",
+      "source_start": 404.98791666666665,
+      "source_end": 412.99591666666663,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 13707880,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "craft",
+        "focus"
+      ],
+      "editorial": {
+        "action": "Hands rotate a Rubik’s cube in close-up before returning to Chris.",
+        "cues": [
+          "craft",
+          "focus"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "Working through a difficult problem.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      },
+      "availability": "missing_locally"
+    }
+  ]
+}

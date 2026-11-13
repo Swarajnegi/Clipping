@@ -1,0 +1,239 @@
+{
+  "source": "Mary - About Time (2013) - (1080p REMUX H265) - 411editing.mp4",
+  "source_bytes": 5539517960,
+  "source_path_at_intake": "E:\\Clipping\\Movie Clips\\Mary - About Time (2013) - (1080p REMUX H265) - 411editing.mp4",
+  "source_resolution": [
+    1920,
+    1080
+  ],
+  "source_frame_rate": "24000/1001",
+  "source_duration": 2892.222667,
+  "verified_intake_limit": 2892.222667,
+  "posting_reuse_basis": "Unresolved. Local library.",
+  "clips": [
+    {
+      "file": "00892000-mary-and-tim-eat-together.mp4",
+      "source_start": 892.016125,
+      "source_end": 900.024125,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 8330177,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "connection",
+        "listening"
+      ],
+      "editorial": {
+        "action": "Mary and Tim sit across a dinner table talking.",
+        "cues": [
+          "connection",
+          "listening"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "A relaxed conversation or time together.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "00974000-couple-walk-at-night.mp4",
+      "source_start": 974.0147083333333,
+      "source_end": 982.0227083333333,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 7137203,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "connection",
+        "transition"
+      ],
+      "editorial": {
+        "action": "Mary and Tim walk beside each other at night.",
+        "cues": [
+          "connection",
+          "transition"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "Walking together and sharing a moment.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "01453000-mary-laughs-in-daylight.mp4",
+      "source_start": 1452.9932083333333,
+      "source_end": 1461.0012083333334,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 9927423,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "connection",
+        "relief"
+      ],
+      "editorial": {
+        "action": "Mary laughs while talking outdoors.",
+        "cues": [
+          "connection",
+          "relief"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "A light, happy moment in conversation.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "01711000-wedding-party-in-the-rain.mp4",
+      "source_start": 1711.0009583333333,
+      "source_end": 1719.0089583333333,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 9972710,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "connection",
+        "relief"
+      ],
+      "editorial": {
+        "action": "The wedding party reacts as rain and wind sweep through.",
+        "cues": [
+          "connection",
+          "relief"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "Finding humour and joy when plans go wrong.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "01917000-parents-hold-newborn.mp4",
+      "source_start": 1916.9984166666666,
+      "source_end": 1925.0064166666666,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 9088919,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "connection",
+        "help"
+      ],
+      "editorial": {
+        "action": "Mary and Tim hold their newborn together indoors.",
+        "cues": [
+          "connection",
+          "help"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "Family, care and a new chapter.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "02030000-couple-sits-outside.mp4",
+      "source_start": 2029.9862916666666,
+      "source_end": 2037.9942916666666,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 9203414,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "connection",
+        "reflection"
+      ],
+      "editorial": {
+        "action": "Mary and Tim sit next to each other outdoors.",
+        "cues": [
+          "connection",
+          "reflection"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "A quiet shared pause.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "02248000-father-picks-up-smiling-child.mp4",
+      "source_start": 2247.99575,
+      "source_end": 2256.00375,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 8967948,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "connection",
+        "help"
+      ],
+      "editorial": {
+        "action": "Tim picks up his young child in the kitchen.",
+        "cues": [
+          "connection",
+          "help"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "Affection and everyday family joy.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "02292000-family-walks-with-children.mp4",
+      "source_start": 2291.9980416666667,
+      "source_end": 2300.0060416666665,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 9988654,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "connection",
+        "transition"
+      ],
+      "editorial": {
+        "action": "Parents and children move together along a street.",
+        "cues": [
+          "connection",
+          "transition"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "Family time and ordinary life.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    }
+  ]
+}

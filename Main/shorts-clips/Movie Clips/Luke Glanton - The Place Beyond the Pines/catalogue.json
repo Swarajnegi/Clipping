@@ -613,45 +613,6 @@
       }
     },
     {
-      "candidate_id": 22,
-      "file": "00207207-rider-on-a-curving-woodland-road.mp4",
-      "source_start": 207.207,
-      "source_end_exclusive": 208.79191666666665,
-      "duration": 1.584917,
-      "frames": 38,
-      "tags": [
-        "travel",
-        "solitude",
-        "movement"
-      ],
-      "review": "Representative frame reviewed",
-      "codec_method": "NVENC HEVC independent closed GOP",
-      "silent": true,
-      "video_decoded": true,
-      "bytes": 1855135,
-      "editorial": {
-        "action": "A motorcyclist follows a green road toward a bridge.",
-        "cues": [
-          "transition",
-          "resolve"
-        ],
-        "mood": [
-          "quiet"
-        ],
-        "framing": "Wide moving exterior",
-        "fit": "Possible use for moving into a new situation or deciding to keep going.",
-        "evidence": {
-          "status": "excerpt_samples",
-          "excerpt_seconds": [
-            0.238,
-            0.792,
-            1.347
-          ],
-          "sheet": "pilot-07.jpg"
-        }
-      }
-    },
-    {
       "candidate_id": 23,
       "file": "00210293-luke-in-blue-night-light.mp4",
       "source_start": 210.29341666666664,
@@ -2584,5 +2545,47 @@
     "verified_excerpts": 75,
     "continuous_playback_reviewed": false
   },
-  "selection_complete": true
+  "selection_complete": true,
+  "unavailable_excerpts": [
+    {
+      "candidate_id": 22,
+      "file": "00207207-rider-on-a-curving-woodland-road.mp4",
+      "source_start": 207.207,
+      "source_end_exclusive": 208.79191666666665,
+      "duration": 1.584917,
+      "frames": 38,
+      "tags": [
+        "travel",
+        "solitude",
+        "movement"
+      ],
+      "review": "Representative frame reviewed",
+      "codec_method": "NVENC HEVC independent closed GOP",
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 1855135,
+      "editorial": {
+        "action": "A motorcyclist follows a green road toward a bridge.",
+        "cues": [
+          "transition",
+          "resolve"
+        ],
+        "mood": [
+          "quiet"
+        ],
+        "framing": "Wide moving exterior",
+        "fit": "Possible use for moving into a new situation or deciding to keep going.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "excerpt_seconds": [
+            0.238,
+            0.792,
+            1.347
+          ],
+          "sheet": "pilot-07.jpg"
+        }
+      },
+      "availability": "missing_locally"
+    }
+  ]
 }

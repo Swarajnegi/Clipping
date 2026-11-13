@@ -10,8 +10,8 @@ references needed for the current stage, not every skill on every invocation.
 | Source acquisition and channel reference | yt-dlp, outliers.py, FFprobe | Local files skip downloads; preserve source metadata/FPS |
 | Audio transcription/alignment | Guarded CUDA faster-whisper | Change model only after a measured fit/accuracy comparison; OpenWhispr adds no required capability |
 | Moment/story selection | viral-shorts editorial playbook + source transcript, signals and actual frames | Gemini is a free-tier second opinion when available; never select on loudness alone |
-| Visual analysis | Contact sheets and actual video frames; guarded watch helper | Auto Gemini when free/available and sharing is allowed; local evidence + assistant judgment on failure |
-| Crop and subject following | YuNet/OpenCV plus manual shot framing | Group mode for two speakers; static framing for locked shots; inspect the crop |
+| Visual analysis | Contact sheets for orientation, then actual frames at every relevant cut | Auto Gemini when free/available and sharing is allowed; local evidence + assistant judgment on failure |
+| Crop and subject following | YuNet/OpenCV plus manual shot framing | Follow the active speaker at camera changes. Use group mode when the interaction matters |
 | New technical illustration | `../../anatomy/SKILL.md` | Anatomy draws mechanisms, not people or every chart; use ordinary SVG/design when better suited |
 | Video composition and motion | `../../remotion-best-practices/SKILL.md` | HyperFrames only for a demonstrated authoring/quality benefit and a separately tested local adapter |
 | Selected raw clip into a speech-led motion edit | `../../motion-edit/SKILL.md` | Retain source dialogue; use viral-shorts for long-source selection and ai-video for new narrated films |
@@ -27,14 +27,18 @@ The Remotion guidance currently targets 4.0.538 while the verified runtime is pi
 at 4.0.529. Check actual installed APIs/typechecking; never upgrade the runtime or replace
 working caption code merely because a newer guide recommends a new component.
 
-The owner has requested finished MP4 workflows and technical render verification.
-That authorization takes precedence over upstream preview-first defaults for these runs.
+Follow the requested deliverable and review order. An MP4 request authorizes
+the render for the approved edit. A request to review frames first authorizes
+the frame review, with MP4 encoding after the owner approves it.
 Do not auto-start a long-running Studio server just for a benchmark. Interactive previews
 may be used when relevant, but heavy work still needs admission and containment.
 Upstream cloud, default-home cache, installation and raw CLI examples do not override the
 D-drive storage policy, free-only rule or shared Windows Job Object guard.
 
 ## Reference study
+
+For thought.palace, follow the [owner-led editing stages](owner-led-edit.md)
+before moving from source proof to B-roll scouting, optional song timing and finishing.
 
 Before selecting the style for a production, inventory the matching skill's
 `Main/shorts-clips/Reference` or `Main/AI-videos/Reference`, including nested folders.
@@ -56,6 +60,9 @@ Save observations per reference under the matching `Working/reference-analysis`:
   and aspect ratio. Record inspection coverage and timestamps for the findings.
 - Break down the opening hook, setup/payoff, scene lengths, cut rhythm, silence,
   transitions, ending and any loop back to the opening.
+- When reproducing a reference's visual progression, log every cut frame and
+  brief insert. Step through changes between contact-sheet samples and record
+  the action and spoken cue on both sides of each boundary.
 - Record framing/subject placement, camera movement, lighting/grade, visual continuity,
   typography, caption placement/animation/timing, graphics and screen-safe positioning.
 - Analyse narration/delivery, music rhythm/level, sound effects and how edits land on

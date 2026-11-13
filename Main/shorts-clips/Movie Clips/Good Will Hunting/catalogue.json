@@ -1,0 +1,563 @@
+{
+  "source": "Good Will Hunting (1997) - Best Scenes [4K UPSCALE h265] - thomas.mp4",
+  "source_bytes": 6806518841,
+  "source_path_at_intake": "E:\\Clipping\\Movie Clips\\Good Will Hunting (1997) - Best Scenes [4K UPSCALE h265] - thomas.mp4",
+  "source_resolution": [
+    3840,
+    2060
+  ],
+  "source_frame_rate": "24000/1001",
+  "source_duration": 5544.163625,
+  "verified_intake_limit": 5544.163625,
+  "posting_reuse_basis": "Unresolved. Local library.",
+  "clips": [
+    {
+      "file": "00137000-will-pushes-janitor-cart.mp4",
+      "source_start": 137.011875,
+      "source_end": 144.018875,
+      "duration": 7.007,
+      "key_action_offset": 3.5,
+      "bytes": 18873654,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "craft",
+        "repetition"
+      ],
+      "editorial": {
+        "action": "Will pushes a cleaning cart along a long school corridor.",
+        "cues": [
+          "craft",
+          "repetition"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "Unglamorous work and ordinary routine.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "00235000-friends-watch-baseball.mp4",
+      "source_start": 234.98475,
+      "source_end": 241.99175,
+      "duration": 7.007,
+      "key_action_offset": 3,
+      "bytes": 18633148,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "connection",
+        "anticipation"
+      ],
+      "editorial": {
+        "action": "A lecturer speaks before the friends watch a baseball game, followed by a brief view of a batter.",
+        "cues": [
+          "connection",
+          "anticipation"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "A connected sequence of learning, friendship and sport.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "00323000-chuckie-talks-while-driving.mp4",
+      "source_start": 322.9893333333333,
+      "source_end": 329.9963333333333,
+      "duration": 7.007,
+      "key_action_offset": 4,
+      "bytes": 18579387,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "connection",
+        "transition"
+      ],
+      "editorial": {
+        "action": "Chuckie drives and turns slightly while talking in the car.",
+        "cues": [
+          "connection",
+          "transition"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "A conversation on the way somewhere.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "00872000-skylar-turns-toward-will.mp4",
+      "source_start": 871.9961249999999,
+      "source_end": 879.0031249999998,
+      "duration": 7.007,
+      "key_action_offset": 3,
+      "bytes": 18368027,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "connection",
+        "listening"
+      ],
+      "editorial": {
+        "action": "Skylar reacts across the bar and keeps her attention on Will.",
+        "cues": [
+          "connection",
+          "listening"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "Interest in another person at a first meeting.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "01263000-will-and-lambeau-at-chalkboard.mp4",
+      "source_start": 1263.01175,
+      "source_end": 1272.02075,
+      "duration": 9.008999999999999,
+      "key_action_offset": 4,
+      "bytes": 23531088,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "craft",
+        "focus",
+        "teamwork"
+      ],
+      "editorial": {
+        "action": "Will and the professor stand by a chalkboard covered in mathematics.",
+        "cues": [
+          "craft",
+          "focus",
+          "teamwork"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "Learning, solving a problem and finding a mentor.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "02144000-sean-on-the-park-bench.mp4",
+      "source_start": 2144.016875,
+      "source_end": 2152.0248749999996,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 20983212,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "reflection",
+        "connection",
+        "listening"
+      ],
+      "editorial": {
+        "action": "Sean sits outdoors and speaks under soft daylight.",
+        "cues": [
+          "reflection",
+          "connection",
+          "listening"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "A mentor offers perspective.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "02220000-sean-looks-out-from-bench.mp4",
+      "source_start": 2220.009458333333,
+      "source_end": 2229.018458333333,
+      "duration": 9.008999999999999,
+      "key_action_offset": 4,
+      "bytes": 23390600,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "reflection",
+        "trust"
+      ],
+      "editorial": {
+        "action": "Sean speaks on the park bench, his gaze lifting and shifting as he talks.",
+        "cues": [
+          "reflection",
+          "trust"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "Looking back on experience.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "02280000-sean-and-will-side-by-side.mp4",
+      "source_start": 2279.9860416666666,
+      "source_end": 2287.9940416666664,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 20998288,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "connection",
+        "listening",
+        "trust"
+      ],
+      "editorial": {
+        "action": "Sean looks toward Will while the two share a park bench.",
+        "cues": [
+          "connection",
+          "listening",
+          "trust"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "Someone is willing to stay and listen.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "02330000-will-absorbs-bench-advice.mp4",
+      "source_start": 2329.994333333333,
+      "source_end": 2338.002333333333,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 21396453,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "reflection",
+        "hesitation",
+        "listening"
+      ],
+      "editorial": {
+        "action": "Will sits in a daylight close-up, visibly looking down and thinking.",
+        "cues": [
+          "reflection",
+          "hesitation",
+          "listening"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "Letting a hard truth sink in.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "02642000-therapy-tension-breaks-into-smile.mp4",
+      "source_start": 2642.0143749999997,
+      "source_end": 2651.0233749999998,
+      "duration": 9.008999999999999,
+      "key_action_offset": 5,
+      "bytes": 23601363,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "relief",
+        "connection",
+        "trust"
+      ],
+      "editorial": {
+        "action": "The session moves into smiles as Will and Sean relax.",
+        "cues": [
+          "relief",
+          "connection",
+          "trust"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "Humour breaking a tense moment.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "02658000-will-laughs-in-the-chair.mp4",
+      "source_start": 2657.9886666666666,
+      "source_end": 2665.9966666666664,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 20935796,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "relief",
+        "connection"
+      ],
+      "editorial": {
+        "action": "Will breaks into laughter in the chair during a conversation with Sean.",
+        "cues": [
+          "relief",
+          "connection"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "A real laugh and a moment of openness.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "02873000-sean-recreates-baseball-cheer.mp4",
+      "source_start": 2872.995125,
+      "source_end": 2881.0031249999997,
+      "duration": 8.008,
+      "key_action_offset": 5,
+      "bytes": 20822896,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "victory",
+        "connection"
+      ],
+      "editorial": {
+        "action": "Sean raises his arms during the baseball memory.",
+        "cues": [
+          "victory",
+          "connection"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "Showing joy or reliving a victory.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "02979000-men-greet-at-bar.mp4",
+      "source_start": 2979.0177083333333,
+      "source_end": 2987.025708333333,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 20860805,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "connection",
+        "transition"
+      ],
+      "editorial": {
+        "action": "Sean turns toward people inside a bar during a conversation.",
+        "cues": [
+          "connection",
+          "transition"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "People meet and exchange attention in a social setting.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "03282000-skylar-smiles-outdoors.mp4",
+      "source_start": 3281.9870416666663,
+      "source_end": 3289.995041666666,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 21061376,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "connection",
+        "relief"
+      ],
+      "editorial": {
+        "action": "Will looks toward Skylar before she smiles at an outdoor table.",
+        "cues": [
+          "connection",
+          "relief"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "A reaction and warm smile during a conversation.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "03330000-couple-talks-over-outdoor-table.mp4",
+      "source_start": 3329.993333333333,
+      "source_end": 3338.0013333333327,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 20948074,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "connection",
+        "listening"
+      ],
+      "editorial": {
+        "action": "Will and Skylar face each other at a busy outdoor table.",
+        "cues": [
+          "connection",
+          "listening"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "An everyday date or important conversation.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "03393000-will-and-skylar-kiss.mp4",
+      "source_start": 3393.014625,
+      "source_end": 3401.0226249999996,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 20964465,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "connection",
+        "trust"
+      ],
+      "editorial": {
+        "action": "Will and Skylar lean toward each other in a close romantic shot.",
+        "cues": [
+          "connection",
+          "trust"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "An intimate beat or affection.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "03599000-will-reacts-in-room-argument.mp4",
+      "source_start": 3599.012083333333,
+      "source_end": 3608.021083333333,
+      "duration": 9.008999999999999,
+      "key_action_offset": 5,
+      "bytes": 23398272,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "conflict",
+        "pressure",
+        "hesitation"
+      ],
+      "editorial": {
+        "action": "Will and Skylar alternate speaking in a tense indoor conversation.",
+        "cues": [
+          "conflict",
+          "pressure",
+          "hesitation"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "A disagreement between people close to one another.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "03628000-skylar-reaches-for-will.mp4",
+      "source_start": 3627.999375,
+      "source_end": 3636.0073749999997,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 20691611,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "connection",
+        "help",
+        "conflict"
+      ],
+      "editorial": {
+        "action": "Will reacts as Skylar leans close and touches his face during their disagreement.",
+        "cues": [
+          "connection",
+          "help",
+          "conflict"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "An attempt to connect during an emotional exchange.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    },
+    {
+      "file": "03698000-mathematics-at-the-table.mp4",
+      "source_start": 3697.985958333333,
+      "source_end": 3705.993958333333,
+      "duration": 8.008,
+      "key_action_offset": 4,
+      "bytes": 21633738,
+      "silent": true,
+      "video_decoded": true,
+      "tags": [
+        "craft",
+        "focus",
+        "teamwork"
+      ],
+      "editorial": {
+        "action": "Will and the professor share a table with papers and books.",
+        "cues": [
+          "craft",
+          "focus",
+          "teamwork"
+        ],
+        "mood": [],
+        "framing": "Source-native; crop per edit",
+        "fit": "Quiet collaboration and solving problems.",
+        "evidence": {
+          "status": "excerpt_samples",
+          "coverage": "Targeted start, middle and end picture samples; complete output decode"
+        }
+      }
+    }
+  ]
+}

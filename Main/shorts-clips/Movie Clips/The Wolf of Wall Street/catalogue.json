@@ -1,0 +1,201 @@
+{
+  "source": "The Wolf of Wall Street 2013 - Best Scenes [Remux 4k h265] - variumm.mp4",
+  "source_bytes": 6549894613,
+  "source_mtime_ns": 1794373781309361200,
+  "source_path_at_intake": "E:\\Clipping\\Movie Clips\\The Wolf of Wall Street 2013 - Best Scenes [Remux 4k h265] - variumm.mp4",
+  "source_resolution": [
+    3840,
+    1600
+  ],
+  "source_frame_rate": "24000/1001",
+  "source_duration": 5620.531583,
+  "posting_reuse_basis": "Unresolved. Local private review.",
+  "scan": "56 distributed 2.4-second sample windows plus targeted motion checks.",
+  "clips": [
+    {
+      "file": "03267520-donnie-smiles-while-being-watched.mp4",
+      "source_start": 3267.5142499999997,
+      "source_end": 3269.3494166666665,
+      "duration": 1.8351666666666666,
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5125058,
+      "tags": [
+        "victory",
+        "connection",
+        "pressure"
+      ],
+      "review": "Targeted source-motion samples and decoded output",
+      "editorial": {
+        "action": "Donnie smiles broadly while facing others.",
+        "cues": [
+          "victory",
+          "connection",
+          "pressure"
+        ],
+        "mood": [],
+        "framing": "Source-native, crop per edit",
+        "fit": "The pleasure of an audience's approval.",
+        "evidence": {
+          "status": "motion_review",
+          "coverage": "Targeted source interval"
+        }
+      }
+    },
+    {
+      "file": "01126580-office-crowd-looks-to-the-speaker.mp4",
+      "source_start": 1126.5837916666667,
+      "source_end": 1128.127,
+      "duration": 1.5432083333333333,
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 4435328,
+      "tags": [
+        "connection",
+        "anticipation",
+        "pressure"
+      ],
+      "review": "Targeted source-motion samples and decoded output",
+      "editorial": {
+        "action": "The sales floor crowd watches a man stand and speak beside their desks.",
+        "cues": [
+          "connection",
+          "anticipation",
+          "pressure"
+        ],
+        "mood": [],
+        "framing": "Source-native, crop per edit",
+        "fit": "Attention and status in a group.",
+        "evidence": {
+          "status": "motion_review",
+          "coverage": "Targeted source interval"
+        }
+      }
+    },
+    {
+      "file": "03981140-belfort-addresses-a-room-with-a-microphone.mp4",
+      "source_start": 3981.143833333333,
+      "source_end": 3982.9372916666666,
+      "duration": 1.7934583333333332,
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 5140047,
+      "tags": [
+        "pressure",
+        "resolve",
+        "connection"
+      ],
+      "review": "Targeted source-motion samples and decoded output",
+      "editorial": {
+        "action": "Belfort gestures and speaks into a microphone while standing at the front.",
+        "cues": [
+          "pressure",
+          "resolve",
+          "connection"
+        ],
+        "mood": [],
+        "framing": "Source-native, crop per edit",
+        "fit": "Public-facing responsibility and the attention it attracts.",
+        "evidence": {
+          "status": "motion_review",
+          "coverage": "Targeted source interval"
+        }
+      }
+    }
+  ],
+  "unavailable_excerpts": [
+    {
+      "file": "05612400-audience-faces-the-stage.mp4",
+      "source_start": 5612.398458333333,
+      "source_end": 5614.233625,
+      "duration": 1.8351666666666666,
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 4815434,
+      "tags": [
+        "anticipation",
+        "listening",
+        "connection"
+      ],
+      "review": "Targeted source-motion samples and decoded output",
+      "editorial": {
+        "action": "Rows of people look toward the stage in a bright auditorium.",
+        "cues": [
+          "anticipation",
+          "listening",
+          "connection"
+        ],
+        "mood": [],
+        "framing": "Source-native, crop per edit",
+        "fit": "What a full venue looks like to a performer.",
+        "evidence": {
+          "status": "motion_review",
+          "coverage": "Targeted source interval"
+        }
+      },
+      "availability": "missing_locally"
+    },
+    {
+      "file": "00413540-belfort-reads-a-paper-at-his-desk.mp4",
+      "source_start": 413.538125,
+      "source_end": 415.0813333333333,
+      "duration": 1.5432083333333333,
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 4277190,
+      "tags": [
+        "craft",
+        "focus",
+        "repetition"
+      ],
+      "review": "Targeted source-motion samples and decoded output",
+      "editorial": {
+        "action": "Belfort holds a page and looks down at it in the office.",
+        "cues": [
+          "craft",
+          "focus",
+          "repetition"
+        ],
+        "mood": [],
+        "framing": "Source-native, crop per edit",
+        "fit": "A visible desk task behind a public role.",
+        "evidence": {
+          "status": "motion_review",
+          "coverage": "Targeted source interval"
+        }
+      },
+      "availability": "missing_locally"
+    },
+    {
+      "file": "05510560-players-move-on-outdoor-tennis-courts.mp4",
+      "source_start": 5510.546708333333,
+      "source_end": 5513.466291666667,
+      "duration": 2.919583333333333,
+      "silent": true,
+      "video_decoded": true,
+      "bytes": 8063646,
+      "tags": [
+        "repetition",
+        "focus",
+        "pressure"
+      ],
+      "review": "Targeted source-motion samples and decoded output",
+      "editorial": {
+        "action": "Several players move on adjacent outdoor tennis courts.",
+        "cues": [
+          "repetition",
+          "focus",
+          "pressure"
+        ],
+        "mood": [],
+        "framing": "Source-native, crop per edit",
+        "fit": "A literal, readable match setting for the tennis statistics.",
+        "evidence": {
+          "status": "motion_review",
+          "coverage": "Targeted source interval"
+        }
+      },
+      "availability": "missing_locally"
+    }
+  ]
+}
